@@ -1,0 +1,829 @@
+/* ===== Header (measured on the live site; see fidelity/specs) ===== */
+/* Spacer that keeps the header's room in the flow (the header itself is pinned/fixed on small screens). */
+.header-wrap {
+  height: 83.5px;
+}
+.site-header {
+  position: relative;
+  z-index: 999;
+  height: 83.5px;
+  background: #fff;
+  box-shadow: var(--shadow-header);
+}
+/* Above 1024px the header scrolls away and this fixed copy slides in (live: #elementor-header-top-sticky). */
+.site-header--sticky {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: -1;
+  opacity: 0;
+  visibility: hidden;
+  transform: translate(0, -140px);
+  transition: all 0.4s ease-out;
+}
+.site-header--sticky.visible {
+  z-index: 999;
+  opacity: 1;
+  visibility: visible;
+  transform: translate(0, 0);
+}
+.hdr-row {
+  display: flex;
+  gap: 10px;
+  height: 82.5px;
+  padding-left: 50px;
+}
+.hdr-logo {
+  flex: 0 0 calc(17.54% - 4.05px);
+  display: flex;
+  align-items: center;
+}
+.hdr-logo img {
+  display: block;
+  width: 80%;
+  height: auto;
+}
+.hdr-nav {
+  flex: 0 0 calc(64.958% - 15.69px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.hdr-cta {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+/* Theme `.btn-theme-colored1`: a navy fill slides in from the left on hover (500ms) behind the label. */
+.btn-cta,
+.btn-cyan {
+  position: relative;
+  z-index: 0;
+  overflow: hidden;
+  transition: all 0.2s ease-in-out;
+}
+.btn-cta::before,
+.btn-cyan::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background-color: var(--color-navy);
+  transform: scale(0, 1);
+  transform-origin: top right;
+  transition: transform 500ms cubic-bezier(0.86, 0, 0.07, 1);
+}
+.btn-cta:hover::before,
+.btn-cta:focus::before,
+.btn-cyan:hover::before,
+.btn-cyan:focus::before {
+  transform: scale(1, 1);
+  transform-origin: bottom left;
+}
+.btn-cta {
+  display: inline-block;
+  padding: 8px 19.2px;
+  border-radius: 10px;
+  background: var(--color-cyan);
+  color: #fff;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 16.8px;
+  letter-spacing: 0.6px;
+  text-transform: uppercase;
+}
+
+.menu {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.menu > li {
+  position: relative;
+  height: 82.5px;
+  display: flex;
+  align-items: center;
+}
+.menu > li > a {
+  display: block;
+  padding: 7px 16px;
+  font-size: 15px;
+  line-height: 28.5px;
+  color: #222;
+}
+.menu li:hover > a,
+.menu li:focus-within > a {
+  color: var(--color-cyan);
+}
+
+.dropdown {
+  position: absolute;
+  top: 82.5px;
+  left: 0;
+  z-index: 10;
+  display: none;
+  width: 260px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  background: #fcfcfc;
+  box-shadow: 1px 1px 35px 0 rgba(0, 0, 0, 0.08);
+}
+.menu li:hover > .dropdown,
+.menu li:focus-within > .dropdown {
+  display: block;
+}
+.dropdown li {
+  position: relative;
+}
+.dropdown a {
+  display: block;
+  padding: 12px 25px;
+  font-size: 14px;
+  line-height: 17.5px;
+  color: #333;
+  text-align: left;
+}
+.dropdown li:hover > a {
+  color: var(--color-cyan);
+}
+.dropdown .dropdown {
+  top: 0;
+  left: 100%;
+}
+.dropdown li.has-children > a::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 22px;
+  width: 7px;
+  height: 7px;
+  border-top: 1px solid #777;
+  border-right: 1px solid #777;
+  transform: translateY(-50%) rotate(45deg);
+}
+
+/* Hamburger + drawer (<= 1024px) */
+.hamburger,
+.m-overlay,
+.m-drawer {
+  display: none;
+}
+
+@media (max-width: 1024px) {
+  .site-header--sticky {
+    display: none;
+  }
+  .header-wrap {
+    height: 75.95px;
+  }
+  .site-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 75.95px;
+  }
+  .hdr-row {
+    height: 75.95px;
+    padding-left: 12px;
+    position: relative;
+  }
+  .hdr-nav,
+  .hdr-cta {
+    display: none;
+  }
+  .hdr-logo {
+    flex: none;
+    align-items: flex-start;
+    padding-top: 25px;
+  }
+  .hdr-logo img {
+    width: 155px;
+  }
+  .hamburger {
+    position: absolute;
+    top: 0;
+    right: 15px;
+    display: block;
+    width: 34px;
+    height: 100%;
+    padding: 0;
+    border: 0;
+    background: none;
+    cursor: pointer;
+  }
+  .hamburger span,
+  .hamburger span::before,
+  .hamburger span::after {
+    position: absolute;
+    left: 0;
+    display: block;
+    height: 2px;
+    background: #1b1b1b;
+  }
+  .hamburger span {
+    top: calc(50% - 1px);
+    width: 34px;
+  }
+  .hamburger span::before,
+  .hamburger span::after {
+    content: "";
+    left: 5px;
+    width: 24px;
+  }
+  .hamburger span::before {
+    top: -9px;
+  }
+  .hamburger span::after {
+    top: 9px;
+  }
+
+  /* Off-canvas menu: the live theme's `.tm-header-menu` (350px panel, 15px side padding, 55px + 10px above the logo). */
+  .m-overlay {
+    display: block;
+    position: fixed;
+    inset: 0;
+    z-index: 998;
+    background: rgba(0, 0, 0, 0.6);
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.25s cubic-bezier(0.645, 0.045, 0.355, 1), visibility 0.25s;
+  }
+  .m-overlay.is-open {
+    opacity: 1;
+    visibility: visible;
+  }
+  .m-drawer {
+    display: block;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 999;
+    width: 350px;
+    max-width: 100%;
+    padding: 65px calc(1rem + 10px) 0;
+    overflow-y: auto;
+    background: #fff;
+    box-shadow: rgba(0, 0, 0, 0.08) 0 0 15px 0;
+    transform: translateX(-100%);
+    visibility: hidden;
+    transition: transform 0.25s cubic-bezier(0.645, 0.045, 0.355, 1), visibility 0.25s;
+  }
+  .m-drawer.is-open {
+    transform: none;
+    visibility: visible;
+  }
+  .m-close {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 36px;
+    height: 36px;
+    padding: 0;
+    border: 9px solid transparent;
+    background: rgba(0, 0, 0, 0.03);
+    cursor: pointer;
+  }
+  .m-close::before,
+  .m-close::after {
+    content: "";
+    position: absolute;
+    top: 9px;
+    left: 0;
+    width: 18px;
+    height: 2px;
+    margin-top: -1px;
+    background: #1b1b1b;
+  }
+  .m-close::before {
+    transform: rotate(45deg);
+  }
+  .m-close::after {
+    transform: rotate(-45deg);
+  }
+  .m-logo {
+    display: block;
+    width: 250px;
+    height: auto;
+    margin: 0 0 35px; /* live: 30px under the logo + the list's own 5px (margins do not collapse there) */
+  }
+  .m-list,
+  .m-sub {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .m-list {
+    padding: 0 5px 5px;
+  }
+  .m-item {
+    position: relative;
+  }
+  .m-row {
+    position: relative;
+  }
+  .m-row a {
+    display: block;
+    padding: 12px 16px 12px 0;
+    border-bottom: 1px solid #f1f1f1;
+    background: #fff;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 26.6px;
+    text-transform: uppercase;
+    color: #111;
+    transition: 0.3s;
+  }
+  .m-list > .m-item:first-child > .m-row a {
+    border-top: 1px solid #f0f0f0;
+  }
+  .m-row a:hover {
+    color: var(--color-cyan);
+  }
+  .m-toggle {
+    position: absolute;
+    top: 13.5px;
+    right: 0;
+    width: 27px;
+    height: 27px;
+    padding: 0;
+    border: 0;
+    border-radius: 5px;
+    background: var(--color-navy);
+    color: #fff;
+    cursor: pointer;
+    transform: rotate(-90deg);
+  }
+  .m-toggle[aria-expanded="true"] {
+    background: var(--color-cyan);
+    transform: none;
+  }
+  /* linearicons "dropdown" glyph, like the live theme's `i.lnr-icon-dropdown` */
+  .m-toggle::before {
+    content: "\e00a";
+    display: block;
+    font-family: "linearicons-free";
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 12px;
+  }
+  .m-item.is-open > .m-row a {
+    color: var(--color-cyan);
+  }
+  .m-sub {
+    border: solid #f1f1f1;
+    border-width: 0 1px;
+    background: #fcfcfc;
+    box-shadow: rgba(0, 0, 0, 0.08) 1px 1px 35px 0;
+  }
+  .m-sub .m-row a {
+    padding: 12px 25px 12px 30px;
+    border-bottom: 1px solid #f1f1f1;
+    font-family: Inter, var(--font-sans);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17.5px;
+    text-transform: none;
+  }
+}
+/* The header's "Contact Us" button is on screen at 992-1024px, so the live drawer leaves that item out there. */
+@media (min-width: 992px) and (max-width: 1024px) {
+  .m-item.m-contact {
+    display: none;
+  }
+}
+/* Measured on the live site: compact header up to 991px, taller tablet header 992–1024px. */
+@media (max-width: 991px) {
+  .header-wrap {
+    height: 63.5px;
+  }
+  .site-header {
+    height: 63.5px;
+  }
+  .hdr-row {
+    height: 63.5px;
+  }
+  .hdr-row {
+    padding-left: 11.75px;
+  }
+  .hdr-logo {
+    padding-top: 15px;
+  }
+  .hdr-logo img {
+    width: 200px;
+  }
+}
+@media (max-width: 500px) {
+  .hdr-row {
+    padding-left: 11.27px;
+  }
+}
+
+/* ===== Cookie banner (measured on the live site) ===== */
+#cookie-banner {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 9999;
+  padding: 15px;
+  background: #222;
+  color: #fff;
+  text-align: center;
+}
+#cookie-banner button {
+  margin: 5px;
+  padding: 6px 12px;
+  border: 0;
+  border-radius: 0;
+  color: #fff;
+  font: inherit;
+  cursor: pointer;
+}
+#cookie-banner .btn-accept {
+  background: var(--color-cyan);
+}
+#cookie-banner .btn-reject {
+  background: #555;
+}
+#cookie-banner .btn-settings {
+  background: #999;
+}
+/* Settings panel — the live site's inline CSS, verbatim apart from the scoping. */
+#cookie-settings {
+  position: fixed;
+  bottom: 100px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 320px;
+  max-width: 90vw;
+  padding: 20px;
+  border-radius: 10px;
+  background: #fff;
+  color: #333;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+  z-index: 10000;
+}
+#cookie-settings h3 {
+  margin: 0 0 1rem;
+  padding: 10px;
+  border-radius: 6px;
+  background: #00bae0;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 20px;
+  text-align: center;
+}
+#cookie-settings p {
+  margin: 0 0 20px;
+  font-size: 16px;
+  line-height: 30.4px;
+  color: #000;
+}
+#cookie-settings .cookie-box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 6px;
+  background: #f7f7f7;
+}
+#cookie-settings .badge {
+  padding: 3px 8px;
+  border-radius: 12px;
+  background: #00bae0;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 12px;
+  text-align: center;
+}
+#cookie-settings .close-btn {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 6px;
+  background: #00bae0;
+  color: #fff;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+/* ===== Footer ===== */
+.ftr-links a[data-current="true"] {
+  color: var(--color-cyan);
+}
+.site-footer {
+  position: relative;
+  background: #0b334c url("/wp-assets/wp-content/uploads/2023/12/image-13-scaled.webp") center / cover no-repeat;
+  color: #000;
+  font-size: 15px;
+  line-height: 28.5px;
+}
+.ftr-grid {
+  display: grid;
+  grid-template-columns: 25% 1fr 1fr 1fr;
+  gap: 20px;
+  padding: 19.7px 30px 0;
+  min-height: 323.2px;
+}
+.ftr-brand img {
+  display: block;
+  width: 70%;
+  max-width: 280px;
+  height: auto;
+  margin-top: 0.3px; /* sub-pixel: the live logo sits 0.3px lower (text below is unchanged) */
+}
+.ftr-brand p {
+  margin: 7.9px 0 0;
+  font-size: 15px;
+  line-height: 26px;
+}
+/* The live link columns sit 0.28px lower than the brand column (sub-pixel text snapping). */
+.ftr-col:not(.ftr-brand) {
+  margin-top: 0.28px;
+}
+.ftr-col + .ftr-col:not(:last-child) {
+  padding-left: 4px;
+}
+.ftr-title {
+  font-size: 18px;
+  line-height: 34.2px;
+}
+.ftr-links {
+  margin: 8px 0 0;
+  padding: 0;
+  list-style: none;
+}
+.ftr-links li {
+  height: 28px;
+}
+.ftr-links a {
+  display: block;
+  margin-left: -16px;
+  padding-left: 18px;
+  font-size: 15px;
+  line-height: 40px;
+  height: 28px;
+  overflow: visible;
+}
+.ftr-contact {
+  margin-top: 8px;
+  padding-left: 0;
+  font-size: 15px;
+  line-height: 28.5px;
+}
+.ftr-social {
+  display: flex;
+  gap: 5px;
+  margin-top: 35px;
+}
+.ftr-social a {
+  display: grid;
+  place-items: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+}
+.ftr-copy {
+  padding: 0 0 30px;
+  text-align: center;
+  font-size: 14px;
+  line-height: 26.6px;
+}
+@media (max-width: 1024px) {
+  .ftr-grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 0;
+    min-height: 0;
+    padding-bottom: 65px;
+    row-gap: 0;
+  }
+  /* (the desktop nudges above were measured at >=1025px only) */
+  .ftr-social {
+    margin-top: 36px;
+  }
+  .ftr-copy {
+    padding-bottom: 31px;
+  }
+  .ftr-col + .ftr-col:not(:last-child) {
+    padding-left: 4px;
+  }
+  /* link pitch scales with width: 28px @1024 -> 27.2px @768 (measured) */
+  .ftr-links li,
+  .ftr-links a {
+    height: calc(27.2px + (100vw - 768px) * 0.003125);
+  }
+  .ftr-links a {
+    line-height: calc(39.2px + (100vw - 768px) * 0.003125);
+  }
+}
+@media (max-width: 767px) {
+  .ftr-grid {
+    grid-template-columns: 1fr;
+    padding: 38.9px 20px 0;
+  }
+  .ftr-brand {
+    padding-bottom: 15px;
+  }
+  .ftr-brand img {
+    margin-top: 1.1px;
+  }
+  .ftr-brand p {
+    margin-top: 19.95px;
+    font-size: 16px;
+  }
+  .ftr-col:not(.ftr-brand) {
+    margin-top: 0;
+    padding-bottom: 20px;
+  }
+  .ftr-col + .ftr-col:not(:last-child) {
+    padding-left: 4px;
+  }
+  .ftr-links {
+    margin-top: 8px;
+  }
+  /* 25.6px @390 -> 27.2px @767 (measured) */
+  .ftr-links li,
+  .ftr-links a {
+    height: calc(25.6px + (100vw - 390px) * 0.004233);
+  }
+  .ftr-links a {
+    line-height: calc(37.6px + (100vw - 390px) * 0.004233);
+  }
+  .ftr-grid {
+    padding-bottom: 74.98px;
+  }
+  .ftr-social {
+    margin-top: 34.95px;
+  }
+  .ftr-copy {
+    padding-bottom: 20.07px;
+  }
+  .ftr-contact {
+    margin-top: 20px;
+    font-size: 16px;
+    line-height: 30.4px;
+  }
+  /* 1-2px nudges from best-shift analysis in the loaded state */
+}
+
+/* Footer sub-pixel nudges (loaded-state analysis), kept last so they win over the earlier blocks. */
+@media (min-width: 992px) and (max-width: 1024px) {
+  .ftr-grid {
+    padding-bottom: 64.98px;
+  }
+  .ftr-col:nth-child(n + 3) {
+    margin-top: 0.04px;
+  }
+  .ftr-social {
+    margin-top: 35px;
+  }
+  .ftr-copy {
+    padding-bottom: 30px;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .ftr-brand img {
+    margin-top: 0.2px;
+  }
+  .ftr-brand p {
+    margin-top: 8px;
+  }
+  .ftr-grid {
+    padding-top: 19.8px;
+    padding-bottom: 65.03px;
+  }
+  .ftr-col:nth-child(n + 3) {
+    margin-top: 0.08px;
+  }
+  .ftr-social {
+    margin-top: 35px;
+  }
+  .ftr-copy {
+    padding-bottom: 30px;
+  }
+}
+
+/* ===== Scroll-to-top button (the live theme's .scroll-to-top, verbatim values) ===== */
+@font-face {
+  font-family: "linearicons-free";
+  src: url("/wp-assets/wp-content/themes/techon/assets/fonts/linear-icons/fonts/linearicons-free.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+.scroll-to-top {
+  display: none;
+}
+.scroll-to-top.is-shown {
+  display: block;
+  animation: scroll-top-in 0.4s ease both;
+}
+@keyframes scroll-top-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.scroll-to-top a {
+  position: fixed;
+  right: 15px;
+  bottom: 15px;
+  z-index: 99999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
+  height: 50px;
+  padding: 2px;
+  border-radius: 50%;
+  background-image: linear-gradient(to right, #00bae0 0%, #26daff 51%, #00bae0 100%);
+  background-size: 200% auto;
+  box-shadow: 0 7px 30px rgb(0 0 0 / 0.3);
+  opacity: 0.4;
+  text-align: center;
+  text-decoration: none;
+}
+.scroll-to-top a:hover {
+  opacity: 1;
+  background-position: right center;
+  box-shadow: 0 10px 20px rgb(0 186 224 / 0.5);
+}
+.scroll-to-top a i {
+  color: #fff;
+  font-family: "linearicons-free";
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1;
+}
+.scroll-to-top a i.lnr-arrow-up::before {
+  content: "\e877";
+}
+
+/* Live footer columns all start exactly 20px below the footer top (10px container padding + 10px margin). */
+@media (min-width: 992px) {
+  .ftr-grid {
+    padding-top: 20px;
+  }
+  .ftr-brand img {
+    margin-top: 0;
+  }
+  .ftr-col:not(.ftr-brand) {
+    margin-top: 0;
+  }
+}
+
+/* Live (mobile): the first footer row starts exactly 40px below the footer top. */
+@media (max-width: 767px) {
+  .ftr-grid {
+    padding-top: 40px;
+  }
+  .ftr-brand img {
+    margin-top: 0;
+  }
+  .ftr-brand {
+    padding-bottom: 15.07px;
+  }
+  .ftr-col:nth-child(2),
+  .ftr-col:nth-child(3) {
+    padding-bottom: 19.98px;
+  }
+  .ftr-contact {
+    margin-top: 20px;
+  }
+  .ftr-social {
+    margin-top: 35.01px;
+  }
+  .ftr-copy {
+    margin-top: 0.05px;
+    padding-bottom: 20.02px;
+  }
+}
+
+/* Pages where live renders the header logo inline (see WpPage): 1.2px lower on tablet/mobile, 5px at 992-1024. */
+@media (max-width: 991px) {
+  body:has(.logo-inline) .header-wrap,
+  body:has(.logo-inline) .site-header,
+  body:has(.logo-inline) .hdr-row {
+    height: 64.69px;
+  }
+  body:has(.logo-inline) .hdr-logo {
+    padding-top: 16.2px;
+  }
+}
+@media (min-width: 992px) and (max-width: 1024px) {
+  body:has(.logo-inline) .hdr-logo {
+    padding-top: 30px;
+  }
+}

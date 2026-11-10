@@ -1,0 +1,1037 @@
+{
+  "generatedAt": "2026-11-05T07:10:57.745Z",
+  "base": "https://techversantinfotech.com",
+  "count": 206,
+  "routes": [
+    {
+      "path": "/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/capabilities/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/career/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/contact-us/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/customer-stories/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/dpa/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/events/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/founder-ceo-of-techversant-joby-john-hyderabad-house-new-delhi-16-april-2026/",
+      "kind": "post",
+      "source": "rest:posts"
+    },
+    {
+      "path": "/industries/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/industries/agriculture-agritech/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/industries/education-learning/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/industries/energy-utilities/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/industries/financial-services-fintech/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/industries/healthcare-life-sciences/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/industries/hr-workforce-management/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/industries/logistics-transportation/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/industries/manufacturing-industrial-automation/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/industries/media-publishing/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/industries/real-estate-property-management/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/industries/retail-ecommerce/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/industries/smart-cities-infrastructure/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/industries/travel-tourism/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/jobs/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/account-manager-technology-and-solutions/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/ai-ml-engineer/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/associate-lead-software-engineer-java/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/business-development-associate/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/coldfusion-developer/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/data-engineer/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/data-scientist/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/lead-full-stack-developer-node-js-react/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/lead-full-stack-engineer-node-js-angular/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/principal-database-engineer/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/salesforce-associate-solution-architect/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/salesforce-functional-consultant/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/senior-ai-ml-engineer/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/senior-associate-talent-acquisition/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/senior-business-development-executive/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/senior-business-development-manager/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/senior-coldfusion-developer/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/senior-data-scientist/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/senior-database-engineer/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/senior-python-developer/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/senior-salesforce-developer-technical-consultant/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/senior-servicenow-developer-technical-consultant/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/senior-software-engineer-java/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/senior-software-engineer-net/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/senior-software-engineer-next-js/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/senior-software-engineer-node-js/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/senior-software-engineer-react-js/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/senior-technical-lead-architect/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/servicenow-architect-associate-architect/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/servicenow-functional-consultant/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/software-engineer-java/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/team-lead-ai-ml/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/team-lead-coldfusion/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/team-lead-net/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/technical-architect-ai-ml/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/technical-architect-python/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/technical-lead-java/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/technical-lead-net/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/technical-lead-python/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/technical-program-manager-tpm/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/technical-recruitment-lead/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/ui-ux-designer/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/ux-associate-lead/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/jobs/web-developer/",
+      "kind": "job",
+      "source": "awsm_job_openings-sitemap.xml"
+    },
+    {
+      "path": "/joby-john-founder-ceo-of-techversant-at-the-india-canada-ceo-forum-new-delhi-2-march-2026/",
+      "kind": "post",
+      "source": "rest:posts"
+    },
+    {
+      "path": "/joby-john-founder-ceo-of-techversant-hyderabad-house-new-delhi-16-april-2026/",
+      "kind": "post",
+      "source": "rest:posts"
+    },
+    {
+      "path": "/joby-john-founder-ceo-of-techversant-indian-industry-delegation-canada-may-2026/",
+      "kind": "post",
+      "source": "rest:posts"
+    },
+    {
+      "path": "/news/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/privacy-policy/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/project/uncategorized/",
+      "kind": "category",
+      "source": "category-sitemap.xml"
+    },
+    {
+      "path": "/projects/a-mobile-friendly-platform-for-trend-analysis-and-route-planning/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/a-scalable-salon-management-platform/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/a-social-network-for-short-film-collaboration-and-showcase/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/advancing-agriculture-with-a-certified-seed-management-platform/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/agri-iot-device/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/agri-tech-platform-with-microfinance-and-project-monitoring/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/ai-driven-gpc-code-prediction/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/ai-driven-proctoring-solution/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/ai-enhanced-product-inventory-tracking-automation/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/ai-powered-cybersecurity/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/ai-powered-medical-records-automation/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/ai-powered-social-media-sentiment-analysis/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/automated-rooftop-solar-project-estimates-with-editable-projections/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/automatic-calling-system/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/blockchain-backed-property-management-platform/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/building-homes-building-trust-csr-housing-property-management-system/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/centralized-authentication-service-for-securing-microservices/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/connecting-medical-professionals-with-opportunities/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/deep-learning-model-for-product-logo-detection/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/digital-banking-platform-for-fintech-partners/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/digitizing-safety-compliance-for-high-risk-work-environments/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/driving-efficiency-in-telecom-operations-crm-billing-solution/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/dynamic-form-builder-and-runtime-platform/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/e-commerce-price-comparison/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/e-learning-platform-for-structured-and-scalable-training/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/elevating-e-commerce-with-seamless-enhancements/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/empowering-wealth-creation-with-a-next-gen-investment-platform/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/enabling-smarter-real-estate-decisions-educational-property-portal/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/enhancing-workforce-engagement-with-a-smart-feedback-platform/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/enterprise-hr-management-portal-for-digital-workforce-operations/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/evento/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/exploring-the-world-adventure-sports-travel-platform/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/farm-to-table-product-traceability-platform/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/guiding-communities-through-digital-connection/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/healthcare-e-learning-platform/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/heavy-vehicle-risk-assessment-platform/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/image-capture-validation-platform/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/industrial-iot-platform-for-energy-monitoring/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/iot-and-ai-powered-oil-gas-facility-management-system/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/knowledge-dissemination-and-collaboration-platform/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/lora-based-sensor-data-acquisition-system/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/lung-cancer-detection/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/menu-app/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/micro-loan-processing-platform/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/mlm-network-visualizer/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/modernizing-fleet-risk-management-with-a-driver-intelligence-platform/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/modernizing-healthcare-workflows-with-ai-powered-clinical-management/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/modernizing-vacation-rentals-with-a-scalable-net-powered-booking-platform/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/multimedia-enabled-learning-companion/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/music-distribution-saas-platform/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/ocph-roh-retail-platforms/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/optimizing-enterprise-workflows-with-a-service-request-management-system/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/optimizing-urban-mobility-ai-powered-smart-traffic-management-system/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/optimizing-veterinary-care-with-a-smart-scheduling-platform/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/pdf-convertor/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/pension-distributor/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/pension-verification-disbursal-application/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/real-estate-surveyor-platform-streamlining-property-inspections-bookings/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/real-time-risk-management-middleware-for-traders/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/resume-builder-web-application/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/retail-fashion-engagement-platform/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/revolutionizing-on-demand-transportation/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/revolutionizing-product-intake-with-a-dynamic-workflow-solution/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/revolutionizing-urban-mobility-ai-powered-smart-parking-management-system/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/roofarea-detection/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/scaling-digital-rentals-with-a-full-service-property-management-platform/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/seamless-fitness-booking-payment-platform-for-health-clubs/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/secure-lead-retrieval-system-a-devops-enhanced-solution-for-event-management/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/secure-license-management/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/securing-utility-ecosystems-centralized-authentication-authorization-server/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/streamlining-agricultural-trade-ai-enabled-agritech-e-commerce-platform/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/streamlining-digital-learning-and-classroom-management-for-educational-institutions/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/streamlining-healthcare-with-an-advanced-records-platform/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/streamlining-hospitality-operations-restaurant-management-system/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/streamlining-media-processingserverless-video-conversion-platform/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/the-unified-church-engagement-platform/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/transforming-campus-sustainability-ai-powered-smart-waste-management-system/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/transforming-higher-education-ai-powered-smart-university-city-system/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/transforming-wound-care-with-ai-powered-diagnosis/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/urban-infrastructure-management-system/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/video-marketing-platform-for-golf-courses/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/web-crawler-for-compliance-auditing/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/workplace-safety-companion-app-mobile-solution-for-compliance-on-the-go/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/projects/yacht-matching-and-client-management-for-brokers-and-inter-brokers/",
+      "kind": "project",
+      "source": "projects-sitemap.xml"
+    },
+    {
+      "path": "/services/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/services/artificial-intelligence/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/services/blockchain/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/services/business-intelligence/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/services/cyber-security/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/services/data-science-engineering/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/services/devops/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/services/iot-development/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/services/it-consulting-support/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/services/mobile-application/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/services/quality-assurance/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/services/saas/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/services/salesforce/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/services/servicenow/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/services/web-application/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/services/zoho-services/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/talent-acquisition/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/technology/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/technology/agentic-ai/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/technology/android/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/technology/angular/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/technology/aws/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/technology/azure/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/technology/coldfusion/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/technology/computer-vision/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/technology/docker/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/technology/dot-net/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/technology/flutter-app-development/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/technology/go-development-services/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/technology/google-cloud-platform-services/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/technology/ios-app-development/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/technology/java-development-services/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/technology/kotlin-app-development/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/technology/kubernetes-consulting-services/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/technology/moodle-development-services/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/technology/natural-language-processing-solutions/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/technology/node-js-development-services/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/technology/objective-c-development-services/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/technology/php/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/technology/pythonpython-development-services/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/technology/pytorch-development-services/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/technology/react-js-development-services/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/technology/react-native-development-services/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/technology/swift-app-development/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/technology/tensorflow-development-services/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/technology/ui-ux-design-services/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    },
+    {
+      "path": "/techversant-hosts-the-team-from-baverian-state-ministry-feb-2026/",
+      "kind": "post",
+      "source": "rest:posts"
+    },
+    {
+      "path": "/techversant-is-iso-270012022-certified-and-gdpr-compliant/",
+      "kind": "post",
+      "source": "rest:posts"
+    },
+    {
+      "path": "/who-we-are/",
+      "kind": "page",
+      "source": "page-sitemap.xml"
+    }
+  ]
+}

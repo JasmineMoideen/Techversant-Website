@@ -1,0 +1,258 @@
+/* Shared section primitives + the contact block (measured on the live site at 1440 / 390). */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.eyebrow {
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  width: 173.7px;
+  margin: 0 auto;
+  padding-top: 20px;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 18.2px;
+  letter-spacing: 1.3px;
+  text-transform: uppercase;
+  color: #000;
+}
+.eyebrow img {
+  display: block;
+  width: 29px;
+  height: 14px;
+  margin: 2px 10px 0 0;
+}
+.sec-title {
+  margin: 0;
+  font-size: 35px;
+  font-weight: 500;
+  line-height: 35px;
+  letter-spacing: -0.64px;
+  text-align: center;
+  color: #000;
+}
+
+.contact-sec {
+  padding: 0 0 70px;
+}
+.contact-title {
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+}
+.contact-row {
+  display: flex;
+  width: 100%;
+  max-width: 1230px;
+  margin: 0 auto;
+}
+.contact-img {
+  flex: 1 1 50%;
+  /* live: the photo column stretches with the form, which grows when Contact Form 7 shows its validation messages */
+  min-height: 436px;
+  background: center / cover no-repeat;
+}
+.cf {
+  /* gaps after the controls (also what the validation tips pull themselves up into, see .wpcf7-not-valid-tip) */
+  --m-input: 1rem;
+  --m-area: 1.25rem;
+  --m-terms: calc(1.3125rem + 0.36px);
+  flex: 1 1 50%;
+  min-height: 436px;
+  padding: 30px 60px 40px;
+}
+.cf-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+.cf input:not([type="checkbox"]):not([type="submit"]),
+.cf textarea {
+  display: block;
+  width: 100%;
+  height: 50px;
+  margin: 0 0 var(--m-input); /* rem, like the live form: the root size scales with the viewport (15.04px @390) */
+  padding: 14px 20px;
+  border: 1px solid rgba(241, 238, 246, 0.5);
+  border-radius: 4px;
+  background: #f6f6f6;
+  color: #686a6f;
+  font: 400 14px/21px var(--font-sans);
+  outline: 0;
+}
+.cf-row input {
+  margin-bottom: 0 !important;
+}
+.cf ::placeholder {
+  color: #686a6f;
+  opacity: 1;
+}
+.cf textarea {
+  height: 115px;
+  padding-top: 15px;
+  margin-bottom: var(--m-area);
+  resize: vertical;
+}
+.cf-terms {
+  display: block;
+  margin: 0 0 var(--m-terms);
+  padding-left: 1rem;
+  line-height: 21px;
+  color: #000;
+}
+.cf-terms input {
+  width: 13px;
+  height: 13px;
+  margin: 0;
+}
+.cf-terms a {
+  color: #352f27;
+  text-decoration: underline;
+}
+/* Contact Form 7's own states (contact-form-7/css/styles.css on the live site). */
+.cf .wpcf7-form-control-wrap {
+  position: relative;
+}
+.cf .wpcf7-not-valid-tip {
+  display: block;
+  /* Live puts the tip right under the control, then the usual gap: pull up into the control's bottom margin and
+     give the same gap back after the tip. */
+  margin: calc(var(--tip-shift, 0px) - var(--tip-m, 0px)) 0 calc(var(--tip-m, 0px) - var(--tip-shift, 0px));
+  color: #dc3232;
+  font-size: 1em;
+  font-weight: 400;
+}
+.cf [data-name="your-email"] {
+  --tip-m: var(--m-input);
+}
+.cf [data-name="your-message"] {
+  --tip-m: var(--m-area);
+}
+.cf [data-name="terms"] {
+  --tip-m: var(--m-terms);
+  --tip-shift: 5.39px; /* the live label line box is taller than mine, so its tip starts lower (measured) */
+}
+.cf .wpcf7-response-output {
+  margin: 2em 0.5em 1em;
+  padding: 0.2em 1em;
+  border: 2px solid #00a0d2;
+}
+.cf.sent .wpcf7-response-output {
+  border-color: #46b450;
+}
+.cf.failed .wpcf7-response-output {
+  border-color: #dc3232;
+}
+.cf.invalid .wpcf7-response-output {
+  border-color: #ffb900;
+}
+.cf-submit {
+  transition: all 0.2s ease-in-out;
+  display: block;
+  width: 100%;
+  padding: 1.2rem 3.2rem;
+  border: 0;
+  border-radius: 10px;
+  background: var(--color-navy);
+  color: #fff;
+  font: 600 13px/18.2px var(--font-sans);
+  letter-spacing: 0.65px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+.cf-submit:hover,
+.cf-submit:focus {
+  background: var(--color-cyan); /* theme: input[type=submit].btn-theme-colored2:hover */
+}
+
+/* Tablet: the photo is hidden and the form spans the container. */
+@media (max-width: 1024px) {
+  .contact-sec {
+    padding: 200px 0 80px;
+  }
+  .contact-img {
+    display: none;
+  }
+  .contact-row {
+    max-width: none;
+    width: calc(100% - 32px);
+  }
+  .cf {
+    min-height: 0;
+    padding-bottom: 40.02px; /* room the live form keeps for the Contact Form 7 response box */
+  }
+}
+@media (max-width: 991px) {
+  .contact-sec {
+    padding-top: 199.83px;
+    padding-bottom: 81.56px;
+  }
+  .cf {
+    --m-area: calc(1.25rem + 0.1px);
+    --m-terms: calc(1.3125rem - 0.12px);
+  }
+  .cf [data-name="terms"] {
+    --tip-shift: 4.78px;
+  }
+  .cf {
+    padding-bottom: 38.45px;
+  }
+  .contact-row {
+    width: calc(100% - 32.2px);
+  }
+}
+@media (max-width: 767px) {
+  .contact-sec {
+    padding: 94.92px 0 0;
+  }
+  .cf {
+    --m-terms: calc(1.3125rem + 1.86px);
+    --m-area: calc(1.25rem - 1.75px);
+  }
+  .cf-terms {
+    /* live: the label is an inline-block with the page's 1.9 line height, two lines in the fixed 357.5px column; its
+       tip follows it directly and the same 15px gap comes after the label / tip */
+    line-height: 28.576px;
+    margin: -2.01px 0 15.02px;
+  }
+  .cf-row .wpcf7-form-control-wrap {
+    --tip-m: 1rem; /* phone widths: the name/phone inputs carry the 1rem gap too */
+  }
+  .cf [data-name="terms"] {
+    --tip-m: 15.02px;
+    --tip-shift: 0px;
+  }
+  .contact-img {
+    display: block;
+    flex: none;
+    height: 250px;
+    min-height: 0;
+  }
+  .contact-row {
+    flex-direction: column;
+    width: calc(100% + 0.5rem - 40px);
+    max-width: none;
+  }
+  .cf {
+    flex: none;
+    min-height: 0;
+    padding: 20px 10px 20.04px;
+  }
+  .cf-row {
+    grid-template-columns: 1fr;
+    gap: 0;
+    margin-bottom: 0;
+  }
+  .cf-row input {
+    margin-bottom: 1rem !important;
+  }
+}

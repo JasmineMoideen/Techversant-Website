@@ -1,0 +1,14 @@
+/* Tailwind is used for its theme variables (@theme tokens) and preflight only. Utilities are NOT imported: the
+   components have their own CSS, and auto-detected candidates such as `collapse` would emit utilities that
+   clash with the WordPress theme classes of the same name. */
+@layer theme, base, components, utilities;
+@import "tailwindcss/theme.css" layer(theme);
+/* Preflight guarded so it does not apply inside WordPress pages (.wp-page): see scripts/build/preflight.ts */
+@import "../styles/preflight.css" layer(base);
+@import "../styles/fonts.css";
+@import "../styles/tokens.css";
+@import "../styles/base.css";
+@import "../styles/shell.css";
+@import "../styles/sections.css";
+@import "../styles/home.css";
+@import "../styles/home-sections.css";

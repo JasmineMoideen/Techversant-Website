@@ -1,0 +1,14 @@
+$ tsx scripts/snapshot/css.ts
+206 pages, 299 unique stylesheets (287 to download)
+25/287
+50/287
+75/287
+100/287
+125/287
+150/287
+175/287
+200/287
+225/287
+250/287
+275/287
+done: 6.0 MB across 299 files

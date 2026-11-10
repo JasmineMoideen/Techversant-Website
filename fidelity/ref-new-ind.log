@@ -1,0 +1,5 @@
+$ tsx scripts/capture/capture.ts --routes /industries/healthcare-life-sciences/ --viewports 1440,390 --out fidelity/ref-new
+capture 2 screenshots (1 routes x 2 viewports) from https://techversantinfotech.com -> fidelity/ref-new | chrome 156.0.8078.73
+[w1] 1440 /industries/healthcare-life-sciences/                      h=5705 img=19/0 broken, swipers=0, video=- (11862 ms)
+[w2]  390 /industries/healthcare-life-sciences/                      h=11186 img=19/0 broken, swipers=0, video=- (55350 ms)
+done: 2/2 captured. manifest: fidelity/ref-new/manifest.json

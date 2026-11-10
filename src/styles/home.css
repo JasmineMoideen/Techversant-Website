@@ -1,0 +1,320 @@
+/* ===== Home hero (measured: video height = 48.39vw from 992px up; separate mobile module below) ===== */
+.hero {
+  position: relative;
+  overflow: hidden;
+  background: #000;
+}
+.hero video {
+  display: block;
+  width: 100%;
+  object-fit: cover;
+}
+.hero .hero-d {
+  height: 48.39vw;
+}
+.hero .hero-m {
+  display: none;
+}
+/* The header overlays the hero from 992px up (hero starts at y=0); WordPress pages with the theme's transparent
+   header do the same (`.header-overlay`). */
+@media (min-width: 992px) {
+  body:has(.hero, .header-overlay) .header-wrap {
+    margin-bottom: -83.5px;
+  }
+}
+@media (min-width: 992px) and (max-width: 1024px) {
+  /* At 992-1024px every page sits under the header (tablet-landscape header is out of flow on the live site). */
+  body:has(.hero, .header-overlay, .wp-page) .header-wrap {
+    margin-bottom: -75.95px;
+  }
+  /* Tablet width: the live site shows the mobile module's video, at the desktop aspect ratio. */
+  .hero .hero-d {
+    display: none;
+  }
+  .hero .hero-m {
+    display: block;
+    height: 48.39vw;
+  }
+}
+@media (max-width: 991px) {
+  .hero .hero-d {
+    display: none;
+  }
+  .hero .hero-m {
+    display: block;
+    height: calc(100vw * 1.2339);
+  }
+}
+@media (max-width: 480px) {
+  .hero .hero-m {
+    height: calc(100vw * 1.2083);
+  }
+}
+
+/* ===== Section title (shared) ===== */
+.eyebrow-fit {
+  width: auto;
+  margin: 0;
+}
+.stitle-left .sec-title {
+  margin: 8px 0 0;
+  text-align: left;
+}
+.stitle-center .eyebrow-fit {
+  margin: 0 auto;
+  width: fit-content;
+}
+
+/* ===== Who we are (measured at 1440: row y=797, 2 x 600px columns in a 1230px container) ===== */
+.who {
+  padding: 100px 0 0;
+}
+.who-row {
+  display: flex;
+  height: 495px;
+  gap: 30px;
+  width: 100%;
+  max-width: 1230px;
+  margin: 0 auto;
+}
+.who-left,
+.who-right {
+  flex: 0 0 600px;
+  width: 600px;
+}
+.who-right {
+  height: 495px;
+  border-radius: 15px;
+  background: center / contain no-repeat;
+}
+.who-body {
+  display: flex;
+  gap: 15px;
+  margin-top: 33px;
+}
+.who-img {
+  display: block;
+  flex: none;
+  width: 292.5px;
+  height: 380px;
+  border-radius: 15px;
+  background: var(--img) center / cover no-repeat;
+}
+.who-list {
+  flex: 0 0 292.5px;
+  width: 292.5px;
+  margin: 0;
+  padding: 5px 0 0;
+  list-style: none;
+}
+.who-list li {
+  margin-bottom: 20px;
+}
+.ib {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.ib-icon {
+  display: grid;
+  flex: none;
+  place-items: center;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background: var(--color-cyan);
+}
+.ib-title {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 25px;
+  color: #000;
+}
+.ib-text {
+  margin: 10px 0 0;
+  font-size: 16px;
+  line-height: 25px;
+  color: #000;
+}
+
+/* ===== Client logos (PowerPack logo carousel: Swiper, slides 232.5px wide + 100px gap, 4 visible in the 1230px container) =====
+   Written in the state Swiper computes (slide width / margin-right), so nothing moves when it initialises. */
+.logos {
+  padding-top: 125px;
+}
+.logos-track {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  max-width: 1230px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+.logos-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  box-sizing: content-box;
+  transition-property: transform;
+}
+.logos-slide {
+  position: relative;
+  display: flex;
+  flex: none;
+  align-items: center;
+  width: 232.5px;
+  margin-right: 100px;
+}
+.logos-slide img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+@media (max-width: 1024px) {
+  .logos {
+    padding-top: 0;
+  }
+  .logos-track {
+    width: calc(100% - 32px);
+  }
+  .logos-slide {
+    width: calc((100% - 30px) / 4);
+    margin-right: 10px;
+  }
+}
+@media (max-width: 991px) {
+  .logos-track {
+    width: calc(100% - 32.2px);
+  }
+  .logos-slide {
+    width: calc((100% - 20px) / 3);
+  }
+}
+@media (max-width: 767px) {
+  .logos {
+    padding-top: 75px;
+  }
+  .logos-track {
+    width: calc(100% - 32.5px);
+  }
+  .logos-slide {
+    width: calc((100% - 25px) / 2);
+    margin-right: 25px;
+  }
+}
+
+/* Who we are, tablet + mobile: single column (collage hidden), image + icon boxes wrap at 49% each (measured at 1024/768/390). */
+@media (max-width: 1024px) {
+  .who {
+    overflow-x: clip;
+  }
+  .who-row {
+    display: flow-root;
+    height: auto;
+    width: calc(100% - 12px);
+    max-width: none;
+    padding: 10px 0;
+  }
+  .who-left {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: auto;
+    margin: 100px 0 0;
+    padding: 0 10px;
+    overflow: visible;
+  }
+  .who-right {
+    display: none;
+  }
+  .who-left .stitle-left .sec-title {
+    margin: 4.2px 0 10px;
+    line-height: 42px;
+  }
+  .who-left .eyebrow img {
+    margin-top: 2.7px;
+  }
+  .who-body {
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-top: 0;
+  }
+  .who-img {
+    flex: none;
+    width: 49%;
+    height: auto;
+    min-height: 380px;
+  }
+  .who-list {
+    flex: none;
+    width: 49%;
+    margin-top: 20px;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+    text-align: center;
+  }
+  .who-list li {
+    margin: 0;
+  }
+  .ib {
+    display: block;
+  }
+  .ib-icon {
+    margin: 0 auto 15px;
+  }
+}
+@media (max-width: 991px) {
+  .who-row {
+    width: calc(100% - 12.2px);
+  }
+  .who-left .stitle-left .sec-title {
+    margin-top: 3.6px;
+  }
+}
+@media (max-width: 767px) {
+  .who {
+    padding-top: 0;
+  }
+  .who-row {
+    /* live: every top-level container is the viewport + 0.5rem wide, shifted left by 0.25rem (rem is fluid) */
+    width: calc(100% + 0.5rem);
+    margin-left: -0.25rem;
+    padding: 0;
+  }
+  .who-left {
+    margin-top: 20px;
+    padding: 0 20px;
+  }
+  .who-left .stitle-left {
+    text-align: center;
+  }
+  .who-left .stitle-left .eyebrow-fit {
+    width: fit-content;
+    margin: 0 auto;
+  }
+  .who-left .stitle-left .sec-title {
+    margin-top: 3.3px;
+    text-align: center;
+  }
+  .who-img {
+    width: 100%;
+    min-height: 0;
+    height: 300px;
+    background-image: var(--img-m);
+  }
+  .who-list {
+    width: 100%;
+    align-items: stretch;
+  }
+  .ib-icon {
+    margin-bottom: 20px;
+  }
+  .ib-title {
+    font-size: 16px;
+  }
+}

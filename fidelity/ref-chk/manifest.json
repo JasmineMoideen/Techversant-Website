@@ -1,0 +1,62 @@
+{
+  "base": "https://techversantinfotech.com",
+  "chrome": "156.0.8078.73",
+  "capturedAt": "2026-11-06T14:30:02.087Z",
+  "entries": [
+    {
+      "route": "/",
+      "width": 390,
+      "file": "_home/390.png",
+      "status": 200,
+      "title": "AI Solutions Company | Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 9503,
+        "imagesTotal": 47,
+        "imagesBroken": 0,
+        "swipers": 2,
+        "videos": [
+          {
+            "ready": 4,
+            "paused": true,
+            "w": 390,
+            "h": 471
+          }
+        ]
+      },
+      "ms": 58718
+    },
+    {
+      "route": "/events/",
+      "width": 390,
+      "file": "events/390.png",
+      "status": 200,
+      "title": "Events - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 5441,
+        "imagesTotal": 11,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 8889
+    },
+    {
+      "route": "/news/",
+      "width": 390,
+      "file": "news/390.png",
+      "status": 200,
+      "title": "News - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 5652,
+        "imagesTotal": 11,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 8145
+    }
+  ]
+}

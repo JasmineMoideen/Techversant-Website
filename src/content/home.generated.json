@@ -1,0 +1,457 @@
+{
+ "projects": [
+  {
+   "href": "/projects/streamlining-agricultural-trade-ai-enabled-agritech-e-commerce-platform/",
+   "title": "Streamlining Agricultural Trade: AI-Enabled AgriTech E-commerce Platform",
+   "excerpt": "The AgriTech E-commerce Platform is a robust solution designed",
+   "img": "2025/09/image-61-550x550.webp",
+   "alt": "Streamlining Agricultural Trade: AI-Enabled AgriTech E-commerce Platform"
+  },
+  {
+   "href": "/projects/real-estate-surveyor-platform-streamlining-property-inspections-bookings/",
+   "title": "Real Estate Surveyor Platform: Streamlining Property Inspections & Bookings",
+   "excerpt": "Developed a cross-platform property surveyor and booking platform",
+   "img": "2025/09/image-69.webp",
+   "alt": "Real Estate Surveyor Platform: Streamlining Property Inspections & Bookings"
+  },
+  {
+   "href": "/projects/streamlining-healthcare-with-an-advanced-records-platform/",
+   "title": "Streamlining Healthcare with an Advanced Records Platform",
+   "excerpt": "Techversant partnered with a leading healthcare provider to develop",
+   "img": "2025/08/image-40.webp",
+   "alt": "Streamlining Healthcare with an Advanced Records Platform"
+  }
+ ],
+ "promoBoxes": [
+  {
+   "y": 2667,
+   "x": 105,
+   "w": 605,
+   "href": "/industries/healthcare-life-sciences/",
+   "img": "2025/02/cheerful-doctor-with-tablet-scaled.webp",
+   "titleHtml": "Healthcare &amp; <br>Life Sciences",
+   "title": "Healthcare & Life Sciences",
+   "hidden": []
+  },
+  {
+   "y": 2667,
+   "x": 730,
+   "w": 293,
+   "href": "/industries/financial-services-fintech/",
+   "img": "2025/02/payment-goods-by-credit-card-via-smartphone-scaled.webp",
+   "titleHtml": "Financial Services &amp; <br>Fintech",
+   "title": "Financial Services & Fintech",
+   "hidden": []
+  },
+  {
+   "y": 2667,
+   "x": 1043,
+   "w": 293,
+   "href": "/industries/education-learning/",
+   "img": "2025/05/learning-education-ideas-insight-intelligence-study-concept-scaled.webp",
+   "titleHtml": "Education &amp; <br>Learning",
+   "title": "Education & Learning",
+   "hidden": []
+  },
+  {
+   "y": 2932,
+   "x": 105,
+   "w": 293,
+   "href": "/retail-ecommerce/",
+   "img": "2025/06/1111.webp",
+   "titleHtml": "Retail &amp; <br>eCommerce",
+   "title": "Retail & eCommerce",
+   "hidden": []
+  },
+  {
+   "y": 2932,
+   "x": 418,
+   "w": 293,
+   "href": "/industries/real-estate-property-management/",
+   "img": "2025/05/set-designer-work-indoors-scaled.webp",
+   "titleHtml": "Real Estate &amp; Property Management",
+   "title": "Real Estate & Property Management",
+   "hidden": []
+  },
+  {
+   "y": 2932,
+   "x": 730,
+   "w": 605,
+   "href": "/industries/hr-workforce-management/",
+   "img": "2025/05/woman-selecting-pictures-people-scaled.webp",
+   "titleHtml": "HR &amp; Workforce Management",
+   "title": "HR & Workforce Management",
+   "hidden": []
+  },
+  {
+   "y": 5753,
+   "x": 0,
+   "w": 0,
+   "href": "/industries/healthcare-life-sciences/",
+   "img": "2025/02/cheerful-doctor-with-tablet-scaled.webp",
+   "titleHtml": "Healthcare &amp; <br>Life Sciences",
+   "title": "Healthcare & Life Sciences",
+   "hidden": []
+  },
+  {
+   "y": 5753,
+   "x": 0,
+   "w": 0,
+   "href": "/industries/financial-services-fintech/",
+   "img": "2025/02/payment-goods-by-credit-card-via-smartphone-scaled.webp",
+   "titleHtml": "Financial Services &amp; <br>Fintech",
+   "title": "Financial Services & Fintech",
+   "hidden": []
+  },
+  {
+   "y": 5753,
+   "x": 0,
+   "w": 0,
+   "href": "/industries/education-learning/",
+   "img": "2025/05/learning-education-ideas-insight-intelligence-study-concept-scaled.webp",
+   "titleHtml": "Education &amp; <br>Learning",
+   "title": "Education & Learning",
+   "hidden": []
+  },
+  {
+   "y": 5753,
+   "x": 0,
+   "w": 0,
+   "href": "/industries/retail-ecommerce/",
+   "img": "2025/06/1111.webp",
+   "titleHtml": "Retail &amp; <br>eCommerce",
+   "title": "Retail & eCommerce",
+   "hidden": []
+  },
+  {
+   "y": 5753,
+   "x": 0,
+   "w": 0,
+   "href": "/industries/real-estate-property-management/",
+   "img": "2025/05/set-designer-work-indoors-scaled.webp",
+   "titleHtml": "Real Estate &amp; Property Management",
+   "title": "Real Estate & Property Management",
+   "hidden": []
+  },
+  {
+   "y": 5753,
+   "x": 0,
+   "w": 0,
+   "href": "/industries/hr-workforce-management/",
+   "img": "2025/05/woman-selecting-pictures-people-scaled.webp",
+   "titleHtml": "HR &amp; Workforce Management",
+   "title": "HR & Workforce Management",
+   "hidden": []
+  },
+  {
+   "y": 3542,
+   "x": 105,
+   "w": 289,
+   "href": "/services/artificial-intelligence/",
+   "img": "2025/01/Rectangle-37.webp",
+   "titleHtml": "Artificial <br>Intelligence",
+   "title": "Artificial Intelligence",
+   "hidden": []
+  },
+  {
+   "y": 3542,
+   "x": 419,
+   "w": 289,
+   "href": "/services/web-application/",
+   "img": "2025/03/3d-rendering-website-hosting-concept-scaled.webp",
+   "titleHtml": "Web Application",
+   "title": "Web Application",
+   "hidden": []
+  },
+  {
+   "y": 3542,
+   "x": 733,
+   "w": 289,
+   "href": "/services/mobile-application/",
+   "img": "2025/01/Rectangle-2788.webp",
+   "titleHtml": "Mobile <br>Application",
+   "title": "Mobile Application",
+   "hidden": []
+  },
+  {
+   "y": 3542,
+   "x": 1046,
+   "w": 289,
+   "href": "/industries/it-consulting-support/",
+   "img": "2025/01/Rectangle-37-2.webp",
+   "titleHtml": "IT Consulting &amp; <br>Support",
+   "title": "IT Consulting & Support",
+   "hidden": [
+    "elementor-hidden-mobile"
+   ]
+  },
+  {
+   "y": 3817,
+   "x": 105,
+   "w": 289,
+   "href": "/services/data-science-engineering/",
+   "img": "2025/01/Rectangle-175.webp",
+   "titleHtml": "Data Science &amp; <br>Engineering",
+   "title": "Data Science & Engineering",
+   "hidden": []
+  },
+  {
+   "y": 3817,
+   "x": 419,
+   "w": 289,
+   "href": "/services/cyber-security/",
+   "img": "2025/01/3d-internet-secuirty-badge-1.webp",
+   "titleHtml": "Cyber <br>Security",
+   "title": "Cyber Security",
+   "hidden": [
+    "elementor-hidden-mobile"
+   ]
+  },
+  {
+   "y": 3817,
+   "x": 733,
+   "w": 289,
+   "href": "/services/business-intelligence/",
+   "img": "2025/01/Rectangle-2878.webp",
+   "titleHtml": "Business<br>Intelligence",
+   "title": "BusinessIntelligence",
+   "hidden": []
+  },
+  {
+   "y": 3817,
+   "x": 1046,
+   "w": 289,
+   "href": "/services/quality-assurance/",
+   "img": "2025/03/concept-iso-based-quality-control-including-cogandwheel-assurance-guarantee-system-scaled.webp",
+   "titleHtml": "Quality <br>Assurance",
+   "title": "Quality Assurance",
+   "hidden": []
+  }
+ ],
+ "seeMore": [
+  {
+   "y": 2381,
+   "href": "/customer-stories/",
+   "text": "See More",
+   "html": " <span> See More </span>"
+  },
+  {
+   "y": 3202,
+   "href": "/industries/",
+   "text": "See More",
+   "html": " <span> See More </span>"
+  },
+  {
+   "y": 5753,
+   "href": "/industries/",
+   "text": "See More",
+   "html": " <span> See More </span>"
+  },
+  {
+   "y": 4077,
+   "href": "/services/",
+   "text": "See More",
+   "html": " <span> See More </span>"
+  }
+ ],
+ "titles": [
+  {
+   "y": 797,
+   "cls": "tm-sc-section-title section-title line-left-current-theme ",
+   "sub": "<img loading=\"lazy\" decoding=\"async\" src=\"https://techversantinfotech.com/wp-content/uploads/2025/01/Group-40310.png\" alt=\"arrow\" class=\"arrowImg\" width=\"29\" height=\"14\" title=\"Home 17\">Who we are",
+   "title": "Driving innovation, together",
+   "para": ""
+  },
+  {
+   "y": 1800,
+   "cls": "tm-sc-section-title section-title line-center-current-theme ",
+   "sub": "<img loading=\"lazy\" decoding=\"async\" src=\"https://techversantinfotech.com/wp-content/uploads/2025/01/Group-40310.png\" alt=\"arrow\" class=\"arrowImg\" width=\"29\" height=\"14\" title=\"Home 17\"> Our Insights",
+   "title": "Transforming Ideas Into Reality",
+   "para": "Our expertise reflected through successful projects."
+  },
+  {
+   "y": 2507,
+   "cls": "tm-sc-section-title section-title line-center-current-theme ",
+   "sub": "<img loading=\"lazy\" decoding=\"async\" src=\"https://techversantinfotech.com/wp-content/uploads/2025/01/Group-40310.png\" alt=\"arrow\" class=\"arrowImg\" width=\"29\" height=\"14\" title=\"Home 17\"> Industries We Transform",
+   "title": "Tailored solutions for every sector",
+   "para": "We understand the unique needs of every industry. Our strategies are built to deliver measurable impact."
+  },
+  {
+   "y": 5753,
+   "cls": "tm-sc-section-title section-title line-center-current-theme ",
+   "sub": "<img loading=\"lazy\" decoding=\"async\" src=\"https://techversantinfotech.com/wp-content/uploads/2025/01/Group-40310.png\" alt=\"arrow\" class=\"arrowImg\" width=\"29\" height=\"14\" title=\"Home 17\"> Industries We Transform",
+   "title": "Tailored solutions for every sector",
+   "para": "We understand the unique needs of every industry. Our strategies are built to deliver measurable impact."
+  },
+  {
+   "y": 3377,
+   "cls": "tm-sc-section-title section-title line-center-current-theme ",
+   "sub": "<img loading=\"lazy\" decoding=\"async\" src=\"https://techversantinfotech.com/wp-content/uploads/2025/01/Group-40310.png\" alt=\"arrow\" class=\"arrowImg\" width=\"29\" height=\"14\" title=\"Home 17\"> Our Services",
+   "title": "Specialized services we offer",
+   "para": "Explore our comprehensive IT services designed to accelerate your business growth."
+  },
+  {
+   "y": 4262,
+   "cls": "tm-sc-section-title section-title line-center-current-theme ",
+   "sub": "<img loading=\"lazy\" decoding=\"async\" src=\"https://techversantinfotech.com/wp-content/uploads/2025/01/Group-40310.png\" alt=\"arrow\" class=\"arrowImg\" width=\"29\" height=\"14\" title=\"Home 17\">We operate globally",
+   "title": "USA | UK | Australia | Canada | UAE | India",
+   "para": ""
+  },
+  {
+   "y": 5672,
+   "cls": "tm-sc-section-title section-title line-center-current-theme ",
+   "sub": "<img loading=\"lazy\" decoding=\"async\" src=\"https://techversantinfotech.com/wp-content/uploads/2025/01/Group-40310.png\" alt=\"arrow\" class=\"arrowImg\" width=\"29\" height=\"14\" title=\"Home 17\">Join with us",
+   "title": "Be a part of our amazing team",
+   "para": ""
+  },
+  {
+   "y": 6616,
+   "cls": "tm-sc-section-title section-title line-center-current-theme ",
+   "sub": "<img loading=\"lazy\" decoding=\"async\" src=\"https://techversantinfotech.com/wp-content/uploads/2025/01/Group-40310.png\" alt=\"arrow\" class=\"arrowImg\" width=\"29\" height=\"14\" title=\"Home 17\"> Talk to us",
+   "title": "Crafting digital strategies that work",
+   "para": ""
+  }
+ ],
+ "hotspots": [
+  {
+   "label": "Canada",
+   "tooltip": "Alberta, Canada",
+   "left": "285.594px",
+   "top": "384px",
+   "w": 21,
+   "xPct": 23.799,
+   "yPct": 32
+  },
+  {
+   "label": "USA",
+   "tooltip": "USA",
+   "left": "308.391px",
+   "top": "516px",
+   "w": 21,
+   "xPct": 25.699,
+   "yPct": 43
+  },
+  {
+   "label": "UK",
+   "tooltip": "Chertsey, UK",
+   "left": "556.797px",
+   "top": "447.594px",
+   "w": 21,
+   "xPct": 46.4,
+   "yPct": 37.299
+  },
+  {
+   "label": "UAE",
+   "tooltip": "Dubai, UAE",
+   "left": "679.188px",
+   "top": "589.188px",
+   "w": 22,
+   "xPct": 56.599,
+   "yPct": 49.099
+  },
+  {
+   "label": "India",
+   "tooltip": "Cochin & Trivandrum, India",
+   "left": "751.188px",
+   "top": "660px",
+   "w": 21,
+   "xPct": 62.599,
+   "yPct": 55
+  },
+  {
+   "label": "Australia",
+   "tooltip": "Australia",
+   "left": "924px",
+   "top": "876px",
+   "w": 21,
+   "xPct": 77,
+   "yPct": 73
+  }
+ ],
+ "hotspotImg": "2025/01/Map.webp",
+ "join": {
+  "para": "Join a passionate and driven group of individuals working together to create meaningful impact. We value collaboration, innovation, and a positive work culture where every voice is heard and growth is encouraged. Let’s build something great together!"
+ },
+ "testimonials": [
+  {
+   "name": "Manoj Madhavan",
+   "job": "Vice President - HR",
+   "title": "What our people say",
+   "text": "Being a part of Techversant offers an incredibly enriching and genuinely satisfying professional journey",
+   "img": "2026/09/Manoj.webp",
+   "cls": "wpr-testimonial-item  elementor-clearfix"
+  },
+  {
+   "name": "Deepak Jose",
+   "job": "Technical Accounts Manager",
+   "title": "What our people say",
+   "text": "Being part of Techversant has given me immense opportunities to learn and grow every day",
+   "img": "2025/10/profilepicturev2.webp",
+   "cls": "wpr-testimonial-item  elementor-clearfix"
+  },
+  {
+   "name": "Arun A",
+   "job": "Senior Solution Architect",
+   "title": "What our people say",
+   "text": "At Techversant, I feel genuinely valued and highly motivated to contribute to meaningful projects.",
+   "img": "2026/09/Arun_Antony.webp",
+   "cls": "wpr-testimonial-item  elementor-clearfix"
+  },
+  {
+   "name": "Lajin Mohan",
+   "job": "Senior Technical Account Manager",
+   "title": "What our people say",
+   "text": "Working at Techversant is an exceptionally rewarding and truly fulfilling professional experience.",
+   "img": "2025/10/profilepicturev2-1.webp",
+   "cls": "wpr-testimonial-item  elementor-clearfix"
+  },
+  {
+   "name": "Manoj Madhavan",
+   "job": "Vice President - HR",
+   "title": "What our people say",
+   "text": "Being a part of Techversant offers an incredibly enriching and genuinely satisfying professional journey",
+   "img": "2026/09/Manoj.webp",
+   "cls": "wpr-testimonial-item  elementor-clearfix"
+  },
+  {
+   "name": "Deepak Jose",
+   "job": "Technical Accounts Manager",
+   "title": "What our people say",
+   "text": "Being part of Techversant has given me immense opportunities to learn and grow every day",
+   "img": "2025/10/profilepicturev2.webp",
+   "cls": "wpr-testimonial-item  elementor-clearfix"
+  },
+  {
+   "name": "Arun A",
+   "job": "Senior Solution Architect",
+   "title": "What our people say",
+   "text": "At Techversant, I feel genuinely valued and highly motivated to contribute to meaningful projects.",
+   "img": "2026/09/Arun_Antony.webp",
+   "cls": "wpr-testimonial-item  elementor-clearfix"
+  },
+  {
+   "name": "Lajin Mohan",
+   "job": "Senior Technical Account Manager",
+   "title": "What our people say",
+   "text": "Working at Techversant is an exceptionally rewarding and truly fulfilling professional experience.",
+   "img": "2025/10/profilepicturev2-1.webp",
+   "cls": "wpr-testimonial-item  elementor-clearfix"
+  },
+  {
+   "name": "Manoj Madhavan",
+   "job": "Vice President - HR",
+   "title": "What our people say",
+   "text": "Being a part of Techversant offers an incredibly enriching and genuinely satisfying professional journey",
+   "img": "2026/09/Manoj.webp",
+   "cls": "wpr-testimonial-item  elementor-clearfix"
+  }
+ ],
+ "careers": {
+  "heading": "Build your future with Us",
+  "btn": {
+   "href": "/talent-acquisition/",
+   "text": "Explore Careers"
+  }
+ },
+ "collage": "2025/09/coolage.webp"
+}

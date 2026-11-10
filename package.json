@@ -1,0 +1,54 @@
+{
+  "name": "techversant-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "typecheck": "tsc --noEmit",
+    "snapshot:routes": "tsx scripts/snapshot/routes.ts",
+    "snapshot:raw": "tsx scripts/snapshot/raw.ts",
+    "snapshot:html": "tsx scripts/snapshot/html.ts",
+    "snapshot:css": "tsx scripts/snapshot/css.ts",
+    "build:wp-css": "tsx scripts/build/wp-css.ts",
+    "build:preflight": "tsx scripts/build/preflight.ts",
+    "snapshot:assets": "tsx scripts/snapshot/assets.ts",
+    "assets:mirror": "tsx scripts/mirror-assets.ts",
+    "fidelity:capture": "tsx scripts/capture/capture.ts",
+    "fidelity:specs": "tsx scripts/capture/specs.ts",
+    "fidelity:diff": "tsx scripts/fidelity/diff.ts"
+  },
+  "engines": {
+    "node": ">=20.9"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "html-react-parser": "^6.1.9",
+    "next": "16.4.5",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "swiper": "^14.4.0",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@tailwindcss/turbopack": "^4",
+    "@types/node": "^20",
+    "@types/pngjs": "^6.0.5",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "axe-core": "^4.14.0",
+    "eslint": "^9",
+    "eslint-config-next": "16.4.5",
+    "pixelmatch": "^8.0.0",
+    "pngjs": "^7.0.0",
+    "postcss": "^8.5.32",
+    "postcss-selector-parser": "^7.1.7",
+    "tailwindcss": "^4",
+    "tsx": "^4.23.15",
+    "typescript": "^5"
+  },
+  "packageManager": "pnpm@12.16.1"
+}

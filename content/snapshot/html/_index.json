@@ -1,0 +1,1451 @@
+{
+ "/capabilities/": {
+  "route": "/capabilities/",
+  "file": "capabilities.html",
+  "status": 200,
+  "bytes": 310345,
+  "finalUrl": "https://techversantinfotech.com/capabilities/"
+ },
+ "/": {
+  "route": "/",
+  "file": "_home.html",
+  "status": 200,
+  "bytes": 324229,
+  "finalUrl": "https://techversantinfotech.com/"
+ },
+ "/career/": {
+  "route": "/career/",
+  "file": "career.html",
+  "status": 200,
+  "bytes": 245914,
+  "finalUrl": "https://techversantinfotech.com/career/"
+ },
+ "/contact-us/": {
+  "route": "/contact-us/",
+  "file": "contact-us.html",
+  "status": 200,
+  "bytes": 216739,
+  "finalUrl": "https://techversantinfotech.com/contact-us/"
+ },
+ "/customer-stories/": {
+  "route": "/customer-stories/",
+  "file": "customer-stories.html",
+  "status": 200,
+  "bytes": 593883,
+  "finalUrl": "https://techversantinfotech.com/customer-stories/"
+ },
+ "/events/": {
+  "route": "/events/",
+  "file": "events.html",
+  "status": 200,
+  "bytes": 212040,
+  "finalUrl": "https://techversantinfotech.com/events/"
+ },
+ "/dpa/": {
+  "route": "/dpa/",
+  "file": "dpa.html",
+  "status": 200,
+  "bytes": 211779,
+  "finalUrl": "https://techversantinfotech.com/dpa/"
+ },
+ "/industries/": {
+  "route": "/industries/",
+  "file": "industries.html",
+  "status": 200,
+  "bytes": 235467,
+  "finalUrl": "https://techversantinfotech.com/industries/"
+ },
+ "/founder-ceo-of-techversant-joby-john-hyderabad-house-new-delhi-16-april-2026/": {
+  "route": "/founder-ceo-of-techversant-joby-john-hyderabad-house-new-delhi-16-april-2026/",
+  "file": "founder-ceo-of-techversant-joby-john-hyderabad-house-new-delhi-16-april-2026.html",
+  "status": 200,
+  "bytes": 194893,
+  "finalUrl": "https://techversantinfotech.com/founder-ceo-of-techversant-joby-john-hyderabad-house-new-delhi-16-april-2026/"
+ },
+ "/industries/agriculture-agritech/": {
+  "route": "/industries/agriculture-agritech/",
+  "file": "industries__agriculture-agritech.html",
+  "status": 200,
+  "bytes": 240895,
+  "finalUrl": "https://techversantinfotech.com/industries/agriculture-agritech/"
+ },
+ "/industries/education-learning/": {
+  "route": "/industries/education-learning/",
+  "file": "industries__education-learning.html",
+  "status": 200,
+  "bytes": 246554,
+  "finalUrl": "https://techversantinfotech.com/industries/education-learning/"
+ },
+ "/industries/energy-utilities/": {
+  "route": "/industries/energy-utilities/",
+  "file": "industries__energy-utilities.html",
+  "status": 200,
+  "bytes": 243380,
+  "finalUrl": "https://techversantinfotech.com/industries/energy-utilities/"
+ },
+ "/industries/financial-services-fintech/": {
+  "route": "/industries/financial-services-fintech/",
+  "file": "industries__financial-services-fintech.html",
+  "status": 200,
+  "bytes": 243192,
+  "finalUrl": "https://techversantinfotech.com/industries/financial-services-fintech/"
+ },
+ "/industries/healthcare-life-sciences/": {
+  "route": "/industries/healthcare-life-sciences/",
+  "file": "industries__healthcare-life-sciences.html",
+  "status": 200,
+  "bytes": 245550,
+  "finalUrl": "https://techversantinfotech.com/industries/healthcare-life-sciences/"
+ },
+ "/industries/hr-workforce-management/": {
+  "route": "/industries/hr-workforce-management/",
+  "file": "industries__hr-workforce-management.html",
+  "status": 200,
+  "bytes": 244150,
+  "finalUrl": "https://techversantinfotech.com/industries/hr-workforce-management/"
+ },
+ "/industries/logistics-transportation/": {
+  "route": "/industries/logistics-transportation/",
+  "file": "industries__logistics-transportation.html",
+  "status": 200,
+  "bytes": 245124,
+  "finalUrl": "https://techversantinfotech.com/industries/logistics-transportation/"
+ },
+ "/industries/manufacturing-industrial-automation/": {
+  "route": "/industries/manufacturing-industrial-automation/",
+  "file": "industries__manufacturing-industrial-automation.html",
+  "status": 200,
+  "bytes": 244393,
+  "finalUrl": "https://techversantinfotech.com/industries/manufacturing-industrial-automation/"
+ },
+ "/industries/media-publishing/": {
+  "route": "/industries/media-publishing/",
+  "file": "industries__media-publishing.html",
+  "status": 200,
+  "bytes": 244529,
+  "finalUrl": "https://techversantinfotech.com/industries/media-publishing/"
+ },
+ "/industries/real-estate-property-management/": {
+  "route": "/industries/real-estate-property-management/",
+  "file": "industries__real-estate-property-management.html",
+  "status": 200,
+  "bytes": 247050,
+  "finalUrl": "https://techversantinfotech.com/industries/real-estate-property-management/"
+ },
+ "/industries/retail-ecommerce/": {
+  "route": "/industries/retail-ecommerce/",
+  "file": "industries__retail-ecommerce.html",
+  "status": 200,
+  "bytes": 245164,
+  "finalUrl": "https://techversantinfotech.com/industries/retail-ecommerce/"
+ },
+ "/industries/smart-cities-infrastructure/": {
+  "route": "/industries/smart-cities-infrastructure/",
+  "file": "industries__smart-cities-infrastructure.html",
+  "status": 200,
+  "bytes": 245518,
+  "finalUrl": "https://techversantinfotech.com/industries/smart-cities-infrastructure/"
+ },
+ "/jobs/": {
+  "route": "/jobs/",
+  "file": "jobs.html",
+  "status": 200,
+  "bytes": 204087,
+  "finalUrl": "https://techversantinfotech.com/jobs/"
+ },
+ "/industries/travel-tourism/": {
+  "route": "/industries/travel-tourism/",
+  "file": "industries__travel-tourism.html",
+  "status": 200,
+  "bytes": 245370,
+  "finalUrl": "https://techversantinfotech.com/industries/travel-tourism/"
+ },
+ "/jobs/ai-ml-engineer/": {
+  "route": "/jobs/ai-ml-engineer/",
+  "file": "jobs__ai-ml-engineer.html",
+  "status": 200,
+  "bytes": 199397,
+  "finalUrl": "https://techversantinfotech.com/jobs/ai-ml-engineer/"
+ },
+ "/jobs/account-manager-technology-and-solutions/": {
+  "route": "/jobs/account-manager-technology-and-solutions/",
+  "file": "jobs__account-manager-technology-and-solutions.html",
+  "status": 200,
+  "bytes": 192462,
+  "finalUrl": "https://techversantinfotech.com/jobs/account-manager-technology-and-solutions/"
+ },
+ "/jobs/associate-lead-software-engineer-java/": {
+  "route": "/jobs/associate-lead-software-engineer-java/",
+  "file": "jobs__associate-lead-software-engineer-java.html",
+  "status": 200,
+  "bytes": 198928,
+  "finalUrl": "https://techversantinfotech.com/jobs/associate-lead-software-engineer-java/"
+ },
+ "/jobs/business-development-associate/": {
+  "route": "/jobs/business-development-associate/",
+  "file": "jobs__business-development-associate.html",
+  "status": 200,
+  "bytes": 193479,
+  "finalUrl": "https://techversantinfotech.com/jobs/business-development-associate/"
+ },
+ "/jobs/data-engineer/": {
+  "route": "/jobs/data-engineer/",
+  "file": "jobs__data-engineer.html",
+  "status": 200,
+  "bytes": 202702,
+  "finalUrl": "https://techversantinfotech.com/jobs/data-engineer/"
+ },
+ "/jobs/coldfusion-developer/": {
+  "route": "/jobs/coldfusion-developer/",
+  "file": "jobs__coldfusion-developer.html",
+  "status": 200,
+  "bytes": 194022,
+  "finalUrl": "https://techversantinfotech.com/jobs/coldfusion-developer/"
+ },
+ "/jobs/lead-full-stack-developer-node-js-react/": {
+  "route": "/jobs/lead-full-stack-developer-node-js-react/",
+  "file": "jobs__lead-full-stack-developer-node-js-react.html",
+  "status": 200,
+  "bytes": 198856,
+  "finalUrl": "https://techversantinfotech.com/jobs/lead-full-stack-developer-node-js-react/"
+ },
+ "/jobs/data-scientist/": {
+  "route": "/jobs/data-scientist/",
+  "file": "jobs__data-scientist.html",
+  "status": 200,
+  "bytes": 196227,
+  "finalUrl": "https://techversantinfotech.com/jobs/data-scientist/"
+ },
+ "/jobs/lead-full-stack-engineer-node-js-angular/": {
+  "route": "/jobs/lead-full-stack-engineer-node-js-angular/",
+  "file": "jobs__lead-full-stack-engineer-node-js-angular.html",
+  "status": 200,
+  "bytes": 198790,
+  "finalUrl": "https://techversantinfotech.com/jobs/lead-full-stack-engineer-node-js-angular/"
+ },
+ "/jobs/principal-database-engineer/": {
+  "route": "/jobs/principal-database-engineer/",
+  "file": "jobs__principal-database-engineer.html",
+  "status": 200,
+  "bytes": 192972,
+  "finalUrl": "https://techversantinfotech.com/jobs/principal-database-engineer/"
+ },
+ "/jobs/salesforce-associate-solution-architect/": {
+  "route": "/jobs/salesforce-associate-solution-architect/",
+  "file": "jobs__salesforce-associate-solution-architect.html",
+  "status": 200,
+  "bytes": 190398,
+  "finalUrl": "https://techversantinfotech.com/jobs/salesforce-associate-solution-architect/"
+ },
+ "/jobs/salesforce-functional-consultant/": {
+  "route": "/jobs/salesforce-functional-consultant/",
+  "file": "jobs__salesforce-functional-consultant.html",
+  "status": 200,
+  "bytes": 190252,
+  "finalUrl": "https://techversantinfotech.com/jobs/salesforce-functional-consultant/"
+ },
+ "/jobs/senior-ai-ml-engineer/": {
+  "route": "/jobs/senior-ai-ml-engineer/",
+  "file": "jobs__senior-ai-ml-engineer.html",
+  "status": 200,
+  "bytes": 200145,
+  "finalUrl": "https://techversantinfotech.com/jobs/senior-ai-ml-engineer/"
+ },
+ "/jobs/senior-associate-talent-acquisition/": {
+  "route": "/jobs/senior-associate-talent-acquisition/",
+  "file": "jobs__senior-associate-talent-acquisition.html",
+  "status": 200,
+  "bytes": 190278,
+  "finalUrl": "https://techversantinfotech.com/jobs/senior-associate-talent-acquisition/"
+ },
+ "/jobs/senior-business-development-manager/": {
+  "route": "/jobs/senior-business-development-manager/",
+  "file": "jobs__senior-business-development-manager.html",
+  "status": 200,
+  "bytes": 198513,
+  "finalUrl": "https://techversantinfotech.com/jobs/senior-business-development-manager/"
+ },
+ "/jobs/senior-business-development-executive/": {
+  "route": "/jobs/senior-business-development-executive/",
+  "file": "jobs__senior-business-development-executive.html",
+  "status": 200,
+  "bytes": 195890,
+  "finalUrl": "https://techversantinfotech.com/jobs/senior-business-development-executive/"
+ },
+ "/jobs/senior-coldfusion-developer/": {
+  "route": "/jobs/senior-coldfusion-developer/",
+  "file": "jobs__senior-coldfusion-developer.html",
+  "status": 200,
+  "bytes": 194321,
+  "finalUrl": "https://techversantinfotech.com/jobs/senior-coldfusion-developer/"
+ },
+ "/jobs/senior-data-scientist/": {
+  "route": "/jobs/senior-data-scientist/",
+  "file": "jobs__senior-data-scientist.html",
+  "status": 200,
+  "bytes": 196577,
+  "finalUrl": "https://techversantinfotech.com/jobs/senior-data-scientist/"
+ },
+ "/jobs/senior-database-engineer/": {
+  "route": "/jobs/senior-database-engineer/",
+  "file": "jobs__senior-database-engineer.html",
+  "status": 200,
+  "bytes": 192237,
+  "finalUrl": "https://techversantinfotech.com/jobs/senior-database-engineer/"
+ },
+ "/jobs/senior-python-developer/": {
+  "route": "/jobs/senior-python-developer/",
+  "file": "jobs__senior-python-developer.html",
+  "status": 200,
+  "bytes": 194095,
+  "finalUrl": "https://techversantinfotech.com/jobs/senior-python-developer/"
+ },
+ "/jobs/senior-salesforce-developer-technical-consultant/": {
+  "route": "/jobs/senior-salesforce-developer-technical-consultant/",
+  "file": "jobs__senior-salesforce-developer-technical-consultant.html",
+  "status": 200,
+  "bytes": 191727,
+  "finalUrl": "https://techversantinfotech.com/jobs/senior-salesforce-developer-technical-consultant/"
+ },
+ "/jobs/senior-servicenow-developer-technical-consultant/": {
+  "route": "/jobs/senior-servicenow-developer-technical-consultant/",
+  "file": "jobs__senior-servicenow-developer-technical-consultant.html",
+  "status": 200,
+  "bytes": 190955,
+  "finalUrl": "https://techversantinfotech.com/jobs/senior-servicenow-developer-technical-consultant/"
+ },
+ "/jobs/senior-software-engineer-java/": {
+  "route": "/jobs/senior-software-engineer-java/",
+  "file": "jobs__senior-software-engineer-java.html",
+  "status": 200,
+  "bytes": 196912,
+  "finalUrl": "https://techversantinfotech.com/jobs/senior-software-engineer-java/"
+ },
+ "/jobs/senior-software-engineer-net/": {
+  "route": "/jobs/senior-software-engineer-net/",
+  "file": "jobs__senior-software-engineer-net.html",
+  "status": 200,
+  "bytes": 195459,
+  "finalUrl": "https://techversantinfotech.com/jobs/senior-software-engineer-net/"
+ },
+ "/jobs/senior-software-engineer-node-js/": {
+  "route": "/jobs/senior-software-engineer-node-js/",
+  "file": "jobs__senior-software-engineer-node-js.html",
+  "status": 200,
+  "bytes": 193547,
+  "finalUrl": "https://techversantinfotech.com/jobs/senior-software-engineer-node-js/"
+ },
+ "/jobs/senior-software-engineer-next-js/": {
+  "route": "/jobs/senior-software-engineer-next-js/",
+  "file": "jobs__senior-software-engineer-next-js.html",
+  "status": 200,
+  "bytes": 194505,
+  "finalUrl": "https://techversantinfotech.com/jobs/senior-software-engineer-next-js/"
+ },
+ "/jobs/senior-technical-lead-architect/": {
+  "route": "/jobs/senior-technical-lead-architect/",
+  "file": "jobs__senior-technical-lead-architect.html",
+  "status": 200,
+  "bytes": 203805,
+  "finalUrl": "https://techversantinfotech.com/jobs/senior-technical-lead-architect/"
+ },
+ "/jobs/senior-software-engineer-react-js/": {
+  "route": "/jobs/senior-software-engineer-react-js/",
+  "file": "jobs__senior-software-engineer-react-js.html",
+  "status": 200,
+  "bytes": 195084,
+  "finalUrl": "https://techversantinfotech.com/jobs/senior-software-engineer-react-js/"
+ },
+ "/jobs/servicenow-architect-associate-architect/": {
+  "route": "/jobs/servicenow-architect-associate-architect/",
+  "file": "jobs__servicenow-architect-associate-architect.html",
+  "status": 200,
+  "bytes": 190551,
+  "finalUrl": "https://techversantinfotech.com/jobs/servicenow-architect-associate-architect/"
+ },
+ "/jobs/servicenow-functional-consultant/": {
+  "route": "/jobs/servicenow-functional-consultant/",
+  "file": "jobs__servicenow-functional-consultant.html",
+  "status": 200,
+  "bytes": 189895,
+  "finalUrl": "https://techversantinfotech.com/jobs/servicenow-functional-consultant/"
+ },
+ "/jobs/software-engineer-java/": {
+  "route": "/jobs/software-engineer-java/",
+  "file": "jobs__software-engineer-java.html",
+  "status": 200,
+  "bytes": 196837,
+  "finalUrl": "https://techversantinfotech.com/jobs/software-engineer-java/"
+ },
+ "/jobs/team-lead-ai-ml/": {
+  "route": "/jobs/team-lead-ai-ml/",
+  "file": "jobs__team-lead-ai-ml.html",
+  "status": 200,
+  "bytes": 193551,
+  "finalUrl": "https://techversantinfotech.com/jobs/team-lead-ai-ml/"
+ },
+ "/jobs/team-lead-coldfusion/": {
+  "route": "/jobs/team-lead-coldfusion/",
+  "file": "jobs__team-lead-coldfusion.html",
+  "status": 200,
+  "bytes": 196719,
+  "finalUrl": "https://techversantinfotech.com/jobs/team-lead-coldfusion/"
+ },
+ "/jobs/team-lead-net/": {
+  "route": "/jobs/team-lead-net/",
+  "file": "jobs__team-lead-net.html",
+  "status": 200,
+  "bytes": 195542,
+  "finalUrl": "https://techversantinfotech.com/jobs/team-lead-net/"
+ },
+ "/jobs/technical-architect-ai-ml/": {
+  "route": "/jobs/technical-architect-ai-ml/",
+  "file": "jobs__technical-architect-ai-ml.html",
+  "status": 200,
+  "bytes": 199323,
+  "finalUrl": "https://techversantinfotech.com/jobs/technical-architect-ai-ml/"
+ },
+ "/jobs/technical-architect-python/": {
+  "route": "/jobs/technical-architect-python/",
+  "file": "jobs__technical-architect-python.html",
+  "status": 200,
+  "bytes": 195653,
+  "finalUrl": "https://techversantinfotech.com/jobs/technical-architect-python/"
+ },
+ "/jobs/technical-lead-java/": {
+  "route": "/jobs/technical-lead-java/",
+  "file": "jobs__technical-lead-java.html",
+  "status": 200,
+  "bytes": 195625,
+  "finalUrl": "https://techversantinfotech.com/jobs/technical-lead-java/"
+ },
+ "/jobs/technical-lead-net/": {
+  "route": "/jobs/technical-lead-net/",
+  "file": "jobs__technical-lead-net.html",
+  "status": 200,
+  "bytes": 195757,
+  "finalUrl": "https://techversantinfotech.com/jobs/technical-lead-net/"
+ },
+ "/jobs/technical-program-manager-tpm/": {
+  "route": "/jobs/technical-program-manager-tpm/",
+  "file": "jobs__technical-program-manager-tpm.html",
+  "status": 200,
+  "bytes": 201220,
+  "finalUrl": "https://techversantinfotech.com/jobs/technical-program-manager-tpm/"
+ },
+ "/jobs/technical-lead-python/": {
+  "route": "/jobs/technical-lead-python/",
+  "file": "jobs__technical-lead-python.html",
+  "status": 200,
+  "bytes": 195627,
+  "finalUrl": "https://techversantinfotech.com/jobs/technical-lead-python/"
+ },
+ "/jobs/technical-recruitment-lead/": {
+  "route": "/jobs/technical-recruitment-lead/",
+  "file": "jobs__technical-recruitment-lead.html",
+  "status": 200,
+  "bytes": 197317,
+  "finalUrl": "https://techversantinfotech.com/jobs/technical-recruitment-lead/"
+ },
+ "/jobs/ui-ux-designer/": {
+  "route": "/jobs/ui-ux-designer/",
+  "file": "jobs__ui-ux-designer.html",
+  "status": 200,
+  "bytes": 191656,
+  "finalUrl": "https://techversantinfotech.com/jobs/ui-ux-designer/"
+ },
+ "/jobs/ux-associate-lead/": {
+  "route": "/jobs/ux-associate-lead/",
+  "file": "jobs__ux-associate-lead.html",
+  "status": 200,
+  "bytes": 194162,
+  "finalUrl": "https://techversantinfotech.com/jobs/ux-associate-lead/"
+ },
+ "/jobs/web-developer/": {
+  "route": "/jobs/web-developer/",
+  "file": "jobs__web-developer.html",
+  "status": 200,
+  "bytes": 194430,
+  "finalUrl": "https://techversantinfotech.com/jobs/web-developer/"
+ },
+ "/joby-john-founder-ceo-of-techversant-at-the-india-canada-ceo-forum-new-delhi-2-march-2026/": {
+  "route": "/joby-john-founder-ceo-of-techversant-at-the-india-canada-ceo-forum-new-delhi-2-march-2026/",
+  "file": "joby-john-founder-ceo-of-techversant-at-the-india-canada-ceo-forum-new-delhi-2-march-2026.html",
+  "status": 200,
+  "bytes": 196961,
+  "finalUrl": "https://techversantinfotech.com/joby-john-founder-ceo-of-techversant-at-the-india-canada-ceo-forum-new-delhi-2-march-2026/"
+ },
+ "/joby-john-founder-ceo-of-techversant-hyderabad-house-new-delhi-16-april-2026/": {
+  "route": "/joby-john-founder-ceo-of-techversant-hyderabad-house-new-delhi-16-april-2026/",
+  "file": "joby-john-founder-ceo-of-techversant-hyderabad-house-new-delhi-16-april-2026.html",
+  "status": 200,
+  "bytes": 195836,
+  "finalUrl": "https://techversantinfotech.com/joby-john-founder-ceo-of-techversant-hyderabad-house-new-delhi-16-april-2026/"
+ },
+ "/joby-john-founder-ceo-of-techversant-indian-industry-delegation-canada-may-2026/": {
+  "route": "/joby-john-founder-ceo-of-techversant-indian-industry-delegation-canada-may-2026/",
+  "file": "joby-john-founder-ceo-of-techversant-indian-industry-delegation-canada-may-2026.html",
+  "status": 200,
+  "bytes": 200495,
+  "finalUrl": "https://techversantinfotech.com/joby-john-founder-ceo-of-techversant-indian-industry-delegation-canada-may-2026/"
+ },
+ "/news/": {
+  "route": "/news/",
+  "file": "news.html",
+  "status": 200,
+  "bytes": 212321,
+  "finalUrl": "https://techversantinfotech.com/news/"
+ },
+ "/privacy-policy/": {
+  "route": "/privacy-policy/",
+  "file": "privacy-policy.html",
+  "status": 200,
+  "bytes": 197566,
+  "finalUrl": "https://techversantinfotech.com/privacy-policy/"
+ },
+ "/project/uncategorized/": {
+  "route": "/project/uncategorized/",
+  "file": "project__uncategorized.html",
+  "status": 200,
+  "bytes": 209196,
+  "finalUrl": "https://techversantinfotech.com/project/uncategorized/"
+ },
+ "/projects/a-mobile-friendly-platform-for-trend-analysis-and-route-planning/": {
+  "route": "/projects/a-mobile-friendly-platform-for-trend-analysis-and-route-planning/",
+  "file": "projects__a-mobile-friendly-platform-for-trend-analysis-and-route-planning.html",
+  "status": 200,
+  "bytes": 201726,
+  "finalUrl": "https://techversantinfotech.com/projects/a-mobile-friendly-platform-for-trend-analysis-and-route-planning/"
+ },
+ "/projects/a-scalable-salon-management-platform/": {
+  "route": "/projects/a-scalable-salon-management-platform/",
+  "file": "projects__a-scalable-salon-management-platform.html",
+  "status": 200,
+  "bytes": 210648,
+  "finalUrl": "https://techversantinfotech.com/projects/a-scalable-salon-management-platform/"
+ },
+ "/projects/a-social-network-for-short-film-collaboration-and-showcase/": {
+  "route": "/projects/a-social-network-for-short-film-collaboration-and-showcase/",
+  "file": "projects__a-social-network-for-short-film-collaboration-and-showcase.html",
+  "status": 200,
+  "bytes": 210239,
+  "finalUrl": "https://techversantinfotech.com/projects/a-social-network-for-short-film-collaboration-and-showcase/"
+ },
+ "/projects/advancing-agriculture-with-a-certified-seed-management-platform/": {
+  "route": "/projects/advancing-agriculture-with-a-certified-seed-management-platform/",
+  "file": "projects__advancing-agriculture-with-a-certified-seed-management-platform.html",
+  "status": 200,
+  "bytes": 204029,
+  "finalUrl": "https://techversantinfotech.com/projects/advancing-agriculture-with-a-certified-seed-management-platform/"
+ },
+ "/projects/agri-iot-device/": {
+  "route": "/projects/agri-iot-device/",
+  "file": "projects__agri-iot-device.html",
+  "status": 200,
+  "bytes": 214446,
+  "finalUrl": "https://techversantinfotech.com/projects/agri-iot-device/"
+ },
+ "/projects/agri-tech-platform-with-microfinance-and-project-monitoring/": {
+  "route": "/projects/agri-tech-platform-with-microfinance-and-project-monitoring/",
+  "file": "projects__agri-tech-platform-with-microfinance-and-project-monitoring.html",
+  "status": 200,
+  "bytes": 205876,
+  "finalUrl": "https://techversantinfotech.com/projects/agri-tech-platform-with-microfinance-and-project-monitoring/"
+ },
+ "/projects/ai-driven-gpc-code-prediction/": {
+  "route": "/projects/ai-driven-gpc-code-prediction/",
+  "file": "projects__ai-driven-gpc-code-prediction.html",
+  "status": 200,
+  "bytes": 209753,
+  "finalUrl": "https://techversantinfotech.com/projects/ai-driven-gpc-code-prediction/"
+ },
+ "/projects/ai-driven-proctoring-solution/": {
+  "route": "/projects/ai-driven-proctoring-solution/",
+  "file": "projects__ai-driven-proctoring-solution.html",
+  "status": 200,
+  "bytes": 201722,
+  "finalUrl": "https://techversantinfotech.com/projects/ai-driven-proctoring-solution/"
+ },
+ "/projects/ai-enhanced-product-inventory-tracking-automation/": {
+  "route": "/projects/ai-enhanced-product-inventory-tracking-automation/",
+  "file": "projects__ai-enhanced-product-inventory-tracking-automation.html",
+  "status": 200,
+  "bytes": 213353,
+  "finalUrl": "https://techversantinfotech.com/projects/ai-enhanced-product-inventory-tracking-automation/"
+ },
+ "/projects/ai-powered-cybersecurity/": {
+  "route": "/projects/ai-powered-cybersecurity/",
+  "file": "projects__ai-powered-cybersecurity.html",
+  "status": 200,
+  "bytes": 208536,
+  "finalUrl": "https://techversantinfotech.com/projects/ai-powered-cybersecurity/"
+ },
+ "/projects/ai-powered-medical-records-automation/": {
+  "route": "/projects/ai-powered-medical-records-automation/",
+  "file": "projects__ai-powered-medical-records-automation.html",
+  "status": 200,
+  "bytes": 208625,
+  "finalUrl": "https://techversantinfotech.com/projects/ai-powered-medical-records-automation/"
+ },
+ "/projects/ai-powered-social-media-sentiment-analysis/": {
+  "route": "/projects/ai-powered-social-media-sentiment-analysis/",
+  "file": "projects__ai-powered-social-media-sentiment-analysis.html",
+  "status": 200,
+  "bytes": 208822,
+  "finalUrl": "https://techversantinfotech.com/projects/ai-powered-social-media-sentiment-analysis/"
+ },
+ "/projects/automated-rooftop-solar-project-estimates-with-editable-projections/": {
+  "route": "/projects/automated-rooftop-solar-project-estimates-with-editable-projections/",
+  "file": "projects__automated-rooftop-solar-project-estimates-with-editable-projections.html",
+  "status": 200,
+  "bytes": 206675,
+  "finalUrl": "https://techversantinfotech.com/projects/automated-rooftop-solar-project-estimates-with-editable-projections/"
+ },
+ "/projects/automatic-calling-system/": {
+  "route": "/projects/automatic-calling-system/",
+  "file": "projects__automatic-calling-system.html",
+  "status": 200,
+  "bytes": 215137,
+  "finalUrl": "https://techversantinfotech.com/projects/automatic-calling-system/"
+ },
+ "/projects/blockchain-backed-property-management-platform/": {
+  "route": "/projects/blockchain-backed-property-management-platform/",
+  "file": "projects__blockchain-backed-property-management-platform.html",
+  "status": 200,
+  "bytes": 209674,
+  "finalUrl": "https://techversantinfotech.com/projects/blockchain-backed-property-management-platform/"
+ },
+ "/projects/building-homes-building-trust-csr-housing-property-management-system/": {
+  "route": "/projects/building-homes-building-trust-csr-housing-property-management-system/",
+  "file": "projects__building-homes-building-trust-csr-housing-property-management-system.html",
+  "status": 200,
+  "bytes": 203185,
+  "finalUrl": "https://techversantinfotech.com/projects/building-homes-building-trust-csr-housing-property-management-system/"
+ },
+ "/projects/centralized-authentication-service-for-securing-microservices/": {
+  "route": "/projects/centralized-authentication-service-for-securing-microservices/",
+  "file": "projects__centralized-authentication-service-for-securing-microservices.html",
+  "status": 200,
+  "bytes": 213089,
+  "finalUrl": "https://techversantinfotech.com/projects/centralized-authentication-service-for-securing-microservices/"
+ },
+ "/projects/connecting-medical-professionals-with-opportunities/": {
+  "route": "/projects/connecting-medical-professionals-with-opportunities/",
+  "file": "projects__connecting-medical-professionals-with-opportunities.html",
+  "status": 200,
+  "bytes": 211438,
+  "finalUrl": "https://techversantinfotech.com/projects/connecting-medical-professionals-with-opportunities/"
+ },
+ "/projects/deep-learning-model-for-product-logo-detection/": {
+  "route": "/projects/deep-learning-model-for-product-logo-detection/",
+  "file": "projects__deep-learning-model-for-product-logo-detection.html",
+  "status": 200,
+  "bytes": 212761,
+  "finalUrl": "https://techversantinfotech.com/projects/deep-learning-model-for-product-logo-detection/"
+ },
+ "/projects/digital-banking-platform-for-fintech-partners/": {
+  "route": "/projects/digital-banking-platform-for-fintech-partners/",
+  "file": "projects__digital-banking-platform-for-fintech-partners.html",
+  "status": 200,
+  "bytes": 212078,
+  "finalUrl": "https://techversantinfotech.com/projects/digital-banking-platform-for-fintech-partners/"
+ },
+ "/projects/digitizing-safety-compliance-for-high-risk-work-environments/": {
+  "route": "/projects/digitizing-safety-compliance-for-high-risk-work-environments/",
+  "file": "projects__digitizing-safety-compliance-for-high-risk-work-environments.html",
+  "status": 200,
+  "bytes": 207318,
+  "finalUrl": "https://techversantinfotech.com/projects/digitizing-safety-compliance-for-high-risk-work-environments/"
+ },
+ "/projects/driving-efficiency-in-telecom-operations-crm-billing-solution/": {
+  "route": "/projects/driving-efficiency-in-telecom-operations-crm-billing-solution/",
+  "file": "projects__driving-efficiency-in-telecom-operations-crm-billing-solution.html",
+  "status": 200,
+  "bytes": 208012,
+  "finalUrl": "https://techversantinfotech.com/projects/driving-efficiency-in-telecom-operations-crm-billing-solution/"
+ },
+ "/projects/e-commerce-price-comparison/": {
+  "route": "/projects/e-commerce-price-comparison/",
+  "file": "projects__e-commerce-price-comparison.html",
+  "status": 200,
+  "bytes": 218336,
+  "finalUrl": "https://techversantinfotech.com/projects/e-commerce-price-comparison/"
+ },
+ "/projects/dynamic-form-builder-and-runtime-platform/": {
+  "route": "/projects/dynamic-form-builder-and-runtime-platform/",
+  "file": "projects__dynamic-form-builder-and-runtime-platform.html",
+  "status": 200,
+  "bytes": 204171,
+  "finalUrl": "https://techversantinfotech.com/projects/dynamic-form-builder-and-runtime-platform/"
+ },
+ "/projects/e-learning-platform-for-structured-and-scalable-training/": {
+  "route": "/projects/e-learning-platform-for-structured-and-scalable-training/",
+  "file": "projects__e-learning-platform-for-structured-and-scalable-training.html",
+  "status": 200,
+  "bytes": 207282,
+  "finalUrl": "https://techversantinfotech.com/projects/e-learning-platform-for-structured-and-scalable-training/"
+ },
+ "/projects/elevating-e-commerce-with-seamless-enhancements/": {
+  "route": "/projects/elevating-e-commerce-with-seamless-enhancements/",
+  "file": "projects__elevating-e-commerce-with-seamless-enhancements.html",
+  "status": 200,
+  "bytes": 208106,
+  "finalUrl": "https://techversantinfotech.com/projects/elevating-e-commerce-with-seamless-enhancements/"
+ },
+ "/projects/empowering-wealth-creation-with-a-next-gen-investment-platform/": {
+  "route": "/projects/empowering-wealth-creation-with-a-next-gen-investment-platform/",
+  "file": "projects__empowering-wealth-creation-with-a-next-gen-investment-platform.html",
+  "status": 200,
+  "bytes": 208863,
+  "finalUrl": "https://techversantinfotech.com/projects/empowering-wealth-creation-with-a-next-gen-investment-platform/"
+ },
+ "/projects/enabling-smarter-real-estate-decisions-educational-property-portal/": {
+  "route": "/projects/enabling-smarter-real-estate-decisions-educational-property-portal/",
+  "file": "projects__enabling-smarter-real-estate-decisions-educational-property-portal.html",
+  "status": 200,
+  "bytes": 207269,
+  "finalUrl": "https://techversantinfotech.com/projects/enabling-smarter-real-estate-decisions-educational-property-portal/"
+ },
+ "/projects/enhancing-workforce-engagement-with-a-smart-feedback-platform/": {
+  "route": "/projects/enhancing-workforce-engagement-with-a-smart-feedback-platform/",
+  "file": "projects__enhancing-workforce-engagement-with-a-smart-feedback-platform.html",
+  "status": 200,
+  "bytes": 204766,
+  "finalUrl": "https://techversantinfotech.com/projects/enhancing-workforce-engagement-with-a-smart-feedback-platform/"
+ },
+ "/projects/enterprise-hr-management-portal-for-digital-workforce-operations/": {
+  "route": "/projects/enterprise-hr-management-portal-for-digital-workforce-operations/",
+  "file": "projects__enterprise-hr-management-portal-for-digital-workforce-operations.html",
+  "status": 200,
+  "bytes": 210252,
+  "finalUrl": "https://techversantinfotech.com/projects/enterprise-hr-management-portal-for-digital-workforce-operations/"
+ },
+ "/projects/evento/": {
+  "route": "/projects/evento/",
+  "file": "projects__evento.html",
+  "status": 200,
+  "bytes": 212530,
+  "finalUrl": "https://techversantinfotech.com/projects/evento/"
+ },
+ "/projects/exploring-the-world-adventure-sports-travel-platform/": {
+  "route": "/projects/exploring-the-world-adventure-sports-travel-platform/",
+  "file": "projects__exploring-the-world-adventure-sports-travel-platform.html",
+  "status": 200,
+  "bytes": 207680,
+  "finalUrl": "https://techversantinfotech.com/projects/exploring-the-world-adventure-sports-travel-platform/"
+ },
+ "/projects/farm-to-table-product-traceability-platform/": {
+  "route": "/projects/farm-to-table-product-traceability-platform/",
+  "file": "projects__farm-to-table-product-traceability-platform.html",
+  "status": 200,
+  "bytes": 209552,
+  "finalUrl": "https://techversantinfotech.com/projects/farm-to-table-product-traceability-platform/"
+ },
+ "/projects/guiding-communities-through-digital-connection/": {
+  "route": "/projects/guiding-communities-through-digital-connection/",
+  "file": "projects__guiding-communities-through-digital-connection.html",
+  "status": 200,
+  "bytes": 211647,
+  "finalUrl": "https://techversantinfotech.com/projects/guiding-communities-through-digital-connection/"
+ },
+ "/projects/healthcare-e-learning-platform/": {
+  "route": "/projects/healthcare-e-learning-platform/",
+  "file": "projects__healthcare-e-learning-platform.html",
+  "status": 200,
+  "bytes": 211905,
+  "finalUrl": "https://techversantinfotech.com/projects/healthcare-e-learning-platform/"
+ },
+ "/projects/heavy-vehicle-risk-assessment-platform/": {
+  "route": "/projects/heavy-vehicle-risk-assessment-platform/",
+  "file": "projects__heavy-vehicle-risk-assessment-platform.html",
+  "status": 200,
+  "bytes": 208651,
+  "finalUrl": "https://techversantinfotech.com/projects/heavy-vehicle-risk-assessment-platform/"
+ },
+ "/projects/image-capture-validation-platform/": {
+  "route": "/projects/image-capture-validation-platform/",
+  "file": "projects__image-capture-validation-platform.html",
+  "status": 200,
+  "bytes": 205714,
+  "finalUrl": "https://techversantinfotech.com/projects/image-capture-validation-platform/"
+ },
+ "/projects/industrial-iot-platform-for-energy-monitoring/": {
+  "route": "/projects/industrial-iot-platform-for-energy-monitoring/",
+  "file": "projects__industrial-iot-platform-for-energy-monitoring.html",
+  "status": 200,
+  "bytes": 207379,
+  "finalUrl": "https://techversantinfotech.com/projects/industrial-iot-platform-for-energy-monitoring/"
+ },
+ "/projects/iot-and-ai-powered-oil-gas-facility-management-system/": {
+  "route": "/projects/iot-and-ai-powered-oil-gas-facility-management-system/",
+  "file": "projects__iot-and-ai-powered-oil-gas-facility-management-system.html",
+  "status": 200,
+  "bytes": 205693,
+  "finalUrl": "https://techversantinfotech.com/projects/iot-and-ai-powered-oil-gas-facility-management-system/"
+ },
+ "/projects/knowledge-dissemination-and-collaboration-platform/": {
+  "route": "/projects/knowledge-dissemination-and-collaboration-platform/",
+  "file": "projects__knowledge-dissemination-and-collaboration-platform.html",
+  "status": 200,
+  "bytes": 207387,
+  "finalUrl": "https://techversantinfotech.com/projects/knowledge-dissemination-and-collaboration-platform/"
+ },
+ "/projects/lora-based-sensor-data-acquisition-system/": {
+  "route": "/projects/lora-based-sensor-data-acquisition-system/",
+  "file": "projects__lora-based-sensor-data-acquisition-system.html",
+  "status": 200,
+  "bytes": 212384,
+  "finalUrl": "https://techversantinfotech.com/projects/lora-based-sensor-data-acquisition-system/"
+ },
+ "/projects/lung-cancer-detection/": {
+  "route": "/projects/lung-cancer-detection/",
+  "file": "projects__lung-cancer-detection.html",
+  "status": 200,
+  "bytes": 208501,
+  "finalUrl": "https://techversantinfotech.com/projects/lung-cancer-detection/"
+ },
+ "/projects/menu-app/": {
+  "route": "/projects/menu-app/",
+  "file": "projects__menu-app.html",
+  "status": 200,
+  "bytes": 209466,
+  "finalUrl": "https://techversantinfotech.com/projects/menu-app/"
+ },
+ "/projects/micro-loan-processing-platform/": {
+  "route": "/projects/micro-loan-processing-platform/",
+  "file": "projects__micro-loan-processing-platform.html",
+  "status": 200,
+  "bytes": 207333,
+  "finalUrl": "https://techversantinfotech.com/projects/micro-loan-processing-platform/"
+ },
+ "/projects/mlm-network-visualizer/": {
+  "route": "/projects/mlm-network-visualizer/",
+  "file": "projects__mlm-network-visualizer.html",
+  "status": 200,
+  "bytes": 209076,
+  "finalUrl": "https://techversantinfotech.com/projects/mlm-network-visualizer/"
+ },
+ "/projects/modernizing-fleet-risk-management-with-a-driver-intelligence-platform/": {
+  "route": "/projects/modernizing-fleet-risk-management-with-a-driver-intelligence-platform/",
+  "file": "projects__modernizing-fleet-risk-management-with-a-driver-intelligence-platform.html",
+  "status": 200,
+  "bytes": 207430,
+  "finalUrl": "https://techversantinfotech.com/projects/modernizing-fleet-risk-management-with-a-driver-intelligence-platform/"
+ },
+ "/projects/modernizing-healthcare-workflows-with-ai-powered-clinical-management/": {
+  "route": "/projects/modernizing-healthcare-workflows-with-ai-powered-clinical-management/",
+  "file": "projects__modernizing-healthcare-workflows-with-ai-powered-clinical-management.html",
+  "status": 200,
+  "bytes": 206569,
+  "finalUrl": "https://techversantinfotech.com/projects/modernizing-healthcare-workflows-with-ai-powered-clinical-management/"
+ },
+ "/projects/modernizing-vacation-rentals-with-a-scalable-net-powered-booking-platform/": {
+  "route": "/projects/modernizing-vacation-rentals-with-a-scalable-net-powered-booking-platform/",
+  "file": "projects__modernizing-vacation-rentals-with-a-scalable-net-powered-booking-platform.html",
+  "status": 200,
+  "bytes": 205201,
+  "finalUrl": "https://techversantinfotech.com/projects/modernizing-vacation-rentals-with-a-scalable-net-powered-booking-platform/"
+ },
+ "/projects/multimedia-enabled-learning-companion/": {
+  "route": "/projects/multimedia-enabled-learning-companion/",
+  "file": "projects__multimedia-enabled-learning-companion.html",
+  "status": 200,
+  "bytes": 209648,
+  "finalUrl": "https://techversantinfotech.com/projects/multimedia-enabled-learning-companion/"
+ },
+ "/projects/music-distribution-saas-platform/": {
+  "route": "/projects/music-distribution-saas-platform/",
+  "file": "projects__music-distribution-saas-platform.html",
+  "status": 200,
+  "bytes": 207852,
+  "finalUrl": "https://techversantinfotech.com/projects/music-distribution-saas-platform/"
+ },
+ "/projects/ocph-roh-retail-platforms/": {
+  "route": "/projects/ocph-roh-retail-platforms/",
+  "file": "projects__ocph-roh-retail-platforms.html",
+  "status": 200,
+  "bytes": 205486,
+  "finalUrl": "https://techversantinfotech.com/projects/ocph-roh-retail-platforms/"
+ },
+ "/projects/optimizing-enterprise-workflows-with-a-service-request-management-system/": {
+  "route": "/projects/optimizing-enterprise-workflows-with-a-service-request-management-system/",
+  "file": "projects__optimizing-enterprise-workflows-with-a-service-request-management-system.html",
+  "status": 200,
+  "bytes": 206993,
+  "finalUrl": "https://techversantinfotech.com/projects/optimizing-enterprise-workflows-with-a-service-request-management-system/"
+ },
+ "/projects/optimizing-urban-mobility-ai-powered-smart-traffic-management-system/": {
+  "route": "/projects/optimizing-urban-mobility-ai-powered-smart-traffic-management-system/",
+  "file": "projects__optimizing-urban-mobility-ai-powered-smart-traffic-management-system.html",
+  "status": 200,
+  "bytes": 205255,
+  "finalUrl": "https://techversantinfotech.com/projects/optimizing-urban-mobility-ai-powered-smart-traffic-management-system/"
+ },
+ "/projects/optimizing-veterinary-care-with-a-smart-scheduling-platform/": {
+  "route": "/projects/optimizing-veterinary-care-with-a-smart-scheduling-platform/",
+  "file": "projects__optimizing-veterinary-care-with-a-smart-scheduling-platform.html",
+  "status": 200,
+  "bytes": 205853,
+  "finalUrl": "https://techversantinfotech.com/projects/optimizing-veterinary-care-with-a-smart-scheduling-platform/"
+ },
+ "/projects/pdf-convertor/": {
+  "route": "/projects/pdf-convertor/",
+  "file": "projects__pdf-convertor.html",
+  "status": 200,
+  "bytes": 199944,
+  "finalUrl": "https://techversantinfotech.com/projects/pdf-convertor/"
+ },
+ "/projects/pension-distributor/": {
+  "route": "/projects/pension-distributor/",
+  "file": "projects__pension-distributor.html",
+  "status": 200,
+  "bytes": 205234,
+  "finalUrl": "https://techversantinfotech.com/projects/pension-distributor/"
+ },
+ "/projects/pension-verification-disbursal-application/": {
+  "route": "/projects/pension-verification-disbursal-application/",
+  "file": "projects__pension-verification-disbursal-application.html",
+  "status": 200,
+  "bytes": 210856,
+  "finalUrl": "https://techversantinfotech.com/projects/pension-verification-disbursal-application/"
+ },
+ "/projects/real-estate-surveyor-platform-streamlining-property-inspections-bookings/": {
+  "route": "/projects/real-estate-surveyor-platform-streamlining-property-inspections-bookings/",
+  "file": "projects__real-estate-surveyor-platform-streamlining-property-inspections-bookings.html",
+  "status": 200,
+  "bytes": 202584,
+  "finalUrl": "https://techversantinfotech.com/projects/real-estate-surveyor-platform-streamlining-property-inspections-bookings/"
+ },
+ "/projects/real-time-risk-management-middleware-for-traders/": {
+  "route": "/projects/real-time-risk-management-middleware-for-traders/",
+  "file": "projects__real-time-risk-management-middleware-for-traders.html",
+  "status": 200,
+  "bytes": 212172,
+  "finalUrl": "https://techversantinfotech.com/projects/real-time-risk-management-middleware-for-traders/"
+ },
+ "/projects/resume-builder-web-application/": {
+  "route": "/projects/resume-builder-web-application/",
+  "file": "projects__resume-builder-web-application.html",
+  "status": 200,
+  "bytes": 209795,
+  "finalUrl": "https://techversantinfotech.com/projects/resume-builder-web-application/"
+ },
+ "/projects/retail-fashion-engagement-platform/": {
+  "route": "/projects/retail-fashion-engagement-platform/",
+  "file": "projects__retail-fashion-engagement-platform.html",
+  "status": 200,
+  "bytes": 202314,
+  "finalUrl": "https://techversantinfotech.com/projects/retail-fashion-engagement-platform/"
+ },
+ "/projects/revolutionizing-on-demand-transportation/": {
+  "route": "/projects/revolutionizing-on-demand-transportation/",
+  "file": "projects__revolutionizing-on-demand-transportation.html",
+  "status": 200,
+  "bytes": 208192,
+  "finalUrl": "https://techversantinfotech.com/projects/revolutionizing-on-demand-transportation/"
+ },
+ "/projects/revolutionizing-product-intake-with-a-dynamic-workflow-solution/": {
+  "route": "/projects/revolutionizing-product-intake-with-a-dynamic-workflow-solution/",
+  "file": "projects__revolutionizing-product-intake-with-a-dynamic-workflow-solution.html",
+  "status": 200,
+  "bytes": 208329,
+  "finalUrl": "https://techversantinfotech.com/projects/revolutionizing-product-intake-with-a-dynamic-workflow-solution/"
+ },
+ "/projects/revolutionizing-urban-mobility-ai-powered-smart-parking-management-system/": {
+  "route": "/projects/revolutionizing-urban-mobility-ai-powered-smart-parking-management-system/",
+  "file": "projects__revolutionizing-urban-mobility-ai-powered-smart-parking-management-system.html",
+  "status": 200,
+  "bytes": 205826,
+  "finalUrl": "https://techversantinfotech.com/projects/revolutionizing-urban-mobility-ai-powered-smart-parking-management-system/"
+ },
+ "/projects/roofarea-detection/": {
+  "route": "/projects/roofarea-detection/",
+  "file": "projects__roofarea-detection.html",
+  "status": 200,
+  "bytes": 205589,
+  "finalUrl": "https://techversantinfotech.com/projects/roofarea-detection/"
+ },
+ "/projects/scaling-digital-rentals-with-a-full-service-property-management-platform/": {
+  "route": "/projects/scaling-digital-rentals-with-a-full-service-property-management-platform/",
+  "file": "projects__scaling-digital-rentals-with-a-full-service-property-management-platform.html",
+  "status": 200,
+  "bytes": 204517,
+  "finalUrl": "https://techversantinfotech.com/projects/scaling-digital-rentals-with-a-full-service-property-management-platform/"
+ },
+ "/projects/secure-lead-retrieval-system-a-devops-enhanced-solution-for-event-management/": {
+  "route": "/projects/secure-lead-retrieval-system-a-devops-enhanced-solution-for-event-management/",
+  "file": "projects__secure-lead-retrieval-system-a-devops-enhanced-solution-for-event-management.html",
+  "status": 200,
+  "bytes": 209896,
+  "finalUrl": "https://techversantinfotech.com/projects/secure-lead-retrieval-system-a-devops-enhanced-solution-for-event-management/"
+ },
+ "/projects/seamless-fitness-booking-payment-platform-for-health-clubs/": {
+  "route": "/projects/seamless-fitness-booking-payment-platform-for-health-clubs/",
+  "file": "projects__seamless-fitness-booking-payment-platform-for-health-clubs.html",
+  "status": 200,
+  "bytes": 211575,
+  "finalUrl": "https://techversantinfotech.com/projects/seamless-fitness-booking-payment-platform-for-health-clubs/"
+ },
+ "/projects/securing-utility-ecosystems-centralized-authentication-authorization-server/": {
+  "route": "/projects/securing-utility-ecosystems-centralized-authentication-authorization-server/",
+  "file": "projects__securing-utility-ecosystems-centralized-authentication-authorization-server.html",
+  "status": 200,
+  "bytes": 208548,
+  "finalUrl": "https://techversantinfotech.com/projects/securing-utility-ecosystems-centralized-authentication-authorization-server/"
+ },
+ "/projects/secure-license-management/": {
+  "route": "/projects/secure-license-management/",
+  "file": "projects__secure-license-management.html",
+  "status": 200,
+  "bytes": 210941,
+  "finalUrl": "https://techversantinfotech.com/projects/secure-license-management/"
+ },
+ "/projects/streamlining-agricultural-trade-ai-enabled-agritech-e-commerce-platform/": {
+  "route": "/projects/streamlining-agricultural-trade-ai-enabled-agritech-e-commerce-platform/",
+  "file": "projects__streamlining-agricultural-trade-ai-enabled-agritech-e-commerce-platform.html",
+  "status": 200,
+  "bytes": 207498,
+  "finalUrl": "https://techversantinfotech.com/projects/streamlining-agricultural-trade-ai-enabled-agritech-e-commerce-platform/"
+ },
+ "/projects/streamlining-digital-learning-and-classroom-management-for-educational-institutions/": {
+  "route": "/projects/streamlining-digital-learning-and-classroom-management-for-educational-institutions/",
+  "file": "projects__streamlining-digital-learning-and-classroom-management-for-educational-institutions.html",
+  "status": 200,
+  "bytes": 208180,
+  "finalUrl": "https://techversantinfotech.com/projects/streamlining-digital-learning-and-classroom-management-for-educational-institutions/"
+ },
+ "/projects/streamlining-healthcare-with-an-advanced-records-platform/": {
+  "route": "/projects/streamlining-healthcare-with-an-advanced-records-platform/",
+  "file": "projects__streamlining-healthcare-with-an-advanced-records-platform.html",
+  "status": 200,
+  "bytes": 206563,
+  "finalUrl": "https://techversantinfotech.com/projects/streamlining-healthcare-with-an-advanced-records-platform/"
+ },
+ "/projects/streamlining-hospitality-operations-restaurant-management-system/": {
+  "route": "/projects/streamlining-hospitality-operations-restaurant-management-system/",
+  "file": "projects__streamlining-hospitality-operations-restaurant-management-system.html",
+  "status": 200,
+  "bytes": 207511,
+  "finalUrl": "https://techversantinfotech.com/projects/streamlining-hospitality-operations-restaurant-management-system/"
+ },
+ "/projects/the-unified-church-engagement-platform/": {
+  "route": "/projects/the-unified-church-engagement-platform/",
+  "file": "projects__the-unified-church-engagement-platform.html",
+  "status": 200,
+  "bytes": 206555,
+  "finalUrl": "https://techversantinfotech.com/projects/the-unified-church-engagement-platform/"
+ },
+ "/projects/streamlining-media-processingserverless-video-conversion-platform/": {
+  "route": "/projects/streamlining-media-processingserverless-video-conversion-platform/",
+  "file": "projects__streamlining-media-processingserverless-video-conversion-platform.html",
+  "status": 200,
+  "bytes": 205012,
+  "finalUrl": "https://techversantinfotech.com/projects/streamlining-media-processingserverless-video-conversion-platform/"
+ },
+ "/projects/transforming-higher-education-ai-powered-smart-university-city-system/": {
+  "route": "/projects/transforming-higher-education-ai-powered-smart-university-city-system/",
+  "file": "projects__transforming-higher-education-ai-powered-smart-university-city-system.html",
+  "status": 200,
+  "bytes": 205740,
+  "finalUrl": "https://techversantinfotech.com/projects/transforming-higher-education-ai-powered-smart-university-city-system/"
+ },
+ "/projects/transforming-campus-sustainability-ai-powered-smart-waste-management-system/": {
+  "route": "/projects/transforming-campus-sustainability-ai-powered-smart-waste-management-system/",
+  "file": "projects__transforming-campus-sustainability-ai-powered-smart-waste-management-system.html",
+  "status": 200,
+  "bytes": 205676,
+  "finalUrl": "https://techversantinfotech.com/projects/transforming-campus-sustainability-ai-powered-smart-waste-management-system/"
+ },
+ "/projects/transforming-wound-care-with-ai-powered-diagnosis/": {
+  "route": "/projects/transforming-wound-care-with-ai-powered-diagnosis/",
+  "file": "projects__transforming-wound-care-with-ai-powered-diagnosis.html",
+  "status": 200,
+  "bytes": 209102,
+  "finalUrl": "https://techversantinfotech.com/projects/transforming-wound-care-with-ai-powered-diagnosis/"
+ },
+ "/projects/urban-infrastructure-management-system/": {
+  "route": "/projects/urban-infrastructure-management-system/",
+  "file": "projects__urban-infrastructure-management-system.html",
+  "status": 200,
+  "bytes": 214629,
+  "finalUrl": "https://techversantinfotech.com/projects/urban-infrastructure-management-system/"
+ },
+ "/projects/video-marketing-platform-for-golf-courses/": {
+  "route": "/projects/video-marketing-platform-for-golf-courses/",
+  "file": "projects__video-marketing-platform-for-golf-courses.html",
+  "status": 200,
+  "bytes": 209909,
+  "finalUrl": "https://techversantinfotech.com/projects/video-marketing-platform-for-golf-courses/"
+ },
+ "/projects/web-crawler-for-compliance-auditing/": {
+  "route": "/projects/web-crawler-for-compliance-auditing/",
+  "file": "projects__web-crawler-for-compliance-auditing.html",
+  "status": 200,
+  "bytes": 209767,
+  "finalUrl": "https://techversantinfotech.com/projects/web-crawler-for-compliance-auditing/"
+ },
+ "/projects/workplace-safety-companion-app-mobile-solution-for-compliance-on-the-go/": {
+  "route": "/projects/workplace-safety-companion-app-mobile-solution-for-compliance-on-the-go/",
+  "file": "projects__workplace-safety-companion-app-mobile-solution-for-compliance-on-the-go.html",
+  "status": 200,
+  "bytes": 210103,
+  "finalUrl": "https://techversantinfotech.com/projects/workplace-safety-companion-app-mobile-solution-for-compliance-on-the-go/"
+ },
+ "/projects/yacht-matching-and-client-management-for-brokers-and-inter-brokers/": {
+  "route": "/projects/yacht-matching-and-client-management-for-brokers-and-inter-brokers/",
+  "file": "projects__yacht-matching-and-client-management-for-brokers-and-inter-brokers.html",
+  "status": 200,
+  "bytes": 212932,
+  "finalUrl": "https://techversantinfotech.com/projects/yacht-matching-and-client-management-for-brokers-and-inter-brokers/"
+ },
+ "/services/": {
+  "route": "/services/",
+  "file": "services.html",
+  "status": 200,
+  "bytes": 250647,
+  "finalUrl": "https://techversantinfotech.com/services/"
+ },
+ "/services/artificial-intelligence/": {
+  "route": "/services/artificial-intelligence/",
+  "file": "services__artificial-intelligence.html",
+  "status": 200,
+  "bytes": 255061,
+  "finalUrl": "https://techversantinfotech.com/services/artificial-intelligence/"
+ },
+ "/services/blockchain/": {
+  "route": "/services/blockchain/",
+  "file": "services__blockchain.html",
+  "status": 200,
+  "bytes": 239827,
+  "finalUrl": "https://techversantinfotech.com/services/blockchain/"
+ },
+ "/services/business-intelligence/": {
+  "route": "/services/business-intelligence/",
+  "file": "services__business-intelligence.html",
+  "status": 200,
+  "bytes": 252240,
+  "finalUrl": "https://techversantinfotech.com/services/business-intelligence/"
+ },
+ "/services/cyber-security/": {
+  "route": "/services/cyber-security/",
+  "file": "services__cyber-security.html",
+  "status": 200,
+  "bytes": 246424,
+  "finalUrl": "https://techversantinfotech.com/services/cyber-security/"
+ },
+ "/services/data-science-engineering/": {
+  "route": "/services/data-science-engineering/",
+  "file": "services__data-science-engineering.html",
+  "status": 200,
+  "bytes": 251397,
+  "finalUrl": "https://techversantinfotech.com/services/data-science-engineering/"
+ },
+ "/services/devops/": {
+  "route": "/services/devops/",
+  "file": "services__devops.html",
+  "status": 200,
+  "bytes": 247506,
+  "finalUrl": "https://techversantinfotech.com/services/devops/"
+ },
+ "/services/iot-development/": {
+  "route": "/services/iot-development/",
+  "file": "services__iot-development.html",
+  "status": 200,
+  "bytes": 251540,
+  "finalUrl": "https://techversantinfotech.com/services/iot-development/"
+ },
+ "/services/it-consulting-support/": {
+  "route": "/services/it-consulting-support/",
+  "file": "services__it-consulting-support.html",
+  "status": 200,
+  "bytes": 251602,
+  "finalUrl": "https://techversantinfotech.com/services/it-consulting-support/"
+ },
+ "/services/mobile-application/": {
+  "route": "/services/mobile-application/",
+  "file": "services__mobile-application.html",
+  "status": 200,
+  "bytes": 249910,
+  "finalUrl": "https://techversantinfotech.com/services/mobile-application/"
+ },
+ "/services/quality-assurance/": {
+  "route": "/services/quality-assurance/",
+  "file": "services__quality-assurance.html",
+  "status": 200,
+  "bytes": 251929,
+  "finalUrl": "https://techversantinfotech.com/services/quality-assurance/"
+ },
+ "/services/saas/": {
+  "route": "/services/saas/",
+  "file": "services__saas.html",
+  "status": 200,
+  "bytes": 250543,
+  "finalUrl": "https://techversantinfotech.com/services/saas/"
+ },
+ "/services/salesforce/": {
+  "route": "/services/salesforce/",
+  "file": "services__salesforce.html",
+  "status": 200,
+  "bytes": 231931,
+  "finalUrl": "https://techversantinfotech.com/services/salesforce/"
+ },
+ "/services/servicenow/": {
+  "route": "/services/servicenow/",
+  "file": "services__servicenow.html",
+  "status": 200,
+  "bytes": 232547,
+  "finalUrl": "https://techversantinfotech.com/services/servicenow/"
+ },
+ "/services/web-application/": {
+  "route": "/services/web-application/",
+  "file": "services__web-application.html",
+  "status": 200,
+  "bytes": 250664,
+  "finalUrl": "https://techversantinfotech.com/services/web-application/"
+ },
+ "/services/zoho-services/": {
+  "route": "/services/zoho-services/",
+  "file": "services__zoho-services.html",
+  "status": 200,
+  "bytes": 236372,
+  "finalUrl": "https://techversantinfotech.com/services/zoho-services/"
+ },
+ "/talent-acquisition/": {
+  "route": "/talent-acquisition/",
+  "file": "talent-acquisition.html",
+  "status": 200,
+  "bytes": 216629,
+  "finalUrl": "https://techversantinfotech.com/talent-acquisition/"
+ },
+ "/technology/": {
+  "route": "/technology/",
+  "file": "technology.html",
+  "status": 200,
+  "bytes": 289400,
+  "finalUrl": "https://techversantinfotech.com/technology/"
+ },
+ "/technology/agentic-ai/": {
+  "route": "/technology/agentic-ai/",
+  "file": "technology__agentic-ai.html",
+  "status": 200,
+  "bytes": 244472,
+  "finalUrl": "https://techversantinfotech.com/technology/agentic-ai/"
+ },
+ "/technology/angular/": {
+  "route": "/technology/angular/",
+  "file": "technology__angular.html",
+  "status": 200,
+  "bytes": 237555,
+  "finalUrl": "https://techversantinfotech.com/technology/angular/"
+ },
+ "/technology/android/": {
+  "route": "/technology/android/",
+  "file": "technology__android.html",
+  "status": 200,
+  "bytes": 243449,
+  "finalUrl": "https://techversantinfotech.com/technology/android/"
+ },
+ "/technology/aws/": {
+  "route": "/technology/aws/",
+  "file": "technology__aws.html",
+  "status": 200,
+  "bytes": 228705,
+  "finalUrl": "https://techversantinfotech.com/technology/aws/"
+ },
+ "/technology/azure/": {
+  "route": "/technology/azure/",
+  "file": "technology__azure.html",
+  "status": 200,
+  "bytes": 223064,
+  "finalUrl": "https://techversantinfotech.com/technology/azure/"
+ },
+ "/technology/coldfusion/": {
+  "route": "/technology/coldfusion/",
+  "file": "technology__coldfusion.html",
+  "status": 200,
+  "bytes": 257904,
+  "finalUrl": "https://techversantinfotech.com/technology/coldfusion/"
+ },
+ "/technology/computer-vision/": {
+  "route": "/technology/computer-vision/",
+  "file": "technology__computer-vision.html",
+  "status": 200,
+  "bytes": 239434,
+  "finalUrl": "https://techversantinfotech.com/technology/computer-vision/"
+ },
+ "/technology/docker/": {
+  "route": "/technology/docker/",
+  "file": "technology__docker.html",
+  "status": 200,
+  "bytes": 228147,
+  "finalUrl": "https://techversantinfotech.com/technology/docker/"
+ },
+ "/technology/dot-net/": {
+  "route": "/technology/dot-net/",
+  "file": "technology__dot-net.html",
+  "status": 200,
+  "bytes": 252619,
+  "finalUrl": "https://techversantinfotech.com/technology/dot-net/"
+ },
+ "/technology/flutter-app-development/": {
+  "route": "/technology/flutter-app-development/",
+  "file": "technology__flutter-app-development.html",
+  "status": 200,
+  "bytes": 243104,
+  "finalUrl": "https://techversantinfotech.com/technology/flutter-app-development/"
+ },
+ "/technology/go-development-services/": {
+  "route": "/technology/go-development-services/",
+  "file": "technology__go-development-services.html",
+  "status": 200,
+  "bytes": 239092,
+  "finalUrl": "https://techversantinfotech.com/technology/go-development-services/"
+ },
+ "/technology/google-cloud-platform-services/": {
+  "route": "/technology/google-cloud-platform-services/",
+  "file": "technology__google-cloud-platform-services.html",
+  "status": 200,
+  "bytes": 214214,
+  "finalUrl": "https://techversantinfotech.com/technology/google-cloud-platform-services/"
+ },
+ "/technology/ios-app-development/": {
+  "route": "/technology/ios-app-development/",
+  "file": "technology__ios-app-development.html",
+  "status": 200,
+  "bytes": 243225,
+  "finalUrl": "https://techversantinfotech.com/technology/ios-app-development/"
+ },
+ "/technology/java-development-services/": {
+  "route": "/technology/java-development-services/",
+  "file": "technology__java-development-services.html",
+  "status": 200,
+  "bytes": 238508,
+  "finalUrl": "https://techversantinfotech.com/technology/java-development-services/"
+ },
+ "/technology/kotlin-app-development/": {
+  "route": "/technology/kotlin-app-development/",
+  "file": "technology__kotlin-app-development.html",
+  "status": 200,
+  "bytes": 231795,
+  "finalUrl": "https://techversantinfotech.com/technology/kotlin-app-development/"
+ },
+ "/technology/kubernetes-consulting-services/": {
+  "route": "/technology/kubernetes-consulting-services/",
+  "file": "technology__kubernetes-consulting-services.html",
+  "status": 200,
+  "bytes": 225318,
+  "finalUrl": "https://techversantinfotech.com/technology/kubernetes-consulting-services/"
+ },
+ "/technology/moodle-development-services/": {
+  "route": "/technology/moodle-development-services/",
+  "file": "technology__moodle-development-services.html",
+  "status": 200,
+  "bytes": 237868,
+  "finalUrl": "https://techversantinfotech.com/technology/moodle-development-services/"
+ },
+ "/technology/natural-language-processing-solutions/": {
+  "route": "/technology/natural-language-processing-solutions/",
+  "file": "technology__natural-language-processing-solutions.html",
+  "status": 200,
+  "bytes": 249023,
+  "finalUrl": "https://techversantinfotech.com/technology/natural-language-processing-solutions/"
+ },
+ "/technology/node-js-development-services/": {
+  "route": "/technology/node-js-development-services/",
+  "file": "technology__node-js-development-services.html",
+  "status": 200,
+  "bytes": 240618,
+  "finalUrl": "https://techversantinfotech.com/technology/node-js-development-services/"
+ },
+ "/technology/objective-c-development-services/": {
+  "route": "/technology/objective-c-development-services/",
+  "file": "technology__objective-c-development-services.html",
+  "status": 200,
+  "bytes": 221886,
+  "finalUrl": "https://techversantinfotech.com/technology/objective-c-development-services/"
+ },
+ "/technology/php/": {
+  "route": "/technology/php/",
+  "file": "technology__php.html",
+  "status": 200,
+  "bytes": 239875,
+  "finalUrl": "https://techversantinfotech.com/technology/php/"
+ },
+ "/technology/pytorch-development-services/": {
+  "route": "/technology/pytorch-development-services/",
+  "file": "technology__pytorch-development-services.html",
+  "status": 200,
+  "bytes": 229865,
+  "finalUrl": "https://techversantinfotech.com/technology/pytorch-development-services/"
+ },
+ "/technology/pythonpython-development-services/": {
+  "route": "/technology/pythonpython-development-services/",
+  "file": "technology__pythonpython-development-services.html",
+  "status": 200,
+  "bytes": 258086,
+  "finalUrl": "https://techversantinfotech.com/technology/pythonpython-development-services/"
+ },
+ "/technology/react-js-development-services/": {
+  "route": "/technology/react-js-development-services/",
+  "file": "technology__react-js-development-services.html",
+  "status": 200,
+  "bytes": 244932,
+  "finalUrl": "https://techversantinfotech.com/technology/react-js-development-services/"
+ },
+ "/technology/react-native-development-services/": {
+  "route": "/technology/react-native-development-services/",
+  "file": "technology__react-native-development-services.html",
+  "status": 200,
+  "bytes": 248518,
+  "finalUrl": "https://techversantinfotech.com/technology/react-native-development-services/"
+ },
+ "/technology/swift-app-development/": {
+  "route": "/technology/swift-app-development/",
+  "file": "technology__swift-app-development.html",
+  "status": 200,
+  "bytes": 235463,
+  "finalUrl": "https://techversantinfotech.com/technology/swift-app-development/"
+ },
+ "/technology/tensorflow-development-services/": {
+  "route": "/technology/tensorflow-development-services/",
+  "file": "technology__tensorflow-development-services.html",
+  "status": 200,
+  "bytes": 233495,
+  "finalUrl": "https://techversantinfotech.com/technology/tensorflow-development-services/"
+ },
+ "/technology/ui-ux-design-services/": {
+  "route": "/technology/ui-ux-design-services/",
+  "file": "technology__ui-ux-design-services.html",
+  "status": 200,
+  "bytes": 216607,
+  "finalUrl": "https://techversantinfotech.com/technology/ui-ux-design-services/"
+ },
+ "/techversant-hosts-the-team-from-baverian-state-ministry-feb-2026/": {
+  "route": "/techversant-hosts-the-team-from-baverian-state-ministry-feb-2026/",
+  "file": "techversant-hosts-the-team-from-baverian-state-ministry-feb-2026.html",
+  "status": 200,
+  "bytes": 196160,
+  "finalUrl": "https://techversantinfotech.com/techversant-hosts-the-team-from-baverian-state-ministry-feb-2026/"
+ },
+ "/techversant-is-iso-270012022-certified-and-gdpr-compliant/": {
+  "route": "/techversant-is-iso-270012022-certified-and-gdpr-compliant/",
+  "file": "techversant-is-iso-270012022-certified-and-gdpr-compliant.html",
+  "status": 200,
+  "bytes": 193061,
+  "finalUrl": "https://techversantinfotech.com/techversant-is-iso-270012022-certified-and-gdpr-compliant/"
+ },
+ "/who-we-are/": {
+  "route": "/who-we-are/",
+  "file": "who-we-are.html",
+  "status": 200,
+  "bytes": 362540,
+  "finalUrl": "https://techversantinfotech.com/who-we-are/"
+ },
+ "/404/": {
+  "route": "/404/",
+  "file": "_404.html",
+  "status": 200,
+  "bytes": 183999,
+  "finalUrl": "https://techversantinfotech.com/this-page-does-not-exist-xyz/"
+ }
+}

@@ -1,0 +1,237 @@
+{
+  "base": "https://techversantinfotech.com",
+  "chrome": "156.0.8078.73",
+  "capturedAt": "2026-11-06T14:41:34.467Z",
+  "entries": [
+    {
+      "route": "/",
+      "width": 1200,
+      "file": "_home/1200.png",
+      "status": 200,
+      "title": "AI Solutions Company | Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 6690,
+        "imagesTotal": 57,
+        "imagesBroken": 0,
+        "swipers": 2,
+        "videos": [
+          {
+            "ready": 4,
+            "paused": true,
+            "w": 1200,
+            "h": 581
+          }
+        ]
+      },
+      "ms": 56974
+    },
+    {
+      "route": "/",
+      "width": 1280,
+      "file": "_home/1280.png",
+      "status": 200,
+      "title": "AI Solutions Company | Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 6738,
+        "imagesTotal": 57,
+        "imagesBroken": 0,
+        "swipers": 2,
+        "videos": [
+          {
+            "ready": 4,
+            "paused": true,
+            "w": 1280,
+            "h": 619
+          }
+        ]
+      },
+      "ms": 57907
+    },
+    {
+      "route": "/",
+      "width": 1366,
+      "file": "_home/1366.png",
+      "status": 200,
+      "title": "AI Solutions Company | Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 6779,
+        "imagesTotal": 57,
+        "imagesBroken": 0,
+        "swipers": 2,
+        "videos": [
+          {
+            "ready": 4,
+            "paused": true,
+            "w": 1366,
+            "h": 661
+          }
+        ]
+      },
+      "ms": 59255
+    },
+    {
+      "route": "/",
+      "width": 1536,
+      "file": "_home/1536.png",
+      "status": 200,
+      "title": "AI Solutions Company | Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 6861,
+        "imagesTotal": 57,
+        "imagesBroken": 0,
+        "swipers": 2,
+        "videos": [
+          {
+            "ready": 4,
+            "paused": true,
+            "w": 1536,
+            "h": 743
+          }
+        ]
+      },
+      "ms": 58632
+    },
+    {
+      "route": "/",
+      "width": 360,
+      "file": "_home/360.png",
+      "status": 200,
+      "title": "AI Solutions Company | Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 9485,
+        "imagesTotal": 47,
+        "imagesBroken": 0,
+        "swipers": 2,
+        "videos": [
+          {
+            "ready": 4,
+            "paused": true,
+            "w": 360,
+            "h": 435
+          }
+        ]
+      },
+      "ms": 58711
+    },
+    {
+      "route": "/",
+      "width": 375,
+      "file": "_home/375.png",
+      "status": 200,
+      "title": "AI Solutions Company | Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 9491,
+        "imagesTotal": 47,
+        "imagesBroken": 0,
+        "swipers": 2,
+        "videos": [
+          {
+            "ready": 4,
+            "paused": true,
+            "w": 375,
+            "h": 453
+          }
+        ]
+      },
+      "ms": 58119
+    },
+    {
+      "route": "/",
+      "width": 414,
+      "file": "_home/414.png",
+      "status": 200,
+      "title": "AI Solutions Company | Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 9562,
+        "imagesTotal": 47,
+        "imagesBroken": 0,
+        "swipers": 2,
+        "videos": [
+          {
+            "ready": 4,
+            "paused": true,
+            "w": 414,
+            "h": 500
+          }
+        ]
+      },
+      "ms": 24081
+    },
+    {
+      "route": "/",
+      "width": 480,
+      "file": "_home/480.png",
+      "status": 200,
+      "title": "AI Solutions Company | Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 9575,
+        "imagesTotal": 47,
+        "imagesBroken": 0,
+        "swipers": 2,
+        "videos": [
+          {
+            "ready": 4,
+            "paused": true,
+            "w": 480,
+            "h": 592
+          }
+        ]
+      },
+      "ms": 59486
+    },
+    {
+      "route": "/",
+      "width": 600,
+      "file": "_home/600.png",
+      "status": 200,
+      "title": "AI Solutions Company | Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 9625,
+        "imagesTotal": 47,
+        "imagesBroken": 0,
+        "swipers": 2,
+        "videos": [
+          {
+            "ready": 4,
+            "paused": true,
+            "w": 600,
+            "h": 740
+          }
+        ]
+      },
+      "ms": 57655
+    },
+    {
+      "route": "/",
+      "width": 900,
+      "file": "_home/900.png",
+      "status": 200,
+      "title": "AI Solutions Company | Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 9781,
+        "imagesTotal": 52,
+        "imagesBroken": 0,
+        "swipers": 2,
+        "videos": [
+          {
+            "ready": 4,
+            "paused": true,
+            "w": 900,
+            "h": 527
+          }
+        ]
+      },
+      "ms": 64609
+    }
+  ]
+}

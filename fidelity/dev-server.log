@@ -1,0 +1,464 @@
+$ next dev -p 3000
+▲ Next.js 16.4.5 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.1.188:3000
+✓ Ready in 426ms
+✓ Running next.config.ts took 42ms
+- Cache Components enabled
+- Partial Prefetching enabled
+
+[browser] ./src/app/globals.css
+Error: Error evaluating Node.js code
+Error: Can't resolve '../styles/preflight.css' in '/home/vishnu/techversant-next/src/app'
+  (from /home/vishnu/techversant-next/node_modules/.pnpm/@tailwindcss+turbopack@4.3.4/node_modules/@tailwindcss/turbopack/dist/index.js)
+    [at finishWithoutResolve (/home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:959:18)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1055:13]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/DescriptionFilePlugin.js:94:43]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5] 
+    at handleErrors (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+    at processMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16079:21)
+    at WebSocket.handleMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16443:52) (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+[browser] ./src/app/globals.css
+Error: Error evaluating Node.js code
+Error: Can't resolve '../styles/preflight.css' in '/home/vishnu/techversant-next/src/app'
+  (from /home/vishnu/techversant-next/node_modules/.pnpm/@tailwindcss+turbopack@4.3.4/node_modules/@tailwindcss/turbopack/dist/index.js)
+    [at finishWithoutResolve (/home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:959:18)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1055:13]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/DescriptionFilePlugin.js:94:43]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5] 
+    at handleErrors (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+    at processMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16079:21)
+    at WebSocket.handleMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16443:52) (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+[browser] ./src/app/globals.css
+Error: Error evaluating Node.js code
+Error: Can't resolve '../styles/preflight.css' in '/home/vishnu/techversant-next/src/app'
+  (from /home/vishnu/techversant-next/node_modules/.pnpm/@tailwindcss+turbopack@4.3.4/node_modules/@tailwindcss/turbopack/dist/index.js)
+    [at finishWithoutResolve (/home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:959:18)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1055:13]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/DescriptionFilePlugin.js:94:43]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5] 
+    at handleErrors (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+    at processMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16079:21)
+    at WebSocket.handleMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16443:52) (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+[browser] ./src/app/globals.css
+Error: Error evaluating Node.js code
+Error: Can't resolve '../styles/preflight.css' in '/home/vishnu/techversant-next/src/app'
+  (from /home/vishnu/techversant-next/node_modules/.pnpm/@tailwindcss+turbopack@4.3.4/node_modules/@tailwindcss/turbopack/dist/index.js)
+    [at finishWithoutResolve (/home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:959:18)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1055:13]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/DescriptionFilePlugin.js:94:43]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5] 
+    at handleErrors (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+    at processMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16079:21)
+    at WebSocket.handleMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16443:52) (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+[browser] ./src/app/globals.css
+Error: Error evaluating Node.js code
+Error: Can't resolve '../styles/preflight.css' in '/home/vishnu/techversant-next/src/app'
+  (from /home/vishnu/techversant-next/node_modules/.pnpm/@tailwindcss+turbopack@4.3.4/node_modules/@tailwindcss/turbopack/dist/index.js)
+    [at finishWithoutResolve (/home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:959:18)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1055:13]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/DescriptionFilePlugin.js:94:43]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5] 
+    at handleErrors (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+    at processMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16079:21)
+    at WebSocket.handleMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16443:52) (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+[browser] ./src/app/globals.css
+Error: Error evaluating Node.js code
+Error: Can't resolve '../styles/preflight.css' in '/home/vishnu/techversant-next/src/app'
+  (from /home/vishnu/techversant-next/node_modules/.pnpm/@tailwindcss+turbopack@4.3.4/node_modules/@tailwindcss/turbopack/dist/index.js)
+    [at finishWithoutResolve (/home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:959:18)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1055:13]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/DescriptionFilePlugin.js:94:43]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5] 
+    at handleErrors (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+    at processMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16079:21)
+    at WebSocket.handleMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16443:52) (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+[browser] ./src/app/globals.css
+Error: Error evaluating Node.js code
+Error: Can't resolve '../styles/preflight.css' in '/home/vishnu/techversant-next/src/app'
+  (from /home/vishnu/techversant-next/node_modules/.pnpm/@tailwindcss+turbopack@4.3.4/node_modules/@tailwindcss/turbopack/dist/index.js)
+    [at finishWithoutResolve (/home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:959:18)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1055:13]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/DescriptionFilePlugin.js:94:43]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5] 
+    at handleErrors (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+    at processMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16079:21)
+    at WebSocket.handleMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16443:52) (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+[browser] ./src/app/globals.css
+Error: Error evaluating Node.js code
+Error: Can't resolve '../styles/preflight.css' in '/home/vishnu/techversant-next/src/app'
+  (from /home/vishnu/techversant-next/node_modules/.pnpm/@tailwindcss+turbopack@4.3.4/node_modules/@tailwindcss/turbopack/dist/index.js)
+    [at finishWithoutResolve (/home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:959:18)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1055:13]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/DescriptionFilePlugin.js:94:43]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5] 
+    at handleErrors (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+    at processMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16079:21)
+    at WebSocket.handleMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16443:52) (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+[browser] ./src/app/globals.css
+Error: Error evaluating Node.js code
+Error: Can't resolve '../styles/preflight.css' in '/home/vishnu/techversant-next/src/app'
+  (from /home/vishnu/techversant-next/node_modules/.pnpm/@tailwindcss+turbopack@4.3.4/node_modules/@tailwindcss/turbopack/dist/index.js)
+    [at finishWithoutResolve (/home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:959:18)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1055:13]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/DescriptionFilePlugin.js:94:43]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5] 
+    at handleErrors (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+    at processMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16079:21)
+    at WebSocket.handleMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16443:52) (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+[browser] ./src/app/globals.css
+Error: Error evaluating Node.js code
+Error: Can't resolve '../styles/preflight.css' in '/home/vishnu/techversant-next/src/app'
+  (from /home/vishnu/techversant-next/node_modules/.pnpm/@tailwindcss+turbopack@4.3.4/node_modules/@tailwindcss/turbopack/dist/index.js)
+    [at finishWithoutResolve (/home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:959:18)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1055:13]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/DescriptionFilePlugin.js:94:43]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5] 
+    at handleErrors (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+    at processMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16079:21)
+    at WebSocket.handleMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16443:52) (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+[browser] ./src/app/globals.css
+Error: Error evaluating Node.js code
+Error: Can't resolve '../styles/preflight.css' in '/home/vishnu/techversant-next/src/app'
+  (from /home/vishnu/techversant-next/node_modules/.pnpm/@tailwindcss+turbopack@4.3.4/node_modules/@tailwindcss/turbopack/dist/index.js)
+    [at finishWithoutResolve (/home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:959:18)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1055:13]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/DescriptionFilePlugin.js:94:43]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5] 
+    at handleErrors (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+    at processMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16079:21)
+    at WebSocket.handleMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16443:52) (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+[browser] ./src/app/globals.css
+Error: Error evaluating Node.js code
+Error: Can't resolve '../styles/preflight.css' in '/home/vishnu/techversant-next/src/app'
+  (from /home/vishnu/techversant-next/node_modules/.pnpm/@tailwindcss+turbopack@4.3.4/node_modules/@tailwindcss/turbopack/dist/index.js)
+    [at finishWithoutResolve (/home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:959:18)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1055:13]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/DescriptionFilePlugin.js:94:43]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5] 
+    at handleErrors (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+    at processMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16079:21)
+    at WebSocket.handleMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16443:52) (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+[browser] ./src/app/globals.css
+Error: Error evaluating Node.js code
+Error: Can't resolve '../styles/preflight.css' in '/home/vishnu/techversant-next/src/app'
+  (from /home/vishnu/techversant-next/node_modules/.pnpm/@tailwindcss+turbopack@4.3.4/node_modules/@tailwindcss/turbopack/dist/index.js)
+    [at finishWithoutResolve (/home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:959:18)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1055:13]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/DescriptionFilePlugin.js:94:43]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5] 
+    at handleErrors (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+    at processMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16079:21)
+    at WebSocket.handleMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16443:52) (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+[browser] ./src/app/globals.css
+Error: Error evaluating Node.js code
+Error: Can't resolve '../styles/preflight.css' in '/home/vishnu/techversant-next/src/app'
+  (from /home/vishnu/techversant-next/node_modules/.pnpm/@tailwindcss+turbopack@4.3.4/node_modules/@tailwindcss/turbopack/dist/index.js)
+    [at finishWithoutResolve (/home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:959:18)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1055:13]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/DescriptionFilePlugin.js:94:43]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5] 
+    at handleErrors (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+    at processMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16079:21)
+    at WebSocket.handleMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16443:52) (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+[browser] ./src/app/globals.css
+Error: Error evaluating Node.js code
+Error: Can't resolve '../styles/preflight.css' in '/home/vishnu/techversant-next/src/app'
+  (from /home/vishnu/techversant-next/node_modules/.pnpm/@tailwindcss+turbopack@4.3.4/node_modules/@tailwindcss/turbopack/dist/index.js)
+    [at finishWithoutResolve (/home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:959:18)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1055:13]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/DescriptionFilePlugin.js:94:43]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5] 
+    at handleErrors (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+    at processMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16079:21)
+    at WebSocket.handleMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16443:52) (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+[browser] ./src/app/globals.css
+Error: Error evaluating Node.js code
+Error: Can't resolve '../styles/preflight.css' in '/home/vishnu/techversant-next/src/app'
+  (from /home/vishnu/techversant-next/node_modules/.pnpm/@tailwindcss+turbopack@4.3.4/node_modules/@tailwindcss/turbopack/dist/index.js)
+    [at finishWithoutResolve (/home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:959:18)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1055:13]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/DescriptionFilePlugin.js:94:43]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5] 
+    at handleErrors (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+    at processMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16079:21)
+    at WebSocket.handleMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16443:52) (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+[browser] ./src/app/globals.css
+Error: Error evaluating Node.js code
+Error: Can't resolve '../styles/preflight.css' in '/home/vishnu/techversant-next/src/app'
+  (from /home/vishnu/techversant-next/node_modules/.pnpm/@tailwindcss+turbopack@4.3.4/node_modules/@tailwindcss/turbopack/dist/index.js)
+    [at finishWithoutResolve (/home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:959:18)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1055:13]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/DescriptionFilePlugin.js:94:43]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5] 
+    at handleErrors (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+    at processMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16079:21)
+    at WebSocket.handleMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16443:52) (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+[browser] ./src/app/globals.css
+Error: Error evaluating Node.js code
+Error: Can't resolve '../styles/preflight.css' in '/home/vishnu/techversant-next/src/app'
+  (from /home/vishnu/techversant-next/node_modules/.pnpm/@tailwindcss+turbopack@4.3.4/node_modules/@tailwindcss/turbopack/dist/index.js)
+    [at finishWithoutResolve (/home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:959:18)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1055:13]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/DescriptionFilePlugin.js:94:43]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5] 
+    at handleErrors (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+    at processMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16079:21)
+    at WebSocket.handleMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16443:52) (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+[browser] ./src/app/globals.css
+Error: Error evaluating Node.js code
+Error: Can't resolve '../styles/preflight.css' in '/home/vishnu/techversant-next/src/app'
+  (from /home/vishnu/techversant-next/node_modules/.pnpm/@tailwindcss+turbopack@4.3.4/node_modules/@tailwindcss/turbopack/dist/index.js)
+    [at finishWithoutResolve (/home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:959:18)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1055:13]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/DescriptionFilePlugin.js:94:43]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5] 
+    at handleErrors (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+    at processMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16079:21)
+    at WebSocket.handleMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16443:52) (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+[browser] ./src/app/globals.css
+Error: Error evaluating Node.js code
+Error: Can't resolve '../styles/preflight.css' in '/home/vishnu/techversant-next/src/app'
+  (from /home/vishnu/techversant-next/node_modules/.pnpm/@tailwindcss+turbopack@4.3.4/node_modules/@tailwindcss/turbopack/dist/index.js)
+    [at finishWithoutResolve (/home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:959:18)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1055:13]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/DescriptionFilePlugin.js:94:43]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5] 
+    at handleErrors (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+    at processMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16079:21)
+    at WebSocket.handleMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16443:52) (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+[browser] ./src/app/globals.css
+Error: Error evaluating Node.js code
+Error: Can't resolve '../styles/preflight.css' in '/home/vishnu/techversant-next/src/app'
+  (from /home/vishnu/techversant-next/node_modules/.pnpm/@tailwindcss+turbopack@4.3.4/node_modules/@tailwindcss/turbopack/dist/index.js)
+    [at finishWithoutResolve (/home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:959:18)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1055:13]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/DescriptionFilePlugin.js:94:43]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5] 
+    at handleErrors (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+    at processMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16079:21)
+    at WebSocket.handleMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16443:52) (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+[browser] ./src/app/globals.css
+Error: Error evaluating Node.js code
+Error: Can't resolve '../styles/preflight.css' in '/home/vishnu/techversant-next/src/app'
+  (from /home/vishnu/techversant-next/node_modules/.pnpm/@tailwindcss+turbopack@4.3.4/node_modules/@tailwindcss/turbopack/dist/index.js)
+    [at finishWithoutResolve (/home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:959:18)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1055:13]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/DescriptionFilePlugin.js:94:43]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5] 
+    at handleErrors (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+    at processMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16079:21)
+    at WebSocket.handleMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16443:52) (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+[browser] ./src/app/globals.css
+Error: Error evaluating Node.js code
+Error: Can't resolve '../styles/preflight.css' in '/home/vishnu/techversant-next/src/app'
+  (from /home/vishnu/techversant-next/node_modules/.pnpm/@tailwindcss+turbopack@4.3.4/node_modules/@tailwindcss/turbopack/dist/index.js)
+    [at finishWithoutResolve (/home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:959:18)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1055:13]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/DescriptionFilePlugin.js:94:43]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5] 
+    at handleErrors (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+    at processMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16079:21)
+    at WebSocket.handleMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16443:52) (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+[browser] ./src/app/globals.css
+Error: Error evaluating Node.js code
+Error: Can't resolve '../styles/preflight.css' in '/home/vishnu/techversant-next/src/app'
+  (from /home/vishnu/techversant-next/node_modules/.pnpm/@tailwindcss+turbopack@4.3.4/node_modules/@tailwindcss/turbopack/dist/index.js)
+    [at finishWithoutResolve (/home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:959:18)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1055:13]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/DescriptionFilePlugin.js:94:43]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5]
+    [at eval (/home/vishnu/techversant-next/node_modules/.pnpm/tapable@2.3.3/node_modules/tapable/lib/HookCodeFactory.js:31:10)]
+    [at /home/vishnu/techversant-next/node_modules/.pnpm/enhanced-resolve@5.26.1/node_modules/enhanced-resolve/lib/Resolver.js:1139:5] 
+    at handleErrors (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+    at processMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16079:21)
+    at WebSocket.handleMessage (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16443:52) (file:///home/vishnu/techversant-next/.next/dev/static/chunks/0v___next_dist_client_035p63xg288u2._.js:16010:21)
+○ Compiling /[...slug] ...
+ GET /customer-stories/ 200 in 2.3s (next.js: 420ms, generate-params: 963ms, application-code: 943ms)
+ GET / 200 in 273ms (next.js: 10ms, application-code: 262ms)
+ GET /industries/healthcare-life-sciences/ 200 in 1019ms (next.js: 13ms, generate-params: 30ms, application-code: 977ms)
+ GET /jobs/senior-associate-talent-acquisition/ 200 in 957ms (next.js: 8ms, generate-params: 0.1ms, application-code: 949ms)
+ GET /services/artificial-intelligence/ 200 in 524ms (next.js: 4ms, generate-params: 0.0ms, application-code: 520ms)
+ GET /contact-us/ 200 in 376ms (next.js: 7ms, generate-params: 26ms, application-code: 343ms)
+ GET / 200 in 223ms (next.js: 3ms, application-code: 220ms)
+ GET /talent-acquisition/ 200 in 896ms (next.js: 8ms, generate-params: 27ms, application-code: 860ms)
+ GET /talent-acquisition/ 200 in 385ms (next.js: 16ms, generate-params: 42ms, application-code: 327ms)
+ GET /talent-acquisition/ 200 in 304ms (next.js: 3ms, generate-params: 16ms, application-code: 285ms)
+✓ Compiled in 409ms
+ GET /customer-stories/ 200 in 1589ms (next.js: 32ms, generate-params: 36ms, application-code: 1522ms)
+ GET /industries/healthcare-life-sciences/ 200 in 410ms (next.js: 5ms, generate-params: 50ms, application-code: 356ms)
+ GET /industries/healthcare-life-sciences/ 200 in 453ms (next.js: 6ms, generate-params: 35ms, application-code: 412ms)
+ GET / 200 in 207ms (next.js: 3ms, application-code: 204ms)
+ GET / 200 in 269ms (next.js: 1.4ms, application-code: 268ms)
+ GET / 200 in 233ms (next.js: 1.8ms, application-code: 231ms)
+ GET / 200 in 234ms (next.js: 3ms, application-code: 232ms)
+ GET / 200 in 263ms (next.js: 1.5ms, application-code: 261ms)
+ GET / 200 in 285ms (next.js: 2ms, application-code: 283ms)
+ GET /services/salesforce/ 200 in 420ms (next.js: 9ms, generate-params: 27ms, application-code: 385ms)
+✓ Compiled in 111ms
+ GET /services/salesforce/ 200 in 296ms (next.js: 14ms, generate-params: 21ms, application-code: 261ms)
+ GET /services/salesforce/ 200 in 299ms (next.js: 3ms, generate-params: 26ms, application-code: 271ms)
+✓ Compiled in 36ms
+ GET /services/salesforce/ 200 in 937ms (next.js: 9ms, generate-params: 21ms, application-code: 907ms)
+ GET /services/salesforce/ 200 in 470ms (next.js: 10ms, generate-params: 0.0ms, application-code: 460ms)
+ GET /industries/healthcare-life-sciences/ 200 in 237ms (next.js: 3ms, generate-params: 0.0ms, application-code: 234ms)
+ GET /industries/healthcare-life-sciences/ 200 in 331ms (next.js: 3ms, generate-params: 24ms, application-code: 304ms)
+ GET /who-we-are/ 200 in 570ms (next.js: 5ms, generate-params: 22ms, application-code: 542ms)
+ GET /who-we-are/ 200 in 527ms (next.js: 2ms, generate-params: 28ms, application-code: 498ms)
+ GET /who-we-are/ 200 in 475ms (next.js: 4ms, generate-params: 30ms, application-code: 440ms)
+ GET /who-we-are/ 200 in 565ms (next.js: 2ms, generate-params: 38ms, application-code: 524ms)
+ GET /who-we-are/ 200 in 546ms (next.js: 3ms, generate-params: 47ms, application-code: 497ms)
+ GET /who-we-are/ 200 in 474ms (next.js: 2ms, generate-params: 25ms, application-code: 447ms)
+✓ Compiled in 130ms
+ GET /who-we-are/ 200 in 533ms (next.js: 6ms, generate-params: 28ms, application-code: 498ms)
+ GET /technology/ 200 in 514ms (next.js: 2ms, generate-params: 25ms, application-code: 487ms)
+ GET /who-we-are/ 200 in 457ms (next.js: 7ms, generate-params: 17ms, application-code: 432ms)
+ GET /who-we-are/ 200 in 447ms (next.js: 5ms, generate-params: 17ms, application-code: 426ms)
+ GET /who-we-are/ 200 in 451ms (next.js: 3ms, generate-params: 21ms, application-code: 426ms)
+Route /[...slug] is rendering with server caches disabled. For this navigation, Component Metadata in React DevTools will not accurately reflect what is statically prerenderable and runtime prefetchable. See more info here: https://nextjs.org/docs/messages/cache-bypass-in-dev
+ GET /customer-stories/ 200 in 604ms (next.js: 1.9ms, generate-params: 18ms, application-code: 584ms)
+ GET / 200 in 168ms (next.js: 2ms, application-code: 166ms)
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[?25h

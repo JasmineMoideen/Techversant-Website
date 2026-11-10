@@ -1,0 +1,1013 @@
+/* Homepage sections below the logo strip. All numbers measured on the live page at 1440px (frozen state). */
+
+/* ===== Centred section title (tm-ele-section-title, line-center-current-theme) ===== */
+.stc {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+.stc-sub {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 5px;
+  padding: 20px 45px 0 0;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 18.2px;
+  letter-spacing: 1.3px;
+  text-transform: uppercase;
+  color: #000;
+}
+.stc-sub img {
+  display: block;
+  width: 29px;
+  height: 14px;
+  margin: 2px 10px 0 0;
+}
+/* The live markup has a literal space between the arrow image and the label. */
+.stc-sub span {
+  padding-left: 4.4px;
+}
+.stc-title {
+  margin: -2.81px 0 7.2px;
+  font-size: 35px;
+  font-weight: 500;
+  line-height: 46.8px;
+  letter-spacing: -0.64px;
+  color: #000;
+}
+.stc-text {
+  margin: 0 0 20.03px;
+  font-size: 1rem;
+  line-height: 1.9rem;
+  color: #000;
+}
+.stc-light .stc-sub,
+.stc-light .stc-title {
+  color: #fff;
+}
+
+/* ===== Section scaffolding ===== */
+.sec {
+  margin-top: 100px;
+}
+.sec-inner {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 100%;
+  max-width: 1230px;
+  margin: 0 auto;
+}
+.insights {
+  margin-top: 100.95px;
+}
+.services {
+  margin-top: 99.92px;
+}
+.insights .sec-inner,
+.services .sec-inner {
+  padding-top: 50px;
+}
+.industries .sec-inner {
+  gap: 15px;
+}
+
+/* ===== "See more" link ===== */
+.see-more-row {
+  display: flex;
+  justify-content: flex-end;
+  height: 30.4px;
+}
+.see-more {
+  display: inline-flex;
+  align-items: center;
+  align-self: flex-start;
+  margin-top: 5px;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.4rem;
+  letter-spacing: 0.8px;
+  text-transform: capitalize;
+  color: #000;
+}
+.see-more svg {
+  display: block;
+  flex: none;
+  box-sizing: content-box;
+  padding-right: 0.8px;
+  margin-right: 12.7px;
+  color: #000;
+  /* live: `.btn-plain-text-with-arrow:before` { transition: all .3s } */
+  transition: all 0.3s ease 0s;
+}
+/* live: `.btn-plain-text-with-arrow:hover:before` — the glyph flips and the arrow slides out and back in (colours stay black here). */
+.see-more:hover svg,
+.see-more:focus svg {
+  transform: rotateX(180deg);
+  animation: moveArrow 1s;
+}
+@keyframes moveArrow {
+  0%,
+  55% {
+    opacity: 1;
+    transform: translateX(0) scale(1);
+  }
+  25% {
+    opacity: 0;
+    transform: translateX(13px) scale(0.9);
+  }
+  26% {
+    opacity: 0;
+    transform: translateX(-13px) scale(0.9);
+  }
+}
+.see-more span {
+  display: block;
+}
+
+/* ===== Project cards (Our Insights) ===== */
+.proj-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+.proj-card {
+  position: relative;
+  overflow: hidden;
+  border-radius: 10px;
+  aspect-ratio: 1;
+}
+.proj-card img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: 300ms;
+}
+.proj-card::before,
+.proj-card::after {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  content: "";
+  pointer-events: none;
+  transition: 300ms;
+}
+.proj-card::before {
+  height: 100%;
+  background: linear-gradient(rgba(255, 255, 255, 0) 0%, rgb(15, 5, 76) 100%);
+  z-index: 1;
+}
+.proj-card::after {
+  height: 0;
+  background: linear-gradient(rgba(255, 255, 255, 0) 0%, rgb(10, 154, 217) 100%);
+}
+.proj-card:hover::before {
+  height: 0;
+}
+.proj-card:hover::after {
+  height: 100%;
+}
+.proj-card:hover img {
+  transform: scale(1.1);
+}
+.proj-content {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 2;
+  padding: 0 60px 20px 35px;
+}
+.proj-title {
+  position: relative;
+  z-index: 1;
+  margin: 0.75rem 0 15px;
+  font-size: 20px; /* live (edited in the CMS): 20px titles with 20px lines at every width */
+  font-weight: 700;
+  line-height: 20px;
+  letter-spacing: -0.64px;
+  text-transform: capitalize;
+  color: #fff;
+  transform: translateY(60px);
+  transition: 300ms;
+}
+.proj-title a {
+  color: #fff;
+}
+.proj-excerpt {
+  position: relative;
+  z-index: 1;
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.9;
+  color: #fff;
+  opacity: 0;
+  transform: translateY(81px);
+  transition: 300ms;
+}
+.proj-card:hover .proj-title {
+  transform: none;
+}
+.proj-card:hover .proj-excerpt {
+  opacity: 1;
+  transform: none;
+  transition-delay: 200ms;
+}
+
+/* ===== Promo tiles (Royal Elementor "promo box", cover style) ===== */
+.promo {
+  position: relative;
+  overflow: hidden;
+  border-radius: 10px;
+  min-height: 250px;
+  height: 250px;
+}
+.promo-link {
+  position: absolute;
+  inset: 0;
+  z-index: 40;
+}
+.promo-bg {
+  position: absolute;
+  inset: 0;
+  z-index: 10;
+  background: center / cover no-repeat;
+  /* Royal Elementor Addons' no-op filter: it forces a compositing layer, which is why the live tile titles are
+     grayscale-antialiased rather than LCD-antialiased. */
+  filter: brightness(1) contrast(1) saturate(1) blur(0px) hue-rotate(0deg);
+  transition: transform 0.4s;
+}
+.promo:hover .promo-bg {
+  transform: scale(1.2); /* Royal Elementor Addons `wpr-bg-anim-zoom-in` */
+}
+.promo-overlay {
+  position: absolute;
+  inset: 0;
+  z-index: 15;
+  background: rgba(83, 83, 83, 0.27);
+  transition: 0.4s;
+}
+.promo:hover .promo-overlay {
+  background: rgba(0, 162, 221, 0.85);
+}
+/* The "oscar" hover border: a 1px white frame 15px inside the tile that scales in from 0.9 (`wpr-border-anim-oscar`). */
+.promo-overlay::before {
+  content: "";
+  position: absolute;
+  inset: 15px;
+  border: 1px solid rgb(255 255 255 / 0.93);
+  opacity: 0;
+  transform: scale(0.9);
+  transition: opacity 0.4s, transform 0.4s;
+}
+.promo:hover .promo-overlay::before {
+  opacity: 1;
+  transform: scale(1);
+}
+.promo-content {
+  position: relative;
+  z-index: 20;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  min-height: 250px;
+  padding: 30px;
+  text-align: center;
+}
+.promo-icon {
+  height: 0;
+  margin-bottom: 10px;
+}
+.promo-title {
+  margin: 0 0 5px;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 20px; /* live (edited in the CMS): 20px lines at every width */
+  letter-spacing: 0.1px;
+  color: #fff;
+}
+
+/* ===== Industries bento ===== */
+.bento {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 15px 20px;
+}
+.bento > :nth-child(1),
+.bento > :nth-child(6) {
+  grid-column: span 2;
+}
+
+/* ===== Services grid ===== */
+.services .sec-inner {
+  align-items: center;
+  gap: 20px;
+}
+.svc-grid {
+  display: grid;
+  width: 100%;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 25px;
+}
+.services .svc-more {
+  width: 100%;
+  height: 25.4px;
+}
+.services .svc-more .see-more {
+  margin: -5px 10px 0 0;
+}
+.insights .see-more-row {
+  margin-top: -5.02px;
+}
+
+/* ===== World map ===== */
+.worldmap {
+  margin-top: 100px;
+  padding: 50px 0 0;
+  background: #0b334c;
+}
+.map-wrap {
+  display: flex;
+  justify-content: center;
+  margin: 15.06px 0 -0.06px;
+}
+.map-img {
+  position: relative;
+  width: 1200px;
+  max-width: 100%;
+}
+.map-img img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.pin {
+  position: absolute;
+  border-radius: 50%;
+  background: #fff;
+  cursor: pointer;
+}
+/* live: `.pp-hot-spot-inner.hotspot-animation::before` — a white disc behind the pin that grows and fades, forever;
+   it stops while the pin is hovered or focused. */
+.pin::before {
+  content: "";
+  display: block;
+  position: absolute;
+  z-index: 0;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  background: #fff;
+  pointer-events: none;
+  animation: pp-glow 2s infinite;
+}
+.pin:hover::before,
+.pin:focus-within::before {
+  animation: none;
+}
+@keyframes pp-glow {
+  0% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1.5);
+    opacity: 0;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .pin::before {
+    animation: none;
+  }
+}
+/* The pin tooltip (live: Tooltipster "grow", `.pp-tooltip-00ca29f`), appended to <body> by MapPins. */
+.pin-tip {
+  position: absolute;
+  z-index: 100;
+  display: flex;
+  max-width: 400px;
+  transform: scale(0);
+  transition: transform 0.35s ease;
+  backface-visibility: hidden;
+}
+.pin-tip--show {
+  transform: scale(1);
+  transition-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.15);
+}
+.pin-tip__box {
+  flex: 1 1 auto;
+  margin: 0;
+  background: #fff;
+  border: 2px solid rgb(0, 185, 255);
+  border-radius: 15px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+}
+.pin-tip__text {
+  box-sizing: border-box;
+  max-width: 100%;
+  max-height: 100%;
+  overflow: auto;
+  padding: 8px 14px;
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 25px;
+  text-align: center;
+  color: rgb(22, 22, 22);
+}
+.pin-tip__text p {
+  margin: 0;
+}
+
+/* ===== Join with us ===== */
+.join {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 1230px;
+  margin: 100px auto 0;
+}
+.join-top {
+  display: flex;
+  gap: 20px;
+}
+.join-title,
+.join-text {
+  flex: 0 0 605px;
+}
+.join-title .eyebrow {
+  padding-right: 45px;
+}
+.join-title .sec-title {
+  margin-top: 4.23px;
+  line-height: 42px; /* live: 42px line pitch (h2 line-height) with 35px inline spans */
+}
+.join-text {
+  margin: 0;
+  padding-top: 35px;
+  height: 155px;
+  font-size: 16px;
+  line-height: 25px;
+  color: #000;
+}
+.join-collage {
+  height: 500px;
+  margin-top: 50px;
+  border-radius: 25px;
+  background: 50% 100% / cover no-repeat;
+}
+.join-bottom {
+  display: grid;
+  grid-template-columns: calc((100% - 40px) * 7 / 12) calc((100% - 40px) * 4 / 12);
+  gap: 20px;
+  margin-top: -130px;
+}
+.join-cta {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  gap: 20px;
+  padding-bottom: 30px;
+}
+.join-cta-title {
+  margin: 0;
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 22px;
+  letter-spacing: -0.64px;
+  color: #000;
+}
+.btn-cyan {
+  align-self: flex-start;
+  padding: 16px 38.4px;
+  border-radius: 10px;
+  background: var(--color-cyan);
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 16.8px;
+  letter-spacing: 0.6px;
+  text-transform: uppercase;
+  color: #fff;
+}
+.btn-cyan span {
+  display: block;
+}
+.join-quotes {
+  position: relative;
+  z-index: 2;
+  min-width: 0;
+}
+
+/* ===== Testimonial slider (wpr-testimonial carousel; slide width/gap vary per breakpoint) ===== */
+.tslider {
+  --sw: 396px;
+  --tg: 0px;
+  position: relative;
+  overflow: hidden;
+  min-height: 299.1px;
+}
+.tslider-track {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--tg);
+  transition: transform 0.5s;
+}
+.tslide {
+  display: flex;
+  flex: 0 0 var(--sw);
+  flex-direction: column-reverse;
+  justify-content: flex-end;
+  width: var(--sw);
+  margin: 0;
+  padding: 5px 5px 28px;
+  background: var(--color-navy);
+  color: #fff;
+}
+.tslide-body {
+  margin-bottom: 15px;
+  padding: 26px 20px 0;
+  text-align: center;
+  background: var(--color-navy);
+}
+.tslide-title {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 34.2px;
+  color: var(--color-ice);
+}
+.tslide-text {
+  margin: 0;
+  font-size: 15px;
+  line-height: 28.5px;
+  color: #fff;
+}
+.tslide-meta {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 1px;
+}
+.tslide-meta img {
+  display: block;
+  width: 65px;
+  height: auto;
+}
+.tslide-name {
+  margin-top: 5px;
+  font-size: inherit; /* live: inherits the viewport-scaled body size (16px / 15.68px @768 / 15.04px @390) */
+  line-height: 1.9;
+  color: #fff;
+}
+.tslide-job {
+  margin: 0 0 50px;
+  font-size: 10px;
+  line-height: 19px;
+  color: #fff;
+}
+.tarrow {
+  position: absolute;
+  top: calc(52% - 17.5px);
+  width: 14px;
+  height: 35px;
+  padding: 0;
+  border: 0;
+  background: none;
+  cursor: pointer;
+  z-index: 5;
+}
+.tarrow-prev {
+  left: 11.9px;
+}
+.tarrow-next {
+  right: 11.9px;
+  transform: rotate(180deg);
+}
+.tarrow svg {
+  display: block;
+}
+.tdots {
+  position: absolute;
+  top: calc(90% - 4px);
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  z-index: 5;
+}
+.tdot {
+  width: 7px;
+  height: 7px;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: rgb(209, 209, 209);
+  cursor: pointer;
+}
+.tdot.on {
+  background: rgb(0, 162, 221);
+}
+
+/* Contact block on the homepage follows the Join section by 70px. */
+.join + .contact-sec {
+  margin-top: 70px;
+}
+@media (max-width: 1024px) {
+  .join + .contact-sec {
+    margin-top: 0;
+  }
+}
+
+/* ================= Responsive (measured at 1024 / 768 / 390) ================= */
+@media (max-width: 1399px) {
+  .proj-content {
+    padding: 0 30px 30px;
+  }
+}
+@media (max-width: 1024px) {
+  .industries {
+    margin-top: 125px;
+  }
+  .promo-title {
+    font-size: 20px;
+  }
+  .industries .promo-title {
+    font-weight: 500;
+  }
+  .promo-content {
+    padding: 0 10px 30px; /* live: the title box is the tile minus 10px each side */
+  }
+  .services {
+    margin-top: 95.08px;
+  }
+  .insights .sec-inner {
+    width: calc(100% - 12px);
+  }
+  .industries .sec-inner,
+  .services .sec-inner {
+    width: calc(100% - 32px);
+  }
+  /* "See more" in the Insights block ends at the container's centre. */
+  .insights .see-more-row {
+    width: 50%;
+  }
+  .industries .see-more-row,
+  .services .svc-more {
+    justify-content: flex-start;
+    padding-left: 10px;
+  }
+  .industries .see-more {
+    margin-top: -9.8px;
+  }
+  .services .svc-more .see-more {
+    margin: -30px 0 0;
+  }
+  /* The map band is an inset navy block (square corners) from tablet down. */
+  .worldmap {
+    width: calc(100% - 32px);
+    margin: 79.9px auto 0;
+  }
+  .map-img {
+    width: 100%;
+  }
+  .bento {
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
+  .bento > :nth-child(1),
+  .bento > :nth-child(6) {
+    grid-column: auto;
+  }
+  .industries .promo,
+  .services .promo {
+    height: 455px;
+  }
+  .svc-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+@media (max-width: 991px) {
+  .stc-title {
+    margin-top: -3.31px;
+  }
+  .industries {
+    margin-top: 124.44px;
+  }
+  .services {
+    margin-top: 94.3px;
+  }
+  .worldmap {
+    width: calc(100% - 32.2px);
+    margin-top: 79.3px;
+  }
+  .insights .sec-inner {
+    width: calc(100% - 12.2px);
+  }
+  .industries .sec-inner,
+  .services .sec-inner {
+    width: calc(100% - 32.2px);
+  }
+}
+@media (max-width: 767px) {
+  .stc-text {
+    margin-bottom: -0.17px;
+    font-size: 16px;
+    line-height: 30.4px;
+  }
+  .insights .sec-inner,
+  .industries .sec-inner,
+  .services .sec-inner {
+    width: calc(100% - 32.46px);
+  }
+  .insights .see-more-row {
+    width: 100%;
+    margin-top: -5.33px;
+  }
+  .bento,
+  .svc-grid {
+    grid-template-columns: 1fr;
+  }
+  .industries .promo,
+  .services .promo {
+    height: 200px;
+    min-height: 0;
+  }
+  .promo-content {
+    min-height: 0;
+  }
+  .promo-title {
+    font-size: 18px;
+  }
+  .promo.hide-mobile {
+    display: none;
+  }
+  .industries .see-more-row,
+  .services .svc-more {
+    justify-content: flex-end;
+    padding-left: 0;
+  }
+  .industries .see-more {
+    margin-top: 15px;
+  }
+  .services .svc-more .see-more {
+    margin-top: 5px;
+  }
+  .worldmap {
+    width: calc(100% + 0.5rem);
+    margin: 93.31px 0 0 -0.25rem;
+    padding: 0 0 32.2px;
+  }
+  .map-wrap {
+    margin-top: 46.86px;
+  }
+  .stc-title {
+    margin: -1.64px 0 10.01px;
+    line-height: 42px;
+  }
+  .industries {
+    margin-top: 128.54px;
+  }
+  .services {
+    margin-top: 88.19px;
+  }
+  .industries .bento {
+    margin-top: 0.12px;
+  }
+}
+
+/* ----- Join with us, tablet (two narrow slides) ----- */
+@media (max-width: 1024px) {
+  .join {
+    width: calc(100% + 8px);
+    max-width: none;
+    margin: 224.98px 0 0 -4px;
+  }
+  .join-top {
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    display: grid;
+  }
+  .join-title {
+    padding-left: 10px;
+  }
+  .join-text {
+    height: auto;
+    padding: 35px 10px 20px 0;
+    text-align: center;
+  }
+  .tslider {
+    /* slick sizes each slide to a whole pixel: ceil((list width - 1px padding) / 2) minus the 15px margin */
+    --sw: calc(round(up, (100% + 14px) / 2, 1px) - 15px);
+    --tg: 15px;
+  }
+  .tslide {
+    overflow-wrap: break-word;
+  }
+  /* Narrow slides: the avatar takes its own line, the name block wraps below it, centred. */
+  .tslide-meta {
+    flex-wrap: wrap;
+    row-gap: 0;
+  }
+  .tslide-meta img {
+    margin-right: calc(100% - 65px);
+  }
+}
+@media (max-width: 991px) {
+  .tslide-meta img {
+    margin-bottom: 0;
+  }
+  .join {
+    width: calc(100% + 7.8px);
+    margin-top: 224.94px;
+    margin-left: -3.9px;
+  }
+}
+@media (max-width: 767px) {
+  .join {
+    width: calc(100% + 0.5rem);
+    margin: 74.21px 0 0 -0.25rem;
+    padding: 0 20px;
+  }
+  .join-top {
+    display: block;
+  }
+  .join-title {
+    padding-left: 5.1px;
+    margin-bottom: 27px;
+  }
+  .join-title .stitle,
+  .join-title .stitle-left {
+    text-align: center;
+  }
+  .join-title .eyebrow-fit {
+    width: fit-content;
+    margin: 0 auto;
+  }
+  .join-title .sec-title {
+    text-align: center;
+  }
+  .join-text {
+    padding: 0 5px 20px;
+    text-align: left;
+  }
+  .join-collage {
+    height: 250px;
+    margin-top: 20px;
+  }
+  .join-bottom {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 20px;
+  }
+  .join-cta {
+    padding-bottom: 0;
+    align-items: center;
+    text-align: center;
+  }
+  .join-cta-title {
+    text-align: center;
+  }
+  .btn-cyan {
+    align-self: center;
+    padding: 1rem 2.4rem;
+    font-size: 11.28px;
+    line-height: 15.792px;
+  }
+  .tslider {
+    --sw: calc(100% - 0.5px);
+    --tg: 0px;
+  }
+  .tslide-text {
+    font-size: 16px;
+    line-height: 30.4px;
+  }
+  .tslide-meta {
+    flex-wrap: nowrap;
+  }
+  .tslide-meta img {
+    margin-right: 0;
+  }
+}
+
+/* ----- Mobile "Our Insights": one-card carousel instead of the 3-up grid ----- */
+.proj-carousel {
+  display: none;
+}
+@media (max-width: 767px) {
+  .insights {
+    margin-top: 90.17px;
+  }
+  .proj-grid {
+    display: none;
+  }
+  .proj-carousel {
+    position: relative;
+    display: block;
+    margin-top: 0.12px;
+    width: calc(100% - 20px); /* live: the Swiper container is the section minus 10px each side (337.53px @390)... */
+    height: 338px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .proj-carousel-clip {
+    width: 100%;
+    height: 338px;
+    overflow: hidden;
+  }
+  .proj-carousel-track {
+    display: flex;
+    gap: 30px;
+    transition: transform 0.4s;
+  }
+  .proj-slide {
+    flex: 0 0 338px;
+    width: 338px;
+    height: 338px;
+    aspect-ratio: auto;
+    border-radius: 0;
+  }
+  .proj-slide img {
+    height: 350px;
+  }
+  .tm-arrow {
+    position: absolute;
+    top: 147px;
+    z-index: 5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 52px;
+    height: 52px;
+    padding: 0;
+    border: 0;
+    border-radius: 50%;
+    background: #fff;
+    box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.14);
+    cursor: pointer;
+  }
+  .tm-arrow-prev {
+    left: -26px;
+  }
+  .tm-arrow-next {
+    right: -26px;
+  }
+}
+
+/* On tablet widths the live page shows its separate "tablet" tile widgets, which keep a finished entrance animation
+   and so sit on their own compositor layer (grayscale text); on desktop and phone they do not. */
+@media (min-width: 768px) and (max-width: 1024px) {
+  .promo-content {
+    will-change: transform;
+  }
+}
+
+/* Tablet (768-991): live's tile grid is 735.84px wide at 768 (16.08px side offset) and its Services section sits
+   0.11px higher; both decide where the tile photos' edges land. */
+@media (min-width: 768px) and (max-width: 991px) {
+  .industries .sec-inner,
+  .services .sec-inner {
+    width: calc(100% - 32.15px);
+  }
+  .services {
+    margin-top: 94.19px;
+  }
+  .worldmap {
+    margin-top: 79.41px;
+  }
+}
+
+/* Join title: per-width sub-pixel placement against the live heading (line pitch is 42px everywhere). */
+@media (min-width: 768px) and (max-width: 991px) {
+  .join-title .sec-title {
+    margin-top: 3.61px;
+  }
+}
+@media (max-width: 767px) {
+  .join-title .eyebrow-fit {
+    margin-top: 0.49px;
+  }
+  .join-title .sec-title {
+    margin-top: 3.39px;
+  }
+  .join-title {
+    margin-bottom: 30px;
+  }
+}
+
+
+/* While hovered, the live tile's zooming photo and its text share compositor layers (grayscale text). */
+.promo:hover .promo-content {
+  will-change: transform;
+}

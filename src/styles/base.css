@@ -1,0 +1,57 @@
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    /* The live theme always reserves the scrollbar gutter and scrolls smoothly (anchor links, scroll-to-top). */
+    overflow-y: scroll;
+  }
+  @media (prefers-reduced-motion: no-preference) {
+    html {
+      scroll-behavior: smooth;
+    }
+  }
+  /* Anchor targets (Elementor "menu anchor" widgets) must clear the sticky header. */
+  .elementor-menu-anchor {
+    scroll-margin-top: 90px;
+  }
+  /* Root font-size steps measured on the live site: 16px >=992, 15.68px, 15.36px (<=767), 15.04px (<=500).
+     Anything sized in rem/em scales with these. */
+  @media (max-width: 991px) {
+    html {
+      font-size: 98%;
+    }
+  }
+  @media (max-width: 767px) {
+    html {
+      font-size: 96%;
+    }
+  }
+  @media (max-width: 500px) {
+    html {
+      font-size: 94%;
+    }
+  }
+  body {
+    /* The live theme clips horizontal overflow on <body> (it propagates to the viewport). */
+    overflow-x: hidden;
+    margin: 0;
+    background: var(--color-paper);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    font-size: 1rem;
+    line-height: 1.9;
+    font-weight: 400;
+    /* No font-smoothing override: the live site renders with the platform default (subpixel AA on Linux),
+       and forcing `antialiased` produces grayscale text that never pixel-matches. */
+  }
+  /* Shell and hand-built sections only: WordPress content gets whatever the live theme CSS says (it does not
+     constrain svg — constraining Elementor icon svgs inside flex rows shrinks them). */
+  img:where(:not(.wp-page *)),
+  video:where(:not(.wp-page *)),
+  svg:where(:not(.wp-page *)) {
+    max-width: 100%;
+  }
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+}

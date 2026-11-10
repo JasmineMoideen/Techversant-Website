@@ -1,0 +1,6 @@
+$ tsx scripts/capture/capture.ts --routes / --viewports 1920,1440,1024
+capture 3 screenshots (1 routes x 3 viewports) from https://techversantinfotech.com -> fidelity/reference | chrome 156.0.8078.73
+[w1] 1920 /                                                          h=7047 img=57/0 broken, swipers=1, video=rs4 (60231 ms)
+[w2] 1440 /                                                          h=6815 img=57/0 broken, swipers=1, video=rs4 (60235 ms)
+[w2] 1024 /                                                          h=9650 img=56/0 broken, swipers=1, video=rs4 (57490 ms)
+done: 3/3 captured. manifest: fidelity/reference/manifest.json

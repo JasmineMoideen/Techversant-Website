@@ -1,0 +1,23 @@
+{
+  "base": "https://techversantinfotech.com",
+  "chrome": "156.0.8078.73",
+  "capturedAt": "2026-11-05T13:30:26.640Z",
+  "entries": [
+    {
+      "route": "/services/artificial-intelligence/",
+      "width": 1024,
+      "file": "services__artificial-intelligence/1024.png",
+      "status": 200,
+      "title": "Artificial Intelligence Services | Techversant AI",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 8213,
+        "imagesTotal": 29,
+        "imagesBroken": 1,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 21027
+    }
+  ]
+}

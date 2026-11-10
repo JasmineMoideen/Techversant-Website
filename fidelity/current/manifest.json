@@ -1,0 +1,3992 @@
+{
+  "base": "http://localhost:3000",
+  "chrome": "156.0.8078.73",
+  "capturedAt": "2026-11-06T14:30:43.399Z",
+  "entries": [
+    {
+      "route": "/",
+      "width": 1024,
+      "file": "_home/1024.png",
+      "status": 200,
+      "title": "AI Solutions Company | Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 9650,
+        "imagesTotal": 39,
+        "imagesBroken": 0,
+        "swipers": 1,
+        "videos": [
+          {
+            "ready": 4,
+            "paused": true,
+            "w": 0,
+            "h": 0
+          },
+          {
+            "ready": 4,
+            "paused": true,
+            "w": 1024,
+            "h": 496
+          }
+        ]
+      },
+      "ms": 24770
+    },
+    {
+      "route": "/",
+      "width": 1440,
+      "file": "_home/1440.png",
+      "status": 200,
+      "title": "AI Solutions Company | Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 6815,
+        "imagesTotal": 39,
+        "imagesBroken": 0,
+        "swipers": 1,
+        "videos": [
+          {
+            "ready": 4,
+            "paused": true,
+            "w": 1440,
+            "h": 697
+          },
+          {
+            "ready": 4,
+            "paused": true,
+            "w": 0,
+            "h": 0
+          }
+        ]
+      },
+      "ms": 20170
+    },
+    {
+      "route": "/",
+      "width": 1920,
+      "file": "_home/1920.png",
+      "status": 200,
+      "title": "AI Solutions Company | Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 7047,
+        "imagesTotal": 34,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": [
+          {
+            "ready": 4,
+            "paused": true,
+            "w": 1920,
+            "h": 929
+          },
+          {
+            "ready": 4,
+            "paused": true,
+            "w": 0,
+            "h": 0
+          }
+        ]
+      },
+      "ms": 18164
+    },
+    {
+      "route": "/",
+      "width": 390,
+      "file": "_home/390.png",
+      "status": 200,
+      "title": "AI Solutions Company | Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 9503,
+        "imagesTotal": 39,
+        "imagesBroken": 0,
+        "swipers": 1,
+        "videos": [
+          {
+            "ready": 4,
+            "paused": true,
+            "w": 0,
+            "h": 0
+          },
+          {
+            "ready": 4,
+            "paused": true,
+            "w": 390,
+            "h": 471
+          }
+        ]
+      },
+      "ms": 14584
+    },
+    {
+      "route": "/",
+      "width": 768,
+      "file": "_home/768.png",
+      "status": 200,
+      "title": "AI Solutions Company | Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 10712,
+        "imagesTotal": 39,
+        "imagesBroken": 0,
+        "swipers": 1,
+        "videos": [
+          {
+            "ready": 4,
+            "paused": true,
+            "w": 0,
+            "h": 0
+          },
+          {
+            "ready": 4,
+            "paused": true,
+            "w": 768,
+            "h": 948
+          }
+        ]
+      },
+      "ms": 24920
+    },
+    {
+      "route": "/capabilities/",
+      "width": 1024,
+      "file": "capabilities/1024.png",
+      "status": 200,
+      "title": "Capabilities | AI, Software & IT Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 17640,
+        "imagesTotal": 40,
+        "imagesBroken": 1,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 17670
+    },
+    {
+      "route": "/capabilities/",
+      "width": 1440,
+      "file": "capabilities/1440.png",
+      "status": 200,
+      "title": "Capabilities | AI, Software & IT Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 10921,
+        "imagesTotal": 40,
+        "imagesBroken": 1,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 12865
+    },
+    {
+      "route": "/capabilities/",
+      "width": 1920,
+      "file": "capabilities/1920.png",
+      "status": 200,
+      "title": "Capabilities | AI, Software & IT Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 10921,
+        "imagesTotal": 40,
+        "imagesBroken": 1,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 13323
+    },
+    {
+      "route": "/capabilities/",
+      "width": 390,
+      "file": "capabilities/390.png",
+      "status": 200,
+      "title": "Capabilities | AI, Software & IT Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 19132,
+        "imagesTotal": 40,
+        "imagesBroken": 1,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 53819
+    },
+    {
+      "route": "/capabilities/",
+      "width": 768,
+      "file": "capabilities/768.png",
+      "status": 200,
+      "title": "Capabilities | AI, Software & IT Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 17067,
+        "imagesTotal": 40,
+        "imagesBroken": 1,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 18498
+    },
+    {
+      "route": "/career/",
+      "width": 1024,
+      "file": "career/1024.png",
+      "status": 200,
+      "title": "Techversant Careers | Explore IT Jobs & Join Our Team",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 6354,
+        "imagesTotal": 22,
+        "imagesBroken": 2,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 10376
+    },
+    {
+      "route": "/career/",
+      "width": 1440,
+      "file": "career/1440.png",
+      "status": 200,
+      "title": "Techversant Careers | Explore IT Jobs & Join Our Team",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 5183,
+        "imagesTotal": 22,
+        "imagesBroken": 2,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 11136
+    },
+    {
+      "route": "/career/",
+      "width": 1920,
+      "file": "career/1920.png",
+      "status": 200,
+      "title": "Techversant Careers | Explore IT Jobs & Join Our Team",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 5183,
+        "imagesTotal": 22,
+        "imagesBroken": 2,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 12719
+    },
+    {
+      "route": "/career/",
+      "width": 390,
+      "file": "career/390.png",
+      "status": 200,
+      "title": "Techversant Careers | Explore IT Jobs & Join Our Team",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 10453,
+        "imagesTotal": 22,
+        "imagesBroken": 2,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 9912
+    },
+    {
+      "route": "/career/",
+      "width": 768,
+      "file": "career/768.png",
+      "status": 200,
+      "title": "Techversant Careers | Explore IT Jobs & Join Our Team",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 6240,
+        "imagesTotal": 22,
+        "imagesBroken": 2,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 10168
+    },
+    {
+      "route": "/contact-us/",
+      "width": 1024,
+      "file": "contact-us/1024.png",
+      "status": 200,
+      "title": "Contact Techversant | Get in Touch With Our Team",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 4132,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 7867
+    },
+    {
+      "route": "/contact-us/",
+      "width": 1440,
+      "file": "contact-us/1440.png",
+      "status": 200,
+      "title": "Contact Techversant | Get in Touch With Our Team",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 3049,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 7851
+    },
+    {
+      "route": "/contact-us/",
+      "width": 1920,
+      "file": "contact-us/1920.png",
+      "status": 200,
+      "title": "Contact Techversant | Get in Touch With Our Team",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 3049,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 8265
+    },
+    {
+      "route": "/contact-us/",
+      "width": 390,
+      "file": "contact-us/390.png",
+      "status": 200,
+      "title": "Contact Techversant | Get in Touch With Our Team",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 5368,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 8532
+    },
+    {
+      "route": "/contact-us/",
+      "width": 768,
+      "file": "contact-us/768.png",
+      "status": 200,
+      "title": "Contact Techversant | Get in Touch With Our Team",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 4345,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 9353
+    },
+    {
+      "route": "/customer-stories/",
+      "width": 1024,
+      "file": "customer-stories/1024.png",
+      "status": 200,
+      "title": "Techversant Customer Stories | Success Stories & Case Studies",
+      "overflowX": 9,
+      "prepare": {
+        "docHeight": 25338,
+        "imagesTotal": 175,
+        "imagesBroken": 0,
+        "swipers": 1,
+        "videos": []
+      },
+      "ms": 78219
+    },
+    {
+      "route": "/customer-stories/",
+      "width": 1440,
+      "file": "customer-stories/1440.png",
+      "status": 200,
+      "title": "Techversant Customer Stories | Success Stories & Case Studies",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 14178,
+        "imagesTotal": 175,
+        "imagesBroken": 0,
+        "swipers": 1,
+        "videos": []
+      },
+      "ms": 67959
+    },
+    {
+      "route": "/customer-stories/",
+      "width": 1920,
+      "file": "customer-stories/1920.png",
+      "status": 200,
+      "title": "Techversant Customer Stories | Success Stories & Case Studies",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 14178,
+        "imagesTotal": 175,
+        "imagesBroken": 0,
+        "swipers": 1,
+        "videos": []
+      },
+      "ms": 61442
+    },
+    {
+      "route": "/customer-stories/",
+      "width": 390,
+      "file": "customer-stories/390.png",
+      "status": 200,
+      "title": "Techversant Customer Stories | Success Stories & Case Studies",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 4341,
+        "imagesTotal": 175,
+        "imagesBroken": 0,
+        "swipers": 1,
+        "videos": []
+      },
+      "ms": 60466
+    },
+    {
+      "route": "/customer-stories/",
+      "width": 768,
+      "file": "customer-stories/768.png",
+      "status": 200,
+      "title": "Techversant Customer Stories | Success Stories & Case Studies",
+      "overflowX": 9,
+      "prepare": {
+        "docHeight": 19853,
+        "imagesTotal": 175,
+        "imagesBroken": 0,
+        "swipers": 1,
+        "videos": []
+      },
+      "ms": 78287
+    },
+    {
+      "route": "/dpa/",
+      "width": 1024,
+      "file": "dpa/1024.png",
+      "status": 200,
+      "title": "DPA - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 9258,
+        "imagesTotal": 4,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 10953
+    },
+    {
+      "route": "/dpa/",
+      "width": 1440,
+      "file": "dpa/1440.png",
+      "status": 200,
+      "title": "DPA - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 8082,
+        "imagesTotal": 4,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 10517
+    },
+    {
+      "route": "/dpa/",
+      "width": 1920,
+      "file": "dpa/1920.png",
+      "status": 200,
+      "title": "DPA - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 8082,
+        "imagesTotal": 4,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 9955
+    },
+    {
+      "route": "/dpa/",
+      "width": 390,
+      "file": "dpa/390.png",
+      "status": 200,
+      "title": "DPA - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 22484,
+        "imagesTotal": 4,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 12501
+    },
+    {
+      "route": "/dpa/",
+      "width": 768,
+      "file": "dpa/768.png",
+      "status": 200,
+      "title": "DPA - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 11260,
+        "imagesTotal": 4,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 10817
+    },
+    {
+      "route": "/events/",
+      "width": 1024,
+      "file": "events/1024.png",
+      "status": 200,
+      "title": "Events - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 8311,
+        "imagesTotal": 10,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 11427
+    },
+    {
+      "route": "/events/",
+      "width": 1440,
+      "file": "events/1440.png",
+      "status": 200,
+      "title": "Events - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 2554,
+        "imagesTotal": 10,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 7200
+    },
+    {
+      "route": "/events/",
+      "width": 1920,
+      "file": "events/1920.png",
+      "status": 200,
+      "title": "Events - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 2554,
+        "imagesTotal": 10,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 7170
+    },
+    {
+      "route": "/events/",
+      "width": 390,
+      "file": "events/390.png",
+      "status": 200,
+      "title": "Events - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 5606,
+        "imagesTotal": 10,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 9260
+    },
+    {
+      "route": "/events/",
+      "width": 768,
+      "file": "events/768.png",
+      "status": 200,
+      "title": "Events - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 7039,
+        "imagesTotal": 10,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 12482
+    },
+    {
+      "route": "/founder-ceo-of-techversant-joby-john-hyderabad-house-new-delhi-16-april-2026/",
+      "width": 1024,
+      "file": "founder-ceo-of-techversant-joby-john-hyderabad-house-new-delhi-16-april-2026/1024.png",
+      "status": 200,
+      "title": "Founder & CEO of Techversant, Joby John | Hyderabad House, New Delhi | 16 April 2026 - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 2636,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 7873
+    },
+    {
+      "route": "/founder-ceo-of-techversant-joby-john-hyderabad-house-new-delhi-16-april-2026/",
+      "width": 1440,
+      "file": "founder-ceo-of-techversant-joby-john-hyderabad-house-new-delhi-16-april-2026/1440.png",
+      "status": 200,
+      "title": "Founder & CEO of Techversant, Joby John | Hyderabad House, New Delhi | 16 April 2026 - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 2395,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 7664
+    },
+    {
+      "route": "/founder-ceo-of-techversant-joby-john-hyderabad-house-new-delhi-16-april-2026/",
+      "width": 1920,
+      "file": "founder-ceo-of-techversant-joby-john-hyderabad-house-new-delhi-16-april-2026/1920.png",
+      "status": 200,
+      "title": "Founder & CEO of Techversant, Joby John | Hyderabad House, New Delhi | 16 April 2026 - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 2339,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 7507
+    },
+    {
+      "route": "/founder-ceo-of-techversant-joby-john-hyderabad-house-new-delhi-16-april-2026/",
+      "width": 390,
+      "file": "founder-ceo-of-techversant-joby-john-hyderabad-house-new-delhi-16-april-2026/390.png",
+      "status": 200,
+      "title": "Founder & CEO of Techversant, Joby John | Hyderabad House, New Delhi | 16 April 2026 - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 2476,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 14756
+    },
+    {
+      "route": "/founder-ceo-of-techversant-joby-john-hyderabad-house-new-delhi-16-april-2026/",
+      "width": 768,
+      "file": "founder-ceo-of-techversant-joby-john-hyderabad-house-new-delhi-16-april-2026/768.png",
+      "status": 200,
+      "title": "Founder & CEO of Techversant, Joby John | Hyderabad House, New Delhi | 16 April 2026 - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 2528,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 6938
+    },
+    {
+      "route": "/industries/",
+      "width": 1024,
+      "file": "industries/1024.png",
+      "status": 200,
+      "title": "Industry Solutions | AI & IT Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 8484,
+        "imagesTotal": 10,
+        "imagesBroken": 1,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 12227
+    },
+    {
+      "route": "/industries/",
+      "width": 1440,
+      "file": "industries/1440.png",
+      "status": 200,
+      "title": "Industry Solutions | AI & IT Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 4281,
+        "imagesTotal": 10,
+        "imagesBroken": 1,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 10816
+    },
+    {
+      "route": "/industries/",
+      "width": 1920,
+      "file": "industries/1920.png",
+      "status": 200,
+      "title": "Industry Solutions | AI & IT Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 4281,
+        "imagesTotal": 10,
+        "imagesBroken": 1,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 9713
+    },
+    {
+      "route": "/industries/",
+      "width": 390,
+      "file": "industries/390.png",
+      "status": 200,
+      "title": "Industry Solutions | AI & IT Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 9629,
+        "imagesTotal": 10,
+        "imagesBroken": 1,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 53907
+    },
+    {
+      "route": "/industries/",
+      "width": 768,
+      "file": "industries/768.png",
+      "status": 200,
+      "title": "Industry Solutions | AI & IT Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 8296,
+        "imagesTotal": 10,
+        "imagesBroken": 1,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 13670
+    },
+    {
+      "route": "/industries/agriculture-agritech/",
+      "width": 1024,
+      "file": "industries__agriculture-agritech/1024.png",
+      "status": 200,
+      "title": "Agriculture & Agritech Solutions | Techversant AI",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 8236,
+        "imagesTotal": 17,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 12750
+    },
+    {
+      "route": "/industries/agriculture-agritech/",
+      "width": 1440,
+      "file": "industries__agriculture-agritech/1440.png",
+      "status": 200,
+      "title": "Agriculture & Agritech Solutions | Techversant AI",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 5780,
+        "imagesTotal": 17,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 9116
+    },
+    {
+      "route": "/industries/agriculture-agritech/",
+      "width": 1920,
+      "file": "industries__agriculture-agritech/1920.png",
+      "status": 200,
+      "title": "Agriculture & Agritech Solutions | Techversant AI",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 5780,
+        "imagesTotal": 17,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 9619
+    },
+    {
+      "route": "/industries/agriculture-agritech/",
+      "width": 390,
+      "file": "industries__agriculture-agritech/390.png",
+      "status": 200,
+      "title": "Agriculture & Agritech Solutions | Techversant AI",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 11025,
+        "imagesTotal": 17,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 53692
+    },
+    {
+      "route": "/industries/agriculture-agritech/",
+      "width": 768,
+      "file": "industries__agriculture-agritech/768.png",
+      "status": 200,
+      "title": "Agriculture & Agritech Solutions | Techversant AI",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 7854,
+        "imagesTotal": 17,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 10373
+    },
+    {
+      "route": "/industries/healthcare-life-sciences/",
+      "width": 1024,
+      "file": "industries__healthcare-life-sciences/1024.png",
+      "status": 200,
+      "title": "Healthcare & Life Sciences Solutions | Techversant",
+      "overflowX": 33,
+      "prepare": {
+        "docHeight": 8378,
+        "imagesTotal": 17,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 11125
+    },
+    {
+      "route": "/industries/healthcare-life-sciences/",
+      "width": 1440,
+      "file": "industries__healthcare-life-sciences/1440.png",
+      "status": 200,
+      "title": "Healthcare & Life Sciences Solutions | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 5705,
+        "imagesTotal": 17,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 11162
+    },
+    {
+      "route": "/industries/healthcare-life-sciences/",
+      "width": 1920,
+      "file": "industries__healthcare-life-sciences/1920.png",
+      "status": 200,
+      "title": "Healthcare & Life Sciences Solutions | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 5705,
+        "imagesTotal": 17,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 10397
+    },
+    {
+      "route": "/industries/healthcare-life-sciences/",
+      "width": 390,
+      "file": "industries__healthcare-life-sciences/390.png",
+      "status": 200,
+      "title": "Healthcare & Life Sciences Solutions | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 11186,
+        "imagesTotal": 17,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 49906
+    },
+    {
+      "route": "/industries/healthcare-life-sciences/",
+      "width": 768,
+      "file": "industries__healthcare-life-sciences/768.png",
+      "status": 200,
+      "title": "Healthcare & Life Sciences Solutions | Techversant",
+      "overflowX": 33,
+      "prepare": {
+        "docHeight": 7903,
+        "imagesTotal": 17,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 10787
+    },
+    {
+      "route": "/industries/hr-workforce-management/",
+      "width": 1024,
+      "file": "industries__hr-workforce-management/1024.png",
+      "status": 200,
+      "title": "HR & Workforce Management Solutions | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 8075,
+        "imagesTotal": 17,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 10832
+    },
+    {
+      "route": "/industries/hr-workforce-management/",
+      "width": 1440,
+      "file": "industries__hr-workforce-management/1440.png",
+      "status": 200,
+      "title": "HR & Workforce Management Solutions | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 5756,
+        "imagesTotal": 17,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 10969
+    },
+    {
+      "route": "/industries/hr-workforce-management/",
+      "width": 1920,
+      "file": "industries__hr-workforce-management/1920.png",
+      "status": 200,
+      "title": "HR & Workforce Management Solutions | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 5756,
+        "imagesTotal": 17,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 10588
+    },
+    {
+      "route": "/industries/hr-workforce-management/",
+      "width": 390,
+      "file": "industries__hr-workforce-management/390.png",
+      "status": 200,
+      "title": "HR & Workforce Management Solutions | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 10968,
+        "imagesTotal": 17,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 51444
+    },
+    {
+      "route": "/industries/hr-workforce-management/",
+      "width": 768,
+      "file": "industries__hr-workforce-management/768.png",
+      "status": 200,
+      "title": "HR & Workforce Management Solutions | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 7710,
+        "imagesTotal": 17,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 10824
+    },
+    {
+      "route": "/industries/real-estate-property-management/",
+      "width": 1024,
+      "file": "industries__real-estate-property-management/1024.png",
+      "status": 200,
+      "title": "Real Estate & Property Management Solutions | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 8105,
+        "imagesTotal": 17,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 10253
+    },
+    {
+      "route": "/industries/real-estate-property-management/",
+      "width": 1440,
+      "file": "industries__real-estate-property-management/1440.png",
+      "status": 200,
+      "title": "Real Estate & Property Management Solutions | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 5764,
+        "imagesTotal": 17,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 9400
+    },
+    {
+      "route": "/industries/real-estate-property-management/",
+      "width": 1920,
+      "file": "industries__real-estate-property-management/1920.png",
+      "status": 200,
+      "title": "Real Estate & Property Management Solutions | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 5764,
+        "imagesTotal": 17,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 11792
+    },
+    {
+      "route": "/industries/real-estate-property-management/",
+      "width": 390,
+      "file": "industries__real-estate-property-management/390.png",
+      "status": 200,
+      "title": "Real Estate & Property Management Solutions | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 11050,
+        "imagesTotal": 17,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 56201
+    },
+    {
+      "route": "/industries/real-estate-property-management/",
+      "width": 768,
+      "file": "industries__real-estate-property-management/768.png",
+      "status": 200,
+      "title": "Real Estate & Property Management Solutions | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 7772,
+        "imagesTotal": 17,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 10829
+    },
+    {
+      "route": "/jobs/",
+      "width": 1024,
+      "file": "jobs/1024.png",
+      "status": 200,
+      "title": "Job Openings - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 3221,
+        "imagesTotal": 6,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 6997
+    },
+    {
+      "route": "/jobs/",
+      "width": 1440,
+      "file": "jobs/1440.png",
+      "status": 200,
+      "title": "Job Openings - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 2811,
+        "imagesTotal": 6,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 7120
+    },
+    {
+      "route": "/jobs/",
+      "width": 1920,
+      "file": "jobs/1920.png",
+      "status": 200,
+      "title": "Job Openings - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 2710,
+        "imagesTotal": 6,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 7323
+    },
+    {
+      "route": "/jobs/",
+      "width": 390,
+      "file": "jobs/390.png",
+      "status": 200,
+      "title": "Job Openings - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 6548,
+        "imagesTotal": 6,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 7846
+    },
+    {
+      "route": "/jobs/",
+      "width": 768,
+      "file": "jobs/768.png",
+      "status": 200,
+      "title": "Job Openings - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 4690,
+        "imagesTotal": 6,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 8217
+    },
+    {
+      "route": "/jobs/ai-ml-engineer/",
+      "width": 1024,
+      "file": "jobs__ai-ml-engineer/1024.png",
+      "status": 200,
+      "title": "AI/ML Engineer - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 4066,
+        "imagesTotal": 3,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 5873
+    },
+    {
+      "route": "/jobs/ai-ml-engineer/",
+      "width": 1440,
+      "file": "jobs__ai-ml-engineer/1440.png",
+      "status": 200,
+      "title": "AI/ML Engineer - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 3582,
+        "imagesTotal": 3,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 6759
+    },
+    {
+      "route": "/jobs/ai-ml-engineer/",
+      "width": 1920,
+      "file": "jobs__ai-ml-engineer/1920.png",
+      "status": 200,
+      "title": "AI/ML Engineer - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 3582,
+        "imagesTotal": 3,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 6062
+    },
+    {
+      "route": "/jobs/ai-ml-engineer/",
+      "width": 390,
+      "file": "jobs__ai-ml-engineer/390.png",
+      "status": 200,
+      "title": "AI/ML Engineer - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 5818,
+        "imagesTotal": 3,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 6091
+    },
+    {
+      "route": "/jobs/ai-ml-engineer/",
+      "width": 768,
+      "file": "jobs__ai-ml-engineer/768.png",
+      "status": 200,
+      "title": "AI/ML Engineer - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 4205,
+        "imagesTotal": 3,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 5983
+    },
+    {
+      "route": "/jobs/senior-associate-talent-acquisition/",
+      "width": 1024,
+      "file": "jobs__senior-associate-talent-acquisition/1024.png",
+      "status": 200,
+      "title": "Senior Associate - Talent Acquisition - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 1730,
+        "imagesTotal": 3,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 5151
+    },
+    {
+      "route": "/jobs/senior-associate-talent-acquisition/",
+      "width": 1440,
+      "file": "jobs__senior-associate-talent-acquisition/1440.png",
+      "status": 200,
+      "title": "Senior Associate - Talent Acquisition - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 1489,
+        "imagesTotal": 3,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 5053
+    },
+    {
+      "route": "/jobs/senior-associate-talent-acquisition/",
+      "width": 1920,
+      "file": "jobs__senior-associate-talent-acquisition/1920.png",
+      "status": 200,
+      "title": "Senior Associate - Talent Acquisition - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 1489,
+        "imagesTotal": 3,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 5290
+    },
+    {
+      "route": "/jobs/senior-associate-talent-acquisition/",
+      "width": 390,
+      "file": "jobs__senior-associate-talent-acquisition/390.png",
+      "status": 200,
+      "title": "Senior Associate - Talent Acquisition - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 3402,
+        "imagesTotal": 3,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 5695
+    },
+    {
+      "route": "/jobs/senior-associate-talent-acquisition/",
+      "width": 768,
+      "file": "jobs__senior-associate-talent-acquisition/768.png",
+      "status": 200,
+      "title": "Senior Associate - Talent Acquisition - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 2537,
+        "imagesTotal": 3,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 5424
+    },
+    {
+      "route": "/jobs/senior-business-development-executive/",
+      "width": 1024,
+      "file": "jobs__senior-business-development-executive/1024.png",
+      "status": 200,
+      "title": "Senior Business Development Executive - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 3133,
+        "imagesTotal": 3,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 7082
+    },
+    {
+      "route": "/jobs/senior-business-development-executive/",
+      "width": 1440,
+      "file": "jobs__senior-business-development-executive/1440.png",
+      "status": 200,
+      "title": "Senior Business Development Executive - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 2680,
+        "imagesTotal": 3,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 5455
+    },
+    {
+      "route": "/jobs/senior-business-development-executive/",
+      "width": 1920,
+      "file": "jobs__senior-business-development-executive/1920.png",
+      "status": 200,
+      "title": "Senior Business Development Executive - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 2680,
+        "imagesTotal": 3,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 5464
+    },
+    {
+      "route": "/jobs/senior-business-development-executive/",
+      "width": 390,
+      "file": "jobs__senior-business-development-executive/390.png",
+      "status": 200,
+      "title": "Senior Business Development Executive - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 4803,
+        "imagesTotal": 3,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 6024
+    },
+    {
+      "route": "/jobs/senior-business-development-executive/",
+      "width": 768,
+      "file": "jobs__senior-business-development-executive/768.png",
+      "status": 200,
+      "title": "Senior Business Development Executive - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 3379,
+        "imagesTotal": 3,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 5499
+    },
+    {
+      "route": "/jobs/servicenow-functional-consultant/",
+      "width": 1024,
+      "file": "jobs__servicenow-functional-consultant/1024.png",
+      "status": 200,
+      "title": "ServiceNow Functional Consultant - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 1730,
+        "imagesTotal": 3,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 5345
+    },
+    {
+      "route": "/jobs/servicenow-functional-consultant/",
+      "width": 1440,
+      "file": "jobs__servicenow-functional-consultant/1440.png",
+      "status": 200,
+      "title": "ServiceNow Functional Consultant - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 1512,
+        "imagesTotal": 3,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 5216
+    },
+    {
+      "route": "/jobs/servicenow-functional-consultant/",
+      "width": 1920,
+      "file": "jobs__servicenow-functional-consultant/1920.png",
+      "status": 200,
+      "title": "ServiceNow Functional Consultant - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 1512,
+        "imagesTotal": 3,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 5062
+    },
+    {
+      "route": "/jobs/servicenow-functional-consultant/",
+      "width": 390,
+      "file": "jobs__servicenow-functional-consultant/390.png",
+      "status": 200,
+      "title": "ServiceNow Functional Consultant - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 3238,
+        "imagesTotal": 3,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 5306
+    },
+    {
+      "route": "/jobs/servicenow-functional-consultant/",
+      "width": 768,
+      "file": "jobs__servicenow-functional-consultant/768.png",
+      "status": 200,
+      "title": "ServiceNow Functional Consultant - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 2591,
+        "imagesTotal": 3,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 5137
+    },
+    {
+      "route": "/joby-john-founder-ceo-of-techversant-at-the-india-canada-ceo-forum-new-delhi-2-march-2026/",
+      "width": 1024,
+      "file": "joby-john-founder-ceo-of-techversant-at-the-india-canada-ceo-forum-new-delhi-2-march-2026/1024.png",
+      "status": 200,
+      "title": "Joby John, Founder & CEO of Techversant at the India-Canada CEO Forum | New Delhi | 2 March 2026 - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 2508,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 7236
+    },
+    {
+      "route": "/joby-john-founder-ceo-of-techversant-at-the-india-canada-ceo-forum-new-delhi-2-march-2026/",
+      "width": 1440,
+      "file": "joby-john-founder-ceo-of-techversant-at-the-india-canada-ceo-forum-new-delhi-2-march-2026/1440.png",
+      "status": 200,
+      "title": "Joby John, Founder & CEO of Techversant at the India-Canada CEO Forum | New Delhi | 2 March 2026 - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 2207,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 7167
+    },
+    {
+      "route": "/joby-john-founder-ceo-of-techversant-at-the-india-canada-ceo-forum-new-delhi-2-march-2026/",
+      "width": 1920,
+      "file": "joby-john-founder-ceo-of-techversant-at-the-india-canada-ceo-forum-new-delhi-2-march-2026/1920.png",
+      "status": 200,
+      "title": "Joby John, Founder & CEO of Techversant at the India-Canada CEO Forum | New Delhi | 2 March 2026 - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 2089,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 7208
+    },
+    {
+      "route": "/joby-john-founder-ceo-of-techversant-at-the-india-canada-ceo-forum-new-delhi-2-march-2026/",
+      "width": 390,
+      "file": "joby-john-founder-ceo-of-techversant-at-the-india-canada-ceo-forum-new-delhi-2-march-2026/390.png",
+      "status": 200,
+      "title": "Joby John, Founder & CEO of Techversant at the India-Canada CEO Forum | New Delhi | 2 March 2026 - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 3715,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 15069
+    },
+    {
+      "route": "/joby-john-founder-ceo-of-techversant-at-the-india-canada-ceo-forum-new-delhi-2-march-2026/",
+      "width": 768,
+      "file": "joby-john-founder-ceo-of-techversant-at-the-india-canada-ceo-forum-new-delhi-2-march-2026/768.png",
+      "status": 200,
+      "title": "Joby John, Founder & CEO of Techversant at the India-Canada CEO Forum | New Delhi | 2 March 2026 - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 2659,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 7673
+    },
+    {
+      "route": "/joby-john-founder-ceo-of-techversant-hyderabad-house-new-delhi-16-april-2026/",
+      "width": 1024,
+      "file": "joby-john-founder-ceo-of-techversant-hyderabad-house-new-delhi-16-april-2026/1024.png",
+      "status": 200,
+      "title": "Joby John Founder & CEO of Techversant | Hyderabad House, New Delhi | 16 April 2026 - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 2171,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 7694
+    },
+    {
+      "route": "/joby-john-founder-ceo-of-techversant-hyderabad-house-new-delhi-16-april-2026/",
+      "width": 1440,
+      "file": "joby-john-founder-ceo-of-techversant-hyderabad-house-new-delhi-16-april-2026/1440.png",
+      "status": 200,
+      "title": "Joby John Founder & CEO of Techversant | Hyderabad House, New Delhi | 16 April 2026 - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 2052,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 6900
+    },
+    {
+      "route": "/joby-john-founder-ceo-of-techversant-hyderabad-house-new-delhi-16-april-2026/",
+      "width": 1920,
+      "file": "joby-john-founder-ceo-of-techversant-hyderabad-house-new-delhi-16-april-2026/1920.png",
+      "status": 200,
+      "title": "Joby John Founder & CEO of Techversant | Hyderabad House, New Delhi | 16 April 2026 - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 1996,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 7328
+    },
+    {
+      "route": "/joby-john-founder-ceo-of-techversant-hyderabad-house-new-delhi-16-april-2026/",
+      "width": 390,
+      "file": "joby-john-founder-ceo-of-techversant-hyderabad-house-new-delhi-16-april-2026/390.png",
+      "status": 200,
+      "title": "Joby John Founder & CEO of Techversant | Hyderabad House, New Delhi | 16 April 2026 - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 2200,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 15651
+    },
+    {
+      "route": "/joby-john-founder-ceo-of-techversant-hyderabad-house-new-delhi-16-april-2026/",
+      "width": 768,
+      "file": "joby-john-founder-ceo-of-techversant-hyderabad-house-new-delhi-16-april-2026/768.png",
+      "status": 200,
+      "title": "Joby John Founder & CEO of Techversant | Hyderabad House, New Delhi | 16 April 2026 - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 2137,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 6716
+    },
+    {
+      "route": "/joby-john-founder-ceo-of-techversant-indian-industry-delegation-canada-may-2026/",
+      "width": 1024,
+      "file": "joby-john-founder-ceo-of-techversant-indian-industry-delegation-canada-may-2026/1024.png",
+      "status": 200,
+      "title": "Joby John, Founder & CEO of Techversant | Indian Industry Delegation, Canada | May 2026 - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 4602,
+        "imagesTotal": 9,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 9693
+    },
+    {
+      "route": "/joby-john-founder-ceo-of-techversant-indian-industry-delegation-canada-may-2026/",
+      "width": 1440,
+      "file": "joby-john-founder-ceo-of-techversant-indian-industry-delegation-canada-may-2026/1440.png",
+      "status": 200,
+      "title": "Joby John, Founder & CEO of Techversant | Indian Industry Delegation, Canada | May 2026 - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 4797,
+        "imagesTotal": 9,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 10957
+    },
+    {
+      "route": "/joby-john-founder-ceo-of-techversant-indian-industry-delegation-canada-may-2026/",
+      "width": 1920,
+      "file": "joby-john-founder-ceo-of-techversant-indian-industry-delegation-canada-may-2026/1920.png",
+      "status": 200,
+      "title": "Joby John, Founder & CEO of Techversant | Indian Industry Delegation, Canada | May 2026 - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 4710,
+        "imagesTotal": 9,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 9068
+    },
+    {
+      "route": "/joby-john-founder-ceo-of-techversant-indian-industry-delegation-canada-may-2026/",
+      "width": 390,
+      "file": "joby-john-founder-ceo-of-techversant-indian-industry-delegation-canada-may-2026/390.png",
+      "status": 200,
+      "title": "Joby John, Founder & CEO of Techversant | Indian Industry Delegation, Canada | May 2026 - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 3378,
+        "imagesTotal": 9,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 15488
+    },
+    {
+      "route": "/joby-john-founder-ceo-of-techversant-indian-industry-delegation-canada-may-2026/",
+      "width": 768,
+      "file": "joby-john-founder-ceo-of-techversant-indian-industry-delegation-canada-may-2026/768.png",
+      "status": 200,
+      "title": "Joby John, Founder & CEO of Techversant | Indian Industry Delegation, Canada | May 2026 - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 3938,
+        "imagesTotal": 9,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 8593
+    },
+    {
+      "route": "/news/",
+      "width": 1024,
+      "file": "news/1024.png",
+      "status": 200,
+      "title": "News - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 8430,
+        "imagesTotal": 9,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 10079
+    },
+    {
+      "route": "/news/",
+      "width": 1440,
+      "file": "news/1440.png",
+      "status": 200,
+      "title": "News - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 2769,
+        "imagesTotal": 9,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 7026
+    },
+    {
+      "route": "/news/",
+      "width": 1920,
+      "file": "news/1920.png",
+      "status": 200,
+      "title": "News - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 2769,
+        "imagesTotal": 9,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 6946
+    },
+    {
+      "route": "/news/",
+      "width": 390,
+      "file": "news/390.png",
+      "status": 200,
+      "title": "News - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 5652,
+        "imagesTotal": 9,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 10231
+    },
+    {
+      "route": "/news/",
+      "width": 768,
+      "file": "news/768.png",
+      "status": 200,
+      "title": "News - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 7118,
+        "imagesTotal": 9,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 11055
+    },
+    {
+      "route": "/privacy-policy/",
+      "width": 1024,
+      "file": "privacy-policy/1024.png",
+      "status": 200,
+      "title": "Privacy Policy - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 4235,
+        "imagesTotal": 4,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 10406
+    },
+    {
+      "route": "/privacy-policy/",
+      "width": 1440,
+      "file": "privacy-policy/1440.png",
+      "status": 200,
+      "title": "Privacy Policy - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 4078,
+        "imagesTotal": 4,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 10134
+    },
+    {
+      "route": "/privacy-policy/",
+      "width": 1920,
+      "file": "privacy-policy/1920.png",
+      "status": 200,
+      "title": "Privacy Policy - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 4078,
+        "imagesTotal": 4,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 8227
+    },
+    {
+      "route": "/privacy-policy/",
+      "width": 390,
+      "file": "privacy-policy/390.png",
+      "status": 200,
+      "title": "Privacy Policy - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 6321,
+        "imagesTotal": 4,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 9275
+    },
+    {
+      "route": "/privacy-policy/",
+      "width": 768,
+      "file": "privacy-policy/768.png",
+      "status": 200,
+      "title": "Privacy Policy - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 4541,
+        "imagesTotal": 4,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 9042
+    },
+    {
+      "route": "/project/uncategorized/",
+      "width": 1024,
+      "file": "project__uncategorized/1024.png",
+      "status": 200,
+      "title": "Uncategorized - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 3357,
+        "imagesTotal": 18,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 8069
+    },
+    {
+      "route": "/project/uncategorized/",
+      "width": 1440,
+      "file": "project__uncategorized/1440.png",
+      "status": 200,
+      "title": "Uncategorized - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 3369,
+        "imagesTotal": 18,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 9138
+    },
+    {
+      "route": "/project/uncategorized/",
+      "width": 1920,
+      "file": "project__uncategorized/1920.png",
+      "status": 200,
+      "title": "Uncategorized - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 3794,
+        "imagesTotal": 18,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 8440
+    },
+    {
+      "route": "/project/uncategorized/",
+      "width": 390,
+      "file": "project__uncategorized/390.png",
+      "status": 200,
+      "title": "Uncategorized - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 7704,
+        "imagesTotal": 18,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 9219
+    },
+    {
+      "route": "/project/uncategorized/",
+      "width": 768,
+      "file": "project__uncategorized/768.png",
+      "status": 200,
+      "title": "Uncategorized - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 5199,
+        "imagesTotal": 18,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 8763
+    },
+    {
+      "route": "/projects/a-mobile-friendly-platform-for-trend-analysis-and-route-planning/",
+      "width": 1024,
+      "file": "projects__a-mobile-friendly-platform-for-trend-analysis-and-route-planning/1024.png",
+      "status": 200,
+      "title": "A Mobile-Friendly Platform for Trend Analysis and Route Planning - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 3424,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 7177
+    },
+    {
+      "route": "/projects/a-mobile-friendly-platform-for-trend-analysis-and-route-planning/",
+      "width": 1440,
+      "file": "projects__a-mobile-friendly-platform-for-trend-analysis-and-route-planning/1440.png",
+      "status": 200,
+      "title": "A Mobile-Friendly Platform for Trend Analysis and Route Planning - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 2957,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 6769
+    },
+    {
+      "route": "/projects/a-mobile-friendly-platform-for-trend-analysis-and-route-planning/",
+      "width": 1920,
+      "file": "projects__a-mobile-friendly-platform-for-trend-analysis-and-route-planning/1920.png",
+      "status": 200,
+      "title": "A Mobile-Friendly Platform for Trend Analysis and Route Planning - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 2957,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 6866
+    },
+    {
+      "route": "/projects/a-mobile-friendly-platform-for-trend-analysis-and-route-planning/",
+      "width": 390,
+      "file": "projects__a-mobile-friendly-platform-for-trend-analysis-and-route-planning/390.png",
+      "status": 200,
+      "title": "A Mobile-Friendly Platform for Trend Analysis and Route Planning - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 4722,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 6941
+    },
+    {
+      "route": "/projects/a-mobile-friendly-platform-for-trend-analysis-and-route-planning/",
+      "width": 768,
+      "file": "projects__a-mobile-friendly-platform-for-trend-analysis-and-route-planning/768.png",
+      "status": 200,
+      "title": "A Mobile-Friendly Platform for Trend Analysis and Route Planning - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 3561,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 6840
+    },
+    {
+      "route": "/projects/agri-iot-device/",
+      "width": 1024,
+      "file": "projects__agri-iot-device/1024.png",
+      "status": 200,
+      "title": "Agri IoT Device - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 4724,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 8125
+    },
+    {
+      "route": "/projects/agri-iot-device/",
+      "width": 1440,
+      "file": "projects__agri-iot-device/1440.png",
+      "status": 200,
+      "title": "Agri IoT Device - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 4191,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 8222
+    },
+    {
+      "route": "/projects/agri-iot-device/",
+      "width": 1920,
+      "file": "projects__agri-iot-device/1920.png",
+      "status": 200,
+      "title": "Agri IoT Device - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 4191,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 8514
+    },
+    {
+      "route": "/projects/agri-iot-device/",
+      "width": 390,
+      "file": "projects__agri-iot-device/390.png",
+      "status": 200,
+      "title": "Agri IoT Device - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 7563,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 9350
+    },
+    {
+      "route": "/projects/agri-iot-device/",
+      "width": 768,
+      "file": "projects__agri-iot-device/768.png",
+      "status": 200,
+      "title": "Agri IoT Device - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 5440,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 12003
+    },
+    {
+      "route": "/projects/driving-efficiency-in-telecom-operations-crm-billing-solution/",
+      "width": 1024,
+      "file": "projects__driving-efficiency-in-telecom-operations-crm-billing-solution/1024.png",
+      "status": 200,
+      "title": "Driving Efficiency in Telecom Operations: CRM & Billing Solution - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 3748,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 7463
+    },
+    {
+      "route": "/projects/driving-efficiency-in-telecom-operations-crm-billing-solution/",
+      "width": 1440,
+      "file": "projects__driving-efficiency-in-telecom-operations-crm-billing-solution/1440.png",
+      "status": 200,
+      "title": "Driving Efficiency in Telecom Operations: CRM & Billing Solution - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 3294,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 7249
+    },
+    {
+      "route": "/projects/driving-efficiency-in-telecom-operations-crm-billing-solution/",
+      "width": 1920,
+      "file": "projects__driving-efficiency-in-telecom-operations-crm-billing-solution/1920.png",
+      "status": 200,
+      "title": "Driving Efficiency in Telecom Operations: CRM & Billing Solution - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 3294,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 7187
+    },
+    {
+      "route": "/projects/driving-efficiency-in-telecom-operations-crm-billing-solution/",
+      "width": 390,
+      "file": "projects__driving-efficiency-in-telecom-operations-crm-billing-solution/390.png",
+      "status": 200,
+      "title": "Driving Efficiency in Telecom Operations: CRM & Billing Solution - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 5566,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 7884
+    },
+    {
+      "route": "/projects/driving-efficiency-in-telecom-operations-crm-billing-solution/",
+      "width": 768,
+      "file": "projects__driving-efficiency-in-telecom-operations-crm-billing-solution/768.png",
+      "status": 200,
+      "title": "Driving Efficiency in Telecom Operations: CRM & Billing Solution - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 4152,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 7272
+    },
+    {
+      "route": "/projects/lung-cancer-detection/",
+      "width": 1024,
+      "file": "projects__lung-cancer-detection/1024.png",
+      "status": 200,
+      "title": "Lung Cancer Detection - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 4373,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 7371
+    },
+    {
+      "route": "/projects/lung-cancer-detection/",
+      "width": 1440,
+      "file": "projects__lung-cancer-detection/1440.png",
+      "status": 200,
+      "title": "Lung Cancer Detection - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 3828,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 7776
+    },
+    {
+      "route": "/projects/lung-cancer-detection/",
+      "width": 1920,
+      "file": "projects__lung-cancer-detection/1920.png",
+      "status": 200,
+      "title": "Lung Cancer Detection - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 3828,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 7383
+    },
+    {
+      "route": "/projects/lung-cancer-detection/",
+      "width": 390,
+      "file": "projects__lung-cancer-detection/390.png",
+      "status": 200,
+      "title": "Lung Cancer Detection - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 6710,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 8068
+    },
+    {
+      "route": "/projects/lung-cancer-detection/",
+      "width": 768,
+      "file": "projects__lung-cancer-detection/768.png",
+      "status": 200,
+      "title": "Lung Cancer Detection - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 4647,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 7347
+    },
+    {
+      "route": "/projects/revolutionizing-on-demand-transportation/",
+      "width": 1024,
+      "file": "projects__revolutionizing-on-demand-transportation/1024.png",
+      "status": 200,
+      "title": "Revolutionizing On-Demand Transportation - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 3460,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 7656
+    },
+    {
+      "route": "/projects/revolutionizing-on-demand-transportation/",
+      "width": 1440,
+      "file": "projects__revolutionizing-on-demand-transportation/1440.png",
+      "status": 200,
+      "title": "Revolutionizing On-Demand Transportation - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 3006,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 7214
+    },
+    {
+      "route": "/projects/revolutionizing-on-demand-transportation/",
+      "width": 1920,
+      "file": "projects__revolutionizing-on-demand-transportation/1920.png",
+      "status": 200,
+      "title": "Revolutionizing On-Demand Transportation - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 3006,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 7072
+    },
+    {
+      "route": "/projects/revolutionizing-on-demand-transportation/",
+      "width": 390,
+      "file": "projects__revolutionizing-on-demand-transportation/390.png",
+      "status": 200,
+      "title": "Revolutionizing On-Demand Transportation - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 4734,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 8059
+    },
+    {
+      "route": "/projects/revolutionizing-on-demand-transportation/",
+      "width": 768,
+      "file": "projects__revolutionizing-on-demand-transportation/768.png",
+      "status": 200,
+      "title": "Revolutionizing On-Demand Transportation - Techversant Infotech",
+      "overflowX": 0,
+      "prepare": {
+        "docHeight": 3722,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 7547
+    },
+    {
+      "route": "/services/",
+      "width": 1024,
+      "file": "services/1024.png",
+      "status": 200,
+      "title": "AI & IT Services | Techversant Solutions",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 10268,
+        "imagesTotal": 13,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 54896
+    },
+    {
+      "route": "/services/",
+      "width": 1440,
+      "file": "services/1440.png",
+      "status": 200,
+      "title": "AI & IT Services | Techversant Solutions",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 6333,
+        "imagesTotal": 13,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 10979
+    },
+    {
+      "route": "/services/",
+      "width": 1920,
+      "file": "services/1920.png",
+      "status": 200,
+      "title": "AI & IT Services | Techversant Solutions",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 6333,
+        "imagesTotal": 13,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 11174
+    },
+    {
+      "route": "/services/",
+      "width": 390,
+      "file": "services/390.png",
+      "status": 200,
+      "title": "AI & IT Services | Techversant Solutions",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 14145,
+        "imagesTotal": 13,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 52772
+    },
+    {
+      "route": "/services/",
+      "width": 768,
+      "file": "services/768.png",
+      "status": 200,
+      "title": "AI & IT Services | Techversant Solutions",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 10327,
+        "imagesTotal": 13,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 55797
+    },
+    {
+      "route": "/services/artificial-intelligence/",
+      "width": 1024,
+      "file": "services__artificial-intelligence/1024.png",
+      "status": 200,
+      "title": "Artificial Intelligence Services | Techversant AI",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 8144,
+        "imagesTotal": 28,
+        "imagesBroken": 1,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 20858
+    },
+    {
+      "route": "/services/artificial-intelligence/",
+      "width": 1440,
+      "file": "services__artificial-intelligence/1440.png",
+      "status": 200,
+      "title": "Artificial Intelligence Services | Techversant AI",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 5872,
+        "imagesTotal": 28,
+        "imagesBroken": 1,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 19992
+    },
+    {
+      "route": "/services/artificial-intelligence/",
+      "width": 1920,
+      "file": "services__artificial-intelligence/1920.png",
+      "status": 200,
+      "title": "Artificial Intelligence Services | Techversant AI",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 5872,
+        "imagesTotal": 28,
+        "imagesBroken": 1,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 18786
+    },
+    {
+      "route": "/services/artificial-intelligence/",
+      "width": 390,
+      "file": "services__artificial-intelligence/390.png",
+      "status": 200,
+      "title": "Artificial Intelligence Services | Techversant AI",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 10547,
+        "imagesTotal": 28,
+        "imagesBroken": 1,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 52033
+    },
+    {
+      "route": "/services/artificial-intelligence/",
+      "width": 768,
+      "file": "services__artificial-intelligence/768.png",
+      "status": 200,
+      "title": "Artificial Intelligence Services | Techversant AI",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 8066,
+        "imagesTotal": 28,
+        "imagesBroken": 1,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 20972
+    },
+    {
+      "route": "/services/blockchain/",
+      "width": 1024,
+      "file": "services__blockchain/1024.png",
+      "status": 200,
+      "title": "Blockchain Development Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 6999,
+        "imagesTotal": 21,
+        "imagesBroken": 1,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 10033
+    },
+    {
+      "route": "/services/blockchain/",
+      "width": 1440,
+      "file": "services__blockchain/1440.png",
+      "status": 200,
+      "title": "Blockchain Development Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 5480,
+        "imagesTotal": 21,
+        "imagesBroken": 1,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 9300
+    },
+    {
+      "route": "/services/blockchain/",
+      "width": 1920,
+      "file": "services__blockchain/1920.png",
+      "status": 200,
+      "title": "Blockchain Development Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 5480,
+        "imagesTotal": 21,
+        "imagesBroken": 1,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 9396
+    },
+    {
+      "route": "/services/blockchain/",
+      "width": 390,
+      "file": "services__blockchain/390.png",
+      "status": 200,
+      "title": "Blockchain Development Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 9466,
+        "imagesTotal": 21,
+        "imagesBroken": 1,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 52129
+    },
+    {
+      "route": "/services/blockchain/",
+      "width": 768,
+      "file": "services__blockchain/768.png",
+      "status": 200,
+      "title": "Blockchain Development Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 7250,
+        "imagesTotal": 21,
+        "imagesBroken": 1,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 10563
+    },
+    {
+      "route": "/services/data-science-engineering/",
+      "width": 1024,
+      "file": "services__data-science-engineering/1024.png",
+      "status": 200,
+      "title": "Data Science & Engineering Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 7577,
+        "imagesTotal": 25,
+        "imagesBroken": 1,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 9509
+    },
+    {
+      "route": "/services/data-science-engineering/",
+      "width": 1440,
+      "file": "services__data-science-engineering/1440.png",
+      "status": 200,
+      "title": "Data Science & Engineering Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 5913,
+        "imagesTotal": 25,
+        "imagesBroken": 1,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 9380
+    },
+    {
+      "route": "/services/data-science-engineering/",
+      "width": 1920,
+      "file": "services__data-science-engineering/1920.png",
+      "status": 200,
+      "title": "Data Science & Engineering Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 5913,
+        "imagesTotal": 25,
+        "imagesBroken": 1,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 10560
+    },
+    {
+      "route": "/services/data-science-engineering/",
+      "width": 390,
+      "file": "services__data-science-engineering/390.png",
+      "status": 200,
+      "title": "Data Science & Engineering Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 10945,
+        "imagesTotal": 25,
+        "imagesBroken": 1,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 51725
+    },
+    {
+      "route": "/services/data-science-engineering/",
+      "width": 768,
+      "file": "services__data-science-engineering/768.png",
+      "status": 200,
+      "title": "Data Science & Engineering Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 7701,
+        "imagesTotal": 25,
+        "imagesBroken": 1,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 10296
+    },
+    {
+      "route": "/services/it-consulting-support/",
+      "width": 1024,
+      "file": "services__it-consulting-support/1024.png",
+      "status": 200,
+      "title": "IT Consulting & Support Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 7541,
+        "imagesTotal": 24,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 11780
+    },
+    {
+      "route": "/services/it-consulting-support/",
+      "width": 1440,
+      "file": "services__it-consulting-support/1440.png",
+      "status": 200,
+      "title": "IT Consulting & Support Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 5901,
+        "imagesTotal": 24,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 9671
+    },
+    {
+      "route": "/services/it-consulting-support/",
+      "width": 1920,
+      "file": "services__it-consulting-support/1920.png",
+      "status": 200,
+      "title": "IT Consulting & Support Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 5901,
+        "imagesTotal": 24,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 10545
+    },
+    {
+      "route": "/services/it-consulting-support/",
+      "width": 390,
+      "file": "services__it-consulting-support/390.png",
+      "status": 200,
+      "title": "IT Consulting & Support Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 10944,
+        "imagesTotal": 24,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 50962
+    },
+    {
+      "route": "/services/it-consulting-support/",
+      "width": 768,
+      "file": "services__it-consulting-support/768.png",
+      "status": 200,
+      "title": "IT Consulting & Support Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 7624,
+        "imagesTotal": 24,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 10559
+    },
+    {
+      "route": "/services/saas/",
+      "width": 1024,
+      "file": "services__saas/1024.png",
+      "status": 200,
+      "title": "SaaS Development Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 7811,
+        "imagesTotal": 25,
+        "imagesBroken": 1,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 9773
+    },
+    {
+      "route": "/services/saas/",
+      "width": 1440,
+      "file": "services__saas/1440.png",
+      "status": 200,
+      "title": "SaaS Development Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 5841,
+        "imagesTotal": 25,
+        "imagesBroken": 1,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 11530
+    },
+    {
+      "route": "/services/saas/",
+      "width": 1920,
+      "file": "services__saas/1920.png",
+      "status": 200,
+      "title": "SaaS Development Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 5841,
+        "imagesTotal": 25,
+        "imagesBroken": 1,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 9551
+    },
+    {
+      "route": "/services/saas/",
+      "width": 390,
+      "file": "services__saas/390.png",
+      "status": 200,
+      "title": "SaaS Development Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 10684,
+        "imagesTotal": 25,
+        "imagesBroken": 1,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 49695
+    },
+    {
+      "route": "/services/saas/",
+      "width": 768,
+      "file": "services__saas/768.png",
+      "status": 200,
+      "title": "SaaS Development Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 7775,
+        "imagesTotal": 25,
+        "imagesBroken": 1,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 10332
+    },
+    {
+      "route": "/services/salesforce/",
+      "width": 1024,
+      "file": "services__salesforce/1024.png",
+      "status": 200,
+      "title": "Salesforce Consulting Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 6075,
+        "imagesTotal": 18,
+        "imagesBroken": 4,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 12591
+    },
+    {
+      "route": "/services/salesforce/",
+      "width": 1440,
+      "file": "services__salesforce/1440.png",
+      "status": 200,
+      "title": "Salesforce Consulting Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 4582,
+        "imagesTotal": 18,
+        "imagesBroken": 4,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 9335
+    },
+    {
+      "route": "/services/salesforce/",
+      "width": 1920,
+      "file": "services__salesforce/1920.png",
+      "status": 200,
+      "title": "Salesforce Consulting Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 4582,
+        "imagesTotal": 18,
+        "imagesBroken": 4,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 10804
+    },
+    {
+      "route": "/services/salesforce/",
+      "width": 390,
+      "file": "services__salesforce/390.png",
+      "status": 200,
+      "title": "Salesforce Consulting Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 7968,
+        "imagesTotal": 18,
+        "imagesBroken": 4,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 49132
+    },
+    {
+      "route": "/services/salesforce/",
+      "width": 768,
+      "file": "services__salesforce/768.png",
+      "status": 200,
+      "title": "Salesforce Consulting Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 6588,
+        "imagesTotal": 18,
+        "imagesBroken": 4,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 11540
+    },
+    {
+      "route": "/talent-acquisition/",
+      "width": 1024,
+      "file": "talent-acquisition/1024.png",
+      "status": 200,
+      "title": "Talent Acquisition Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 4020,
+        "imagesTotal": 6,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 8470
+    },
+    {
+      "route": "/talent-acquisition/",
+      "width": 1440,
+      "file": "talent-acquisition/1440.png",
+      "status": 200,
+      "title": "Talent Acquisition Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 3166,
+        "imagesTotal": 6,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 8821
+    },
+    {
+      "route": "/talent-acquisition/",
+      "width": 1920,
+      "file": "talent-acquisition/1920.png",
+      "status": 200,
+      "title": "Talent Acquisition Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 3166,
+        "imagesTotal": 6,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 8639
+    },
+    {
+      "route": "/talent-acquisition/",
+      "width": 390,
+      "file": "talent-acquisition/390.png",
+      "status": 200,
+      "title": "Talent Acquisition Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 5709,
+        "imagesTotal": 6,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 8333
+    },
+    {
+      "route": "/talent-acquisition/",
+      "width": 768,
+      "file": "talent-acquisition/768.png",
+      "status": 200,
+      "title": "Talent Acquisition Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 4352,
+        "imagesTotal": 6,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 8546
+    },
+    {
+      "route": "/technology/",
+      "width": 1024,
+      "file": "technology/1024.png",
+      "status": 200,
+      "title": "Technology - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 4845,
+        "imagesTotal": 9,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 8490
+    },
+    {
+      "route": "/technology/",
+      "width": 1440,
+      "file": "technology/1440.png",
+      "status": 200,
+      "title": "Technology - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 3645,
+        "imagesTotal": 9,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 7727
+    },
+    {
+      "route": "/technology/",
+      "width": 1920,
+      "file": "technology/1920.png",
+      "status": 200,
+      "title": "Technology - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 3645,
+        "imagesTotal": 9,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 8328
+    },
+    {
+      "route": "/technology/",
+      "width": 390,
+      "file": "technology/390.png",
+      "status": 200,
+      "title": "Technology - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 6893,
+        "imagesTotal": 9,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 47953
+    },
+    {
+      "route": "/technology/",
+      "width": 768,
+      "file": "technology/768.png",
+      "status": 200,
+      "title": "Technology - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 4883,
+        "imagesTotal": 9,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 8693
+    },
+    {
+      "route": "/technology/agentic-ai/",
+      "width": 1024,
+      "file": "technology__agentic-ai/1024.png",
+      "status": 200,
+      "title": "Agentic AI Solutions | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 5511,
+        "imagesTotal": 17,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 49158
+    },
+    {
+      "route": "/technology/agentic-ai/",
+      "width": 1440,
+      "file": "technology__agentic-ai/1440.png",
+      "status": 200,
+      "title": "Agentic AI Solutions | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 4489,
+        "imagesTotal": 17,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 49050
+    },
+    {
+      "route": "/technology/agentic-ai/",
+      "width": 1920,
+      "file": "technology__agentic-ai/1920.png",
+      "status": 200,
+      "title": "Agentic AI Solutions | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 4489,
+        "imagesTotal": 17,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 48741
+    },
+    {
+      "route": "/technology/agentic-ai/",
+      "width": 390,
+      "file": "technology__agentic-ai/390.png",
+      "status": 200,
+      "title": "Agentic AI Solutions | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 7884,
+        "imagesTotal": 17,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 48430
+    },
+    {
+      "route": "/technology/agentic-ai/",
+      "width": 768,
+      "file": "technology__agentic-ai/768.png",
+      "status": 200,
+      "title": "Agentic AI Solutions | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 5982,
+        "imagesTotal": 17,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 48481
+    },
+    {
+      "route": "/technology/coldfusion/",
+      "width": 1024,
+      "file": "technology__coldfusion/1024.png",
+      "status": 200,
+      "title": "ColdFusion Development Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 8645,
+        "imagesTotal": 24,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 50724
+    },
+    {
+      "route": "/technology/coldfusion/",
+      "width": 1440,
+      "file": "technology__coldfusion/1440.png",
+      "status": 200,
+      "title": "ColdFusion Development Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 6283,
+        "imagesTotal": 24,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 18973
+    },
+    {
+      "route": "/technology/coldfusion/",
+      "width": 1920,
+      "file": "technology__coldfusion/1920.png",
+      "status": 200,
+      "title": "ColdFusion Development Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 6442,
+        "imagesTotal": 24,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 17976
+    },
+    {
+      "route": "/technology/coldfusion/",
+      "width": 390,
+      "file": "technology__coldfusion/390.png",
+      "status": 200,
+      "title": "ColdFusion Development Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 10524,
+        "imagesTotal": 24,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 49752
+    },
+    {
+      "route": "/technology/coldfusion/",
+      "width": 768,
+      "file": "technology__coldfusion/768.png",
+      "status": 200,
+      "title": "ColdFusion Development Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 8201,
+        "imagesTotal": 24,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 50580
+    },
+    {
+      "route": "/technology/docker/",
+      "width": 1024,
+      "file": "technology__docker/1024.png",
+      "status": 200,
+      "title": "Docker Consulting Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 5635,
+        "imagesTotal": 14,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 8974
+    },
+    {
+      "route": "/technology/docker/",
+      "width": 1440,
+      "file": "technology__docker/1440.png",
+      "status": 200,
+      "title": "Docker Consulting Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 4227,
+        "imagesTotal": 14,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 8856
+    },
+    {
+      "route": "/technology/docker/",
+      "width": 1920,
+      "file": "technology__docker/1920.png",
+      "status": 200,
+      "title": "Docker Consulting Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 4227,
+        "imagesTotal": 14,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 8638
+    },
+    {
+      "route": "/technology/docker/",
+      "width": 390,
+      "file": "technology__docker/390.png",
+      "status": 200,
+      "title": "Docker Consulting Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 7135,
+        "imagesTotal": 14,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 51546
+    },
+    {
+      "route": "/technology/docker/",
+      "width": 768,
+      "file": "technology__docker/768.png",
+      "status": 200,
+      "title": "Docker Consulting Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 5573,
+        "imagesTotal": 14,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 9705
+    },
+    {
+      "route": "/technology/google-cloud-platform-services/",
+      "width": 1024,
+      "file": "technology__google-cloud-platform-services/1024.png",
+      "status": 200,
+      "title": "Google Cloud Platform Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 3708,
+        "imagesTotal": 8,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 8806
+    },
+    {
+      "route": "/technology/google-cloud-platform-services/",
+      "width": 1440,
+      "file": "technology__google-cloud-platform-services/1440.png",
+      "status": 200,
+      "title": "Google Cloud Platform Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 3000,
+        "imagesTotal": 8,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 8036
+    },
+    {
+      "route": "/technology/google-cloud-platform-services/",
+      "width": 1920,
+      "file": "technology__google-cloud-platform-services/1920.png",
+      "status": 200,
+      "title": "Google Cloud Platform Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 3000,
+        "imagesTotal": 8,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 8408
+    },
+    {
+      "route": "/technology/google-cloud-platform-services/",
+      "width": 390,
+      "file": "technology__google-cloud-platform-services/390.png",
+      "status": 200,
+      "title": "Google Cloud Platform Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 4987,
+        "imagesTotal": 8,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 49374
+    },
+    {
+      "route": "/technology/google-cloud-platform-services/",
+      "width": 768,
+      "file": "technology__google-cloud-platform-services/768.png",
+      "status": 200,
+      "title": "Google Cloud Platform Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 3962,
+        "imagesTotal": 8,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 8172
+    },
+    {
+      "route": "/technology/ios-app-development/",
+      "width": 1024,
+      "file": "technology__ios-app-development/1024.png",
+      "status": 200,
+      "title": "iOS App Development | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 6942,
+        "imagesTotal": 17,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 9242
+    },
+    {
+      "route": "/technology/ios-app-development/",
+      "width": 1440,
+      "file": "technology__ios-app-development/1440.png",
+      "status": 200,
+      "title": "iOS App Development | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 5583,
+        "imagesTotal": 17,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 8901
+    },
+    {
+      "route": "/technology/ios-app-development/",
+      "width": 1920,
+      "file": "technology__ios-app-development/1920.png",
+      "status": 200,
+      "title": "iOS App Development | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 5583,
+        "imagesTotal": 17,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 9282
+    },
+    {
+      "route": "/technology/ios-app-development/",
+      "width": 390,
+      "file": "technology__ios-app-development/390.png",
+      "status": 200,
+      "title": "iOS App Development | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 9560,
+        "imagesTotal": 17,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 50726
+    },
+    {
+      "route": "/technology/ios-app-development/",
+      "width": 768,
+      "file": "technology__ios-app-development/768.png",
+      "status": 200,
+      "title": "iOS App Development | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 6923,
+        "imagesTotal": 17,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 9482
+    },
+    {
+      "route": "/technology/natural-language-processing-solutions/",
+      "width": 1024,
+      "file": "technology__natural-language-processing-solutions/1024.png",
+      "status": 200,
+      "title": "Natural Language Processing Solutions | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 7126,
+        "imagesTotal": 17,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 10869
+    },
+    {
+      "route": "/technology/natural-language-processing-solutions/",
+      "width": 1440,
+      "file": "technology__natural-language-processing-solutions/1440.png",
+      "status": 200,
+      "title": "Natural Language Processing Solutions | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 5717,
+        "imagesTotal": 17,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 11126
+    },
+    {
+      "route": "/technology/natural-language-processing-solutions/",
+      "width": 1920,
+      "file": "technology__natural-language-processing-solutions/1920.png",
+      "status": 200,
+      "title": "Natural Language Processing Solutions | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 5717,
+        "imagesTotal": 17,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 9925
+    },
+    {
+      "route": "/technology/natural-language-processing-solutions/",
+      "width": 390,
+      "file": "technology__natural-language-processing-solutions/390.png",
+      "status": 200,
+      "title": "Natural Language Processing Solutions | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 10015,
+        "imagesTotal": 17,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 50380
+    },
+    {
+      "route": "/technology/natural-language-processing-solutions/",
+      "width": 768,
+      "file": "technology__natural-language-processing-solutions/768.png",
+      "status": 200,
+      "title": "Natural Language Processing Solutions | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 7136,
+        "imagesTotal": 17,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 10216
+    },
+    {
+      "route": "/technology/pythonpython-development-services/",
+      "width": 1024,
+      "file": "technology__pythonpython-development-services/1024.png",
+      "status": 200,
+      "title": "Python Development Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 6566,
+        "imagesTotal": 23,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 9178
+    },
+    {
+      "route": "/technology/pythonpython-development-services/",
+      "width": 1440,
+      "file": "technology__pythonpython-development-services/1440.png",
+      "status": 200,
+      "title": "Python Development Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 5002,
+        "imagesTotal": 23,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 9198
+    },
+    {
+      "route": "/technology/pythonpython-development-services/",
+      "width": 1920,
+      "file": "technology__pythonpython-development-services/1920.png",
+      "status": 200,
+      "title": "Python Development Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 5002,
+        "imagesTotal": 23,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 9087
+    },
+    {
+      "route": "/technology/pythonpython-development-services/",
+      "width": 390,
+      "file": "technology__pythonpython-development-services/390.png",
+      "status": 200,
+      "title": "Python Development Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 9433,
+        "imagesTotal": 23,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 51544
+    },
+    {
+      "route": "/technology/pythonpython-development-services/",
+      "width": 768,
+      "file": "technology__pythonpython-development-services/768.png",
+      "status": 200,
+      "title": "Python Development Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 6440,
+        "imagesTotal": 23,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 9568
+    },
+    {
+      "route": "/technology/react-js-development-services/",
+      "width": 1024,
+      "file": "technology__react-js-development-services/1024.png",
+      "status": 200,
+      "title": "React.js Development Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 6218,
+        "imagesTotal": 20,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 9254
+    },
+    {
+      "route": "/technology/react-js-development-services/",
+      "width": 1440,
+      "file": "technology__react-js-development-services/1440.png",
+      "status": 200,
+      "title": "React.js Development Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 4680,
+        "imagesTotal": 20,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 8685
+    },
+    {
+      "route": "/technology/react-js-development-services/",
+      "width": 1920,
+      "file": "technology__react-js-development-services/1920.png",
+      "status": 200,
+      "title": "React.js Development Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 4680,
+        "imagesTotal": 20,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 9008
+    },
+    {
+      "route": "/technology/react-js-development-services/",
+      "width": 390,
+      "file": "technology__react-js-development-services/390.png",
+      "status": 200,
+      "title": "React.js Development Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 8152,
+        "imagesTotal": 20,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 49520
+    },
+    {
+      "route": "/technology/react-js-development-services/",
+      "width": 768,
+      "file": "technology__react-js-development-services/768.png",
+      "status": 200,
+      "title": "React.js Development Services | Techversant",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 6065,
+        "imagesTotal": 20,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 8792
+    },
+    {
+      "route": "/techversant-hosts-the-team-from-baverian-state-ministry-feb-2026/",
+      "width": 1024,
+      "file": "techversant-hosts-the-team-from-baverian-state-ministry-feb-2026/1024.png",
+      "status": 200,
+      "title": "Techversant hosts the team from Bavarian State Ministry - Feb 2026 - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 4512,
+        "imagesTotal": 7,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 9083
+    },
+    {
+      "route": "/techversant-hosts-the-team-from-baverian-state-ministry-feb-2026/",
+      "width": 1440,
+      "file": "techversant-hosts-the-team-from-baverian-state-ministry-feb-2026/1440.png",
+      "status": 200,
+      "title": "Techversant hosts the team from Bavarian State Ministry - Feb 2026 - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 4506,
+        "imagesTotal": 7,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 9995
+    },
+    {
+      "route": "/techversant-hosts-the-team-from-baverian-state-ministry-feb-2026/",
+      "width": 1920,
+      "file": "techversant-hosts-the-team-from-baverian-state-ministry-feb-2026/1920.png",
+      "status": 200,
+      "title": "Techversant hosts the team from Bavarian State Ministry - Feb 2026 - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 4449,
+        "imagesTotal": 7,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 9034
+    },
+    {
+      "route": "/techversant-hosts-the-team-from-baverian-state-ministry-feb-2026/",
+      "width": 390,
+      "file": "techversant-hosts-the-team-from-baverian-state-ministry-feb-2026/390.png",
+      "status": 200,
+      "title": "Techversant hosts the team from Bavarian State Ministry - Feb 2026 - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 3052,
+        "imagesTotal": 7,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 16781
+    },
+    {
+      "route": "/techversant-hosts-the-team-from-baverian-state-ministry-feb-2026/",
+      "width": 768,
+      "file": "techversant-hosts-the-team-from-baverian-state-ministry-feb-2026/768.png",
+      "status": 200,
+      "title": "Techversant hosts the team from Bavarian State Ministry - Feb 2026 - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 3906,
+        "imagesTotal": 7,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 9743
+    },
+    {
+      "route": "/techversant-is-iso-270012022-certified-and-gdpr-compliant/",
+      "width": 1024,
+      "file": "techversant-is-iso-270012022-certified-and-gdpr-compliant/1024.png",
+      "status": 200,
+      "title": "Techversant is ISO 27001:2022 Certified and GDPR Compliant - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 2545,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 7181
+    },
+    {
+      "route": "/techversant-is-iso-270012022-certified-and-gdpr-compliant/",
+      "width": 1440,
+      "file": "techversant-is-iso-270012022-certified-and-gdpr-compliant/1440.png",
+      "status": 200,
+      "title": "Techversant is ISO 27001:2022 Certified and GDPR Compliant - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 2335,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 7809
+    },
+    {
+      "route": "/techversant-is-iso-270012022-certified-and-gdpr-compliant/",
+      "width": 1920,
+      "file": "techversant-is-iso-270012022-certified-and-gdpr-compliant/1920.png",
+      "status": 200,
+      "title": "Techversant is ISO 27001:2022 Certified and GDPR Compliant - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 2308,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 7145
+    },
+    {
+      "route": "/techversant-is-iso-270012022-certified-and-gdpr-compliant/",
+      "width": 390,
+      "file": "techversant-is-iso-270012022-certified-and-gdpr-compliant/390.png",
+      "status": 200,
+      "title": "Techversant is ISO 27001:2022 Certified and GDPR Compliant - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 1886,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 15181
+    },
+    {
+      "route": "/techversant-is-iso-270012022-certified-and-gdpr-compliant/",
+      "width": 768,
+      "file": "techversant-is-iso-270012022-certified-and-gdpr-compliant/768.png",
+      "status": 200,
+      "title": "Techversant is ISO 27001:2022 Certified and GDPR Compliant - Techversant Infotech",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 2389,
+        "imagesTotal": 5,
+        "imagesBroken": 0,
+        "swipers": 0,
+        "videos": []
+      },
+      "ms": 7163
+    },
+    {
+      "route": "/who-we-are/",
+      "width": 1024,
+      "file": "who-we-are/1024.png",
+      "status": 200,
+      "title": "About Techversant | AI & Software Experts",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 9671,
+        "imagesTotal": 56,
+        "imagesBroken": 10,
+        "swipers": 1,
+        "videos": []
+      },
+      "ms": 18954
+    },
+    {
+      "route": "/who-we-are/",
+      "width": 1440,
+      "file": "who-we-are/1440.png",
+      "status": 200,
+      "title": "About Techversant | AI & Software Experts",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 7521,
+        "imagesTotal": 56,
+        "imagesBroken": 10,
+        "swipers": 1,
+        "videos": []
+      },
+      "ms": 17453
+    },
+    {
+      "route": "/who-we-are/",
+      "width": 1920,
+      "file": "who-we-are/1920.png",
+      "status": 200,
+      "title": "About Techversant | AI & Software Experts",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 7521,
+        "imagesTotal": 56,
+        "imagesBroken": 10,
+        "swipers": 1,
+        "videos": []
+      },
+      "ms": 15593
+    },
+    {
+      "route": "/who-we-are/",
+      "width": 390,
+      "file": "who-we-are/390.png",
+      "status": 200,
+      "title": "About Techversant | AI & Software Experts",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 13557,
+        "imagesTotal": 56,
+        "imagesBroken": 10,
+        "swipers": 1,
+        "videos": []
+      },
+      "ms": 15772
+    },
+    {
+      "route": "/who-we-are/",
+      "width": 768,
+      "file": "who-we-are/768.png",
+      "status": 200,
+      "title": "About Techversant | AI & Software Experts",
+      "overflowX": 4,
+      "prepare": {
+        "docHeight": 9832,
+        "imagesTotal": 56,
+        "imagesBroken": 10,
+        "swipers": 1,
+        "videos": []
+      },
+      "ms": 57040
+    }
+  ]
+}

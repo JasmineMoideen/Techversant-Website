@@ -1,0 +1,10 @@
+#cookie-banner{position:fixed;bottom:0;width:100%;background:#222;color:#fff;padding:15px;text-align:center;z-index:9999;display:none}
+  #cookie-banner button{padding:6px 12px;border:none;margin:5px;cursor:pointer}
+  .btn-accept{background:#00bae0;color:#fff}
+  .btn-reject{background:#555;color:#fff}
+  .btn-settings{background:#999;color:#fff}
+  #cookie-settings{display:none;position:fixed;bottom:100px;left:50%;transform:translateX(-50%);background:#fff;color:#333;padding:20px;width:320px;max-width:90vw;border-radius:10px;box-shadow:0 10px 30px rgba(0,0,0,.2);z-index:10000}
+  #cookie-settings h3{margin-top:0;background:#00bae0;color:#fff;padding:10px;border-radius:6px;text-align:center}
+  .cookie-box{background:#f7f7f7;padding:10px;border-radius:6px;margin-bottom:10px;display:flex;justify-content:space-between;align-items:center}
+  .badge{background:#00bae0;color:#fff;padding:3px 8px;border-radius:12px;font-size:12px}
+  .close-btn{width:100%;padding:10px;background:#00bae0;color:#fff;border:none;border-radius:6px;cursor:pointer;font-weight:600}

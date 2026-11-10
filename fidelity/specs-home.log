@@ -1,0 +1,6 @@
+$ tsx scripts/capture/specs.ts --routes / --viewports 1440,1024,768,390,1920
+/                                                    @1440    405 elements, docHeight 6815, 179 KB
+/                                                    @1024    383 elements, docHeight 9650, 169 KB
+/                                                    @768     381 elements, docHeight 10712, 170 KB
+/                                                    @390     388 elements, docHeight 9503, 175 KB
+/                                                    @1920    405 elements, docHeight 7047, 179 KB

@@ -1,0 +1,47 @@
+/*
+ * Design tokens — measured from the live site (computed styles via `pnpm fidelity:specs`) and the Elementor
+ * kit CSS (wp-content/uploads/elementor/css/post-7.css). Values are NOT guesses; add new ones only from
+ * measurements, and note the source.
+ */
+@theme {
+  /* Colors */
+  --color-primary: #6ec1e4; /* Elementor global "primary" */
+  --color-secondary: #54595f; /* Elementor global "secondary" */
+  --color-body: #7a7a7a; /* Elementor global "text" */
+  --color-accent: #61ce70; /* Elementor global "accent" */
+  --color-cyan: #00bae0; /* buttons (rgb 0,186,224) */
+  --color-blue: #00a2dd;
+  --color-navy: #0b334c; /* dark sections (rgb 11,51,76) */
+  --color-navy-2: #134e74;
+  --color-ice: #e5f6fc;
+  --color-sky: #95dcf5;
+  --color-ink: #000000;
+  --color-ink-2: #222222;
+  --color-slate: #69727d;
+  --color-paper: #ffffff;
+  --color-grey-1: #f6f6f6;
+  --color-grey-2: #d1d1d1;
+  --color-tile-overlay: rgba(83, 83, 83, 0.27); /* industry / technology tile overlay */
+
+  /* Typography */
+  --font-sans: var(--font-dm-sans), "DM Sans", sans-serif;
+
+  /* Radii (measured: 4 / 10 / 15 / 25 px, 50% for circles) */
+  --radius-xs: 4px;
+  --radius-base: 10px;
+  --radius-md: 15px;
+  --radius-lg: 25px;
+
+  /* Shadows (only one shadow value exists on the home page: the sticky header) */
+  --shadow-header: 0 0 25px 0 rgba(0, 0, 0, 0.06);
+
+  /* Breakpoints — Elementor: tablet <= 1024px, mobile <= 767px (so "desktop" starts at 1025px). */
+  --breakpoint-md: 768px;
+  --breakpoint-desk: 1025px;
+}
+
+:root {
+  --container-max: 1200px; /* Elementor kit --container-max-width */
+  --widgets-gap: 20px; /* Elementor kit widget spacing */
+  --header-height: 83.5px; /* measured at 1440px */
+}

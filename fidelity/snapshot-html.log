@@ -1,0 +1,209 @@
+$ tsx scripts/snapshot/html.ts
+206 routes, 206 to fetch
+  1/205 200   303 KB /capabilities/
+  2/205 200   317 KB /
+  3/205 200   240 KB /career/
+  4/205 200   212 KB /contact-us/
+  5/205 200   580 KB /customer-stories/
+  6/205 200   207 KB /events/
+  7/206 200   207 KB /dpa/
+  8/205 200   229 KB /industries/
+  9/205 200   190 KB /founder-ceo-of-techversant-joby-john-hyderabad-house-new-delhi-16-april-2026/
+ 10/205 200   235 KB /industries/agriculture-agritech/
+ 11/206 200   241 KB /industries/education-learning/
+ 12/205 200   238 KB /industries/energy-utilities/
+ 13/205 200   237 KB /industries/financial-services-fintech/
+ 14/205 200   240 KB /industries/healthcare-life-sciences/
+ 15/205 200   238 KB /industries/hr-workforce-management/
+ 16/205 200   239 KB /industries/logistics-transportation/
+ 17/205 200   239 KB /industries/manufacturing-industrial-automation/
+ 18/205 200   239 KB /industries/media-publishing/
+ 19/205 200   241 KB /industries/real-estate-property-management/
+ 20/205 200   239 KB /industries/retail-ecommerce/
+ 21/205 200   240 KB /industries/smart-cities-infrastructure/
+ 22/205 200   199 KB /jobs/
+ 23/206 200   239 KB /industries/travel-tourism/
+ 24/205 200   195 KB /jobs/ai-ml-engineer/
+ 25/205 200   188 KB /jobs/account-manager-technology-and-solutions/
+ 26/205 200   194 KB /jobs/associate-lead-software-engineer-java/
+ 27/206 200   189 KB /jobs/business-development-associate/
+ 28/205 200   198 KB /jobs/data-engineer/
+ 29/206 200   189 KB /jobs/coldfusion-developer/
+ 30/205 200   194 KB /jobs/lead-full-stack-developer-node-js-react/
+ 31/206 200   192 KB /jobs/data-scientist/
+ 32/205 200   194 KB /jobs/lead-full-stack-engineer-node-js-angular/
+ 33/206 200   188 KB /jobs/principal-database-engineer/
+ 34/205 200   186 KB /jobs/salesforce-associate-solution-architect/
+ 35/206 200   186 KB /jobs/salesforce-functional-consultant/
+ 36/205 200   195 KB /jobs/senior-ai-ml-engineer/
+ 37/205 200   186 KB /jobs/senior-associate-talent-acquisition/
+ 38/205 200   194 KB /jobs/senior-business-development-manager/
+ 39/206 200   191 KB /jobs/senior-business-development-executive/
+ 40/205 200   190 KB /jobs/senior-coldfusion-developer/
+ 41/206 200   192 KB /jobs/senior-data-scientist/
+ 42/205 200   188 KB /jobs/senior-database-engineer/
+ 43/206 200   190 KB /jobs/senior-python-developer/
+ 44/205 200   187 KB /jobs/senior-salesforce-developer-technical-consultant/
+ 45/205 200   186 KB /jobs/senior-servicenow-developer-technical-consultant/
+ 46/205 200   192 KB /jobs/senior-software-engineer-java/
+ 47/205 200   191 KB /jobs/senior-software-engineer-net/
+ 48/205 200   189 KB /jobs/senior-software-engineer-node-js/
+ 49/206 200   190 KB /jobs/senior-software-engineer-next-js/
+ 50/205 200   199 KB /jobs/senior-technical-lead-architect/
+ 51/206 200   191 KB /jobs/senior-software-engineer-react-js/
+ 52/205 200   186 KB /jobs/servicenow-architect-associate-architect/
+ 53/205 200   185 KB /jobs/servicenow-functional-consultant/
+ 54/205 200   192 KB /jobs/software-engineer-java/
+ 55/205 200   189 KB /jobs/team-lead-ai-ml/
+ 56/205 200   192 KB /jobs/team-lead-coldfusion/
+ 57/206 200   191 KB /jobs/team-lead-net/
+ 58/205 200   195 KB /jobs/technical-architect-ai-ml/
+ 59/206 200   191 KB /jobs/technical-architect-python/
+ 60/205 200   191 KB /jobs/technical-lead-java/
+ 61/205 200   191 KB /jobs/technical-lead-net/
+ 62/205 200   197 KB /jobs/technical-program-manager-tpm/
+ 63/205 200   191 KB /jobs/technical-lead-python/
+ 64/206 200   193 KB /jobs/technical-recruitment-lead/
+ 65/205 200   187 KB /jobs/ui-ux-designer/
+ 66/206 200   190 KB /jobs/ux-associate-lead/
+ 67/205 200   190 KB /jobs/web-developer/
+ 68/205 200   192 KB /joby-john-founder-ceo-of-techversant-at-the-india-canada-ceo-forum-new-delhi-2-march-2026/
+ 69/205 200   191 KB /joby-john-founder-ceo-of-techversant-hyderabad-house-new-delhi-16-april-2026/
+ 70/205 200   196 KB /joby-john-founder-ceo-of-techversant-indian-industry-delegation-canada-may-2026/
+ 71/205 200   207 KB /news/
+ 72/205 200   193 KB /privacy-policy/
+ 73/205 200   204 KB /project/uncategorized/
+ 74/205 200   197 KB /projects/a-mobile-friendly-platform-for-trend-analysis-and-route-planning/
+ 75/206 200   205 KB /projects/a-scalable-salon-management-platform/
+ 76/205 200   205 KB /projects/a-social-network-for-short-film-collaboration-and-showcase/
+ 77/205 200   199 KB /projects/advancing-agriculture-with-a-certified-seed-management-platform/
+ 78/205 200   209 KB /projects/agri-iot-device/
+ 79/205 200   201 KB /projects/agri-tech-platform-with-microfinance-and-project-monitoring/
+ 80/205 200   204 KB /projects/ai-driven-gpc-code-prediction/
+ 81/205 200   197 KB /projects/ai-driven-proctoring-solution/
+ 82/205 200   208 KB /projects/ai-enhanced-product-inventory-tracking-automation/
+ 83/205 200   203 KB /projects/ai-powered-cybersecurity/
+ 84/205 200   203 KB /projects/ai-powered-medical-records-automation/
+ 85/205 200   204 KB /projects/ai-powered-social-media-sentiment-analysis/
+ 86/205 200   201 KB /projects/automated-rooftop-solar-project-estimates-with-editable-projections/
+ 87/205 200   209 KB /projects/automatic-calling-system/
+ 88/205 200   204 KB /projects/blockchain-backed-property-management-platform/
+ 89/205 200   198 KB /projects/building-homes-building-trust-csr-housing-property-management-system/
+ 90/205 200   208 KB /projects/centralized-authentication-service-for-securing-microservices/
+ 91/205 200   206 KB /projects/connecting-medical-professionals-with-opportunities/
+ 92/205 200   207 KB /projects/deep-learning-model-for-product-logo-detection/
+ 93/205 200   206 KB /projects/digital-banking-platform-for-fintech-partners/
+ 94/205 200   202 KB /projects/digitizing-safety-compliance-for-high-risk-work-environments/
+ 95/205 200   203 KB /projects/driving-efficiency-in-telecom-operations-crm-billing-solution/
+ 96/205 200   212 KB /projects/e-commerce-price-comparison/
+ 97/205 200   199 KB /projects/dynamic-form-builder-and-runtime-platform/
+ 98/205 200   202 KB /projects/e-learning-platform-for-structured-and-scalable-training/
+ 99/205 200   203 KB /projects/elevating-e-commerce-with-seamless-enhancements/
+100/205 200   204 KB /projects/empowering-wealth-creation-with-a-next-gen-investment-platform/
+101/205 200   202 KB /projects/enabling-smarter-real-estate-decisions-educational-property-portal/
+102/205 200   200 KB /projects/enhancing-workforce-engagement-with-a-smart-feedback-platform/
+103/205 200   205 KB /projects/enterprise-hr-management-portal-for-digital-workforce-operations/
+104/205 200   207 KB /projects/evento/
+105/205 200   202 KB /projects/exploring-the-world-adventure-sports-travel-platform/
+106/205 200   204 KB /projects/farm-to-table-product-traceability-platform/
+107/205 200   206 KB /projects/guiding-communities-through-digital-connection/
+108/205 200   206 KB /projects/healthcare-e-learning-platform/
+109/205 200   203 KB /projects/heavy-vehicle-risk-assessment-platform/
+110/205 200   201 KB /projects/image-capture-validation-platform/
+111/205 200   202 KB /projects/industrial-iot-platform-for-energy-monitoring/
+112/205 200   201 KB /projects/iot-and-ai-powered-oil-gas-facility-management-system/
+113/205 200   202 KB /projects/knowledge-dissemination-and-collaboration-platform/
+114/205 200   207 KB /projects/lora-based-sensor-data-acquisition-system/
+115/205 200   203 KB /projects/lung-cancer-detection/
+116/205 200   204 KB /projects/menu-app/
+117/205 200   202 KB /projects/micro-loan-processing-platform/
+118/205 200   204 KB /projects/mlm-network-visualizer/
+119/205 200   202 KB /projects/modernizing-fleet-risk-management-with-a-driver-intelligence-platform/
+120/205 200   201 KB /projects/modernizing-healthcare-workflows-with-ai-powered-clinical-management/
+121/205 200   200 KB /projects/modernizing-vacation-rentals-with-a-scalable-net-powered-booking-platform/
+122/205 200   204 KB /projects/multimedia-enabled-learning-companion/
+123/205 200   202 KB /projects/music-distribution-saas-platform/
+124/205 200   201 KB /projects/ocph-roh-retail-platforms/
+125/205 200   202 KB /projects/optimizing-enterprise-workflows-with-a-service-request-management-system/
+126/205 200   200 KB /projects/optimizing-urban-mobility-ai-powered-smart-traffic-management-system/
+127/205 200   201 KB /projects/optimizing-veterinary-care-with-a-smart-scheduling-platform/
+128/205 200   195 KB /projects/pdf-convertor/
+129/205 200   200 KB /projects/pension-distributor/
+130/205 200   205 KB /projects/pension-verification-disbursal-application/
+131/205 200   198 KB /projects/real-estate-surveyor-platform-streamlining-property-inspections-bookings/
+132/205 200   207 KB /projects/real-time-risk-management-middleware-for-traders/
+133/205 200   204 KB /projects/resume-builder-web-application/
+134/205 200   197 KB /projects/retail-fashion-engagement-platform/
+135/205 200   203 KB /projects/revolutionizing-on-demand-transportation/
+136/205 200   203 KB /projects/revolutionizing-product-intake-with-a-dynamic-workflow-solution/
+137/205 200   201 KB /projects/revolutionizing-urban-mobility-ai-powered-smart-parking-management-system/
+138/205 200   200 KB /projects/roofarea-detection/
+139/206 200   199 KB /projects/scaling-digital-rentals-with-a-full-service-property-management-platform/
+140/205 200   205 KB /projects/secure-lead-retrieval-system-a-devops-enhanced-solution-for-event-management/
+141/205 200   206 KB /projects/seamless-fitness-booking-payment-platform-for-health-clubs/
+142/205 200   203 KB /projects/securing-utility-ecosystems-centralized-authentication-authorization-server/
+143/206 200   205 KB /projects/secure-license-management/
+144/205 200   202 KB /projects/streamlining-agricultural-trade-ai-enabled-agritech-e-commerce-platform/
+145/206 200   203 KB /projects/streamlining-digital-learning-and-classroom-management-for-educational-institutions/
+146/205 200   201 KB /projects/streamlining-healthcare-with-an-advanced-records-platform/
+147/206 200   202 KB /projects/streamlining-hospitality-operations-restaurant-management-system/
+148/205 200   201 KB /projects/the-unified-church-engagement-platform/
+149/206 200   200 KB /projects/streamlining-media-processingserverless-video-conversion-platform/
+150/205 200   201 KB /projects/transforming-higher-education-ai-powered-smart-university-city-system/
+151/206 200   201 KB /projects/transforming-campus-sustainability-ai-powered-smart-waste-management-system/
+152/205 200   204 KB /projects/transforming-wound-care-with-ai-powered-diagnosis/
+153/205 200   209 KB /projects/urban-infrastructure-management-system/
+154/205 200   204 KB /projects/video-marketing-platform-for-golf-courses/
+155/205 200   204 KB /projects/web-crawler-for-compliance-auditing/
+156/205 200   205 KB /projects/workplace-safety-companion-app-mobile-solution-for-compliance-on-the-go/
+157/205 200   207 KB /projects/yacht-matching-and-client-management-for-brokers-and-inter-brokers/
+158/206 200   245 KB /services/
+159/205 200   249 KB /services/artificial-intelligence/
+160/205 200   234 KB /services/blockchain/
+161/205 200   246 KB /services/business-intelligence/
+162/205 200   241 KB /services/cyber-security/
+163/205 200   245 KB /services/data-science-engineering/
+164/205 200   242 KB /services/devops/
+165/205 200   246 KB /services/iot-development/
+166/205 200   246 KB /services/it-consulting-support/
+167/205 200   244 KB /services/mobile-application/
+168/205 200   246 KB /services/quality-assurance/
+169/205 200   245 KB /services/saas/
+170/205 200   226 KB /services/salesforce/
+171/205 200   227 KB /services/servicenow/
+172/205 200   245 KB /services/web-application/
+173/205 200   231 KB /services/zoho-services/
+174/205 200   211 KB /talent-acquisition/
+175/205 200   282 KB /technology/
+176/206 200   239 KB /technology/agentic-ai/
+177/205 200   232 KB /technology/angular/
+178/206 200   238 KB /technology/android/
+179/205 200   223 KB /technology/aws/
+180/206 200   218 KB /technology/azure/
+181/205 200   252 KB /technology/coldfusion/
+182/205 200   234 KB /technology/computer-vision/
+183/205 200   223 KB /technology/docker/
+184/205 200   247 KB /technology/dot-net/
+185/205 200   237 KB /technology/flutter-app-development/
+186/205 200   233 KB /technology/go-development-services/
+187/205 200   209 KB /technology/google-cloud-platform-services/
+188/205 200   237 KB /technology/ios-app-development/
+189/205 200   233 KB /technology/java-development-services/
+190/205 200   226 KB /technology/kotlin-app-development/
+191/205 200   220 KB /technology/kubernetes-consulting-services/
+192/205 200   232 KB /technology/moodle-development-services/
+193/205 200   243 KB /technology/natural-language-processing-solutions/
+194/205 200   235 KB /technology/node-js-development-services/
+195/205 200   217 KB /technology/objective-c-development-services/
+196/205 200   234 KB /technology/php/
+197/205 200   224 KB /technology/pytorch-development-services/
+198/205 200   252 KB /technology/pythonpython-development-services/
+199/206 200   239 KB /technology/react-js-development-services/
+200/205 200   243 KB /technology/react-native-development-services/
+201/205 200   230 KB /technology/swift-app-development/
+202/205 200   228 KB /technology/tensorflow-development-services/
+203/205 200   211 KB /technology/ui-ux-design-services/
+204/205 200   192 KB /techversant-hosts-the-team-from-baverian-state-ministry-feb-2026/
+205/205 200   189 KB /techversant-is-iso-270012022-certified-and-gdpr-compliant/
+206/206 200   354 KB /who-we-are/
+done
